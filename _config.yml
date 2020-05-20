@@ -1,0 +1,27 @@
+title:               My digital garden
+include:             ['_pages']
+
+permalink:           pretty
+relative_permalinks: false
+
+plugins:
+  - jekyll-last-modified-at
+
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+collections:
+  notes:
+    output: true
+    permalink: /:path
+
+defaults:
+  - scope:
+      path: "**/*"
+    values:
+      layout: "default"
+  - scope:
+      path: "_notes/**/*.md"
+    values:
+      layout: "note"
