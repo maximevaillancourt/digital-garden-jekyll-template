@@ -10,6 +10,7 @@ Preview the template here: https://digital-garden-jekyll-template.netlify.app/
 
 - Based on Jekyll, a static website generator
 - Creates backlinks to other notes automatically
+- Supports Roam-style double bracket link syntax to other notes
 - Features a simple and responsive design
 - Supports Markdown or HTML notes
 

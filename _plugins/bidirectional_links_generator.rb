@@ -1,11 +1,17 @@
 # frozen_string_literal: true
-
 class BidirectionalLinksGenerator < Jekyll::Generator
   def generate(site)
-    notes = site.collections['notes'].docs
+    all_notes = site.collections['notes'].docs
 
-    notes.each do |current_note|
-      notes_linking_to_current_note = notes.filter do |e|
+    all_notes.each do |current_note|
+      all_notes.each do |note_potentially_linked_to|
+        current_note.content = current_note.content.gsub(
+          /\[\[#{note_potentially_linked_to.data['title']}\]\]/i,
+          "<a class='internal-link' href='#{note_potentially_linked_to.url}'>#{note_potentially_linked_to.data['title']}</a>"
+        )
+      end
+
+      notes_linking_to_current_note = all_notes.filter do |e|
         e.content.include?(current_note.url)
       end
 
