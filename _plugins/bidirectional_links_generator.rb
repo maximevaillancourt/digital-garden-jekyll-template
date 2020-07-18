@@ -2,9 +2,12 @@
 class BidirectionalLinksGenerator < Jekyll::Generator
   def generate(site)
     all_notes = site.collections['notes'].docs
+    all_pages = site.pages
 
-    all_notes.each do |current_note|
-      all_notes.each do |note_potentially_linked_to|
+    all_docs = all_notes + all_pages
+
+    all_docs.each do |current_note|
+      all_docs.each do |note_potentially_linked_to|
         current_note.content = current_note.content.gsub(
           /\[\[#{note_potentially_linked_to.data['title']}\]\]/i,
           "<a class='internal-link' href='#{note_potentially_linked_to.url}'>#{note_potentially_linked_to.data['title']}</a>"
