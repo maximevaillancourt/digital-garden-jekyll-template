@@ -8,12 +8,18 @@ permalink: /
 # Welcome! 🌱
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Take a look at <span style="font-weight: bold">[[Your first seed]]</span> to get started on your exploration.
+  > Context rules everything around me
 </p>
 
-This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
+- Me
 
-The easiest way to get started is to read this [step-by-step guide explaining how to set this up from scratch](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll). If you need any help, my [DMs are open on Twitter (@vaillancourtmax)](https://twitter.com/vaillancourtmax). Say hi! 👋
+This is a good of a summary of what I hope for this space to become.
+
+<blockquote class="quoteback" darkmode="" data-title="%F0%9F%95%B4%EF%B8%8F%F0%9F%95%B4%EF%B8%8FAn%20Announcement%F0%9F%95%B4%EF%B8%8F%F0%9F%95%B4%EF%B8%8F" data-author="Drew Austin" cite="https://kneelingbus.substack.com/">
+                      The best reason to create something is because you want to see it in the world but it doesn’t already exist, and I often find myself pining for urbanism essays that nobody else is writing. 
+                      <footer>Drew Austin <cite><a href="https://kneelingbus.substack.com/">https://kneelingbus.substack.com/</a></cite></footer>
+                      </blockquote>
+                      <script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
 
 <style>
   .wrapper {
