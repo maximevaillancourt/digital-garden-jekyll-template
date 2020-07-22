@@ -83,6 +83,16 @@ a {
     color: black !important;
     background: #fffaf1;
   }
+  &:after {
+    position: relative;
+    top: -0.5em;
+    font-size: 0.7em;
+    content: "↗";
+    color: #aaaaaa;
+  }
+  &.internal-link:after {
+    content: "";
+  }
 }
 
 *:focus {
@@ -115,4 +125,10 @@ ul {
   background: $color-box-background;
   padding: 1em;
   border-radius: $border-radius;
+}
+
+code {
+  background: #f5f5f5;
+  padding: 0.1em 0.2em;
+  border-radius: 4px;
 }
