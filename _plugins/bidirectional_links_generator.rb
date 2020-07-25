@@ -31,7 +31,7 @@ class BidirectionalLinksGenerator < Jekyll::Generator
       graph_nodes << {
         id: note_id_from_note(current_note),
         path: current_note.url,
-        label: current_note.title,
+        label: current_note.data['title'],
       } unless current_note.path.include?('_notes/index.html')
 
 			# Edges: Jekyll
@@ -53,6 +53,6 @@ class BidirectionalLinksGenerator < Jekyll::Generator
   end
 
   def note_id_from_note(note)
-    note.title.to_i(36).to_s
+    note.data['title'].to_i(36).to_s
   end
 end
