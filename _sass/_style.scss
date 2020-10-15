@@ -76,6 +76,8 @@ h6 {
 }
 
 a {
+  transition: background 300ms;
+  padding: 0 0.1em;
   text-decoration: none;
   border-bottom: 1px solid $color-border;
   color: $color-primary;
