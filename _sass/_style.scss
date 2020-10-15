@@ -128,3 +128,15 @@ code {
   padding: 0.1em 0.2em;
   border-radius: 4px;
 }
+
+.invalid-link {
+  color: #444444;
+  cursor: help;
+  background: #fafafa;
+  padding: 0 0.1em;
+}
+
+.invalid-link-brackets {
+  color: #ccc;
+  cursor: help;
+}
