@@ -1,5 +1,6 @@
 title:               My digital garden
 include:             ['_pages']
+baseurl:             /digital-garden-jekyll-template
 
 permalink:           pretty
 relative_permalinks: false
