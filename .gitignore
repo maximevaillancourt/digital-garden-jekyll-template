@@ -2,3 +2,4 @@ _site/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
+_includes/notes_graph.json
