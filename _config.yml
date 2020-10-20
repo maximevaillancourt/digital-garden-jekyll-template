@@ -1,6 +1,9 @@
 title:               My digital garden
 include:             ['_pages']
-baseurl:             /digital-garden-jekyll-template
+# You may need to change the base URL depending on your deploy configuration.
+# Specifically, when using GitHub Pages, the baseurl should point to where GitHub
+# Pages deploys your repository (which is usually the repository name).
+baseurl:             /
 
 permalink:           pretty
 relative_permalinks: false
