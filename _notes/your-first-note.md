@@ -1,6 +1,5 @@
 ---
 title: Your first seed
-image: /assets/image.jpg
 ---
 
 ### Welcome!
@@ -27,9 +26,7 @@ If you're on a device with mouse support, try hovering your mouse on internal li
 
 ### Images and other Markdown goodies
 
-Finally, because you have the full power of Markdown in this template, you can display images using regular Markdown syntax, like this:
-
-![]({{page.image}})
+Finally, because you have the full power of Markdown in this template, you can use regular Markdown syntax for various formatting options.
 
 Lists work as expected:
 
@@ -48,9 +45,13 @@ So do code blocks, with full syntax highlighting:
 console.log('hello!')
 ```
 
-And if you'd like to quote other people, consider using quote blocks:
+If you'd like to quote other people, consider using quote blocks:
 
 > Lorem ipsum dolor sit amet
+
+And of course, images look great:
+
+<img src="/assets/image.jpg"/>
 
 ### Next steps
 
