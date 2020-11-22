@@ -9,13 +9,13 @@ This is your first note. You'll find it in the [`notes/`](https://github.com/max
 
 ### Link syntax
 
-To link to another note, you can use regular [Markdown syntax](https://www.markdownguide.org/getting-started/) for links, with a relative link to the other note, like this: [this is a link to a note about cats](/cats){: .internal-link}. Don't forget to use the `.internal-link` class to make sure the link is styled as an internal link.
+To link to another note, you can use Roam/wiki-style link syntax by wrapping a note's title (as defined in the note's front matter) in double brackets, like this: [[a note about cats]]. You may also use the note's filename without the extension in the brackets, like this: [[cats]]. If the Roam-style link does not point to a valid note's title, the double brackets will still be shown, like this: [[there is no note with this title]].
 
-Since the Web is all about HTML, you can always use plain HTML if you want, like this: <a class="internal-link" href="/cats">This is the same note about cats as above</a>.
+Alternatively, you can use regular [Markdown syntax](https://www.markdownguide.org/getting-started/) for links, with a relative link to the other note, like this: [this is a Markdown link to the note about cats](/cats){: .internal-link}. Don't forget to use the `.internal-link` class to make sure the link is styled as an internal link (without the little arrow).
+
+Since the Web is all about HTML, you can always use plain HTML if you want, like this: <a class="internal-link" href="/cats">This is a link to the note about cats with HTML</a>.
 
 Of course, you can also link to external websites, like this: [this is a link to Wikipedia](https://wikipedia.org/). Again, you can use plain HTML if you prefer.
-
-Additionally, you can use Roam/wiki-style link syntax by wrapping a note's title in double brackets, like this: [[A note about cats]]. If the Roam-style link does not point to a valid note's title, the double brackets will still be shown, like this: [[There is no note with this title]].
 
 ### Automatic bi-directional links
 
@@ -23,17 +23,38 @@ Notice in the "Notes mentioning this note" section that there is another note li
 
 ### Link previews
 
-If you're on a device with mouse support, try hovering your mouse on internal links to preview the notes: [[A note about cats]]
+If you're on a device with mouse support, try hovering your mouse on internal links to preview the notes: [[a note about cats]].
 
-### Images
+### Images and other Markdown goodies
 
-Finally, you can display images using Markdown syntax, like this:
+Finally, because you have the full power of Markdown in this template, you can display images using regular Markdown syntax, like this:
 
 ![]({{page.image}})
 
+Lists work as expected:
+
+- List element A
+- List element B
+- List element C
+
+1. List element
+2. List element
+3. List element
+
+So do code blocks, with full syntax highlighting:
+
+```js
+// Here's a bit of JavaScript:
+console.log('hello!')
+```
+
+And if you'd like to quote other people, consider using quote blocks:
+
+> Lorem ipsum dolor sit amet
+
 ### Next steps
 
-**If this template is useful to you in any way, consider [donating](https://github.com/sponsors/maximevaillancourt) to support my work**.
+**If this template is useful to you in any way, consider [donating](https://ko-fi.com/maximevaillancourt) to support my work**. ☕
 
 This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
 
