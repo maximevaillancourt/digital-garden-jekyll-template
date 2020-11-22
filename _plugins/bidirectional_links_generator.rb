@@ -15,15 +15,15 @@ class BidirectionalLinksGenerator < Jekyll::Generator
       all_docs.each do |note_potentially_linked_to|
         # Replace double-bracketed links using note title
         current_note.content = current_note.content.gsub(
-          /\[\[#{note_potentially_linked_to.data['title']}\]\]/i,
-          "<a class='internal-link' href='#{note_potentially_linked_to.url}'>#{note_potentially_linked_to.data['title']}</a>"
+          /\[\[(#{note_potentially_linked_to.data['title']})\]\]/i,
+          "<a class='internal-link' href='#{note_potentially_linked_to.url}'>\\1</a>"
         )
 
         # Replace double-bracketed links using note filename
         title_from_filename = File.basename(note_potentially_linked_to.basename, File.extname(note_potentially_linked_to.basename)).gsub('_', ' ').gsub('-', ' ').capitalize
         current_note.content = current_note.content.gsub(
-          /\[\[#{title_from_filename}\]\]/i,
-          "<a class='internal-link' href='#{note_potentially_linked_to.url}'>#{title_from_filename}</a>"
+          /\[\[(#{title_from_filename})\]\]/i,
+          "<a class='internal-link' href='#{note_potentially_linked_to.url}'>\\1</a>"
         )
       end
 
