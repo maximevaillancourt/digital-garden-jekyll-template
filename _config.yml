@@ -19,7 +19,7 @@ sass:
 collections:
   notes:
     output: true
-    permalink: /:path
+    permalink: /:slug
 
 defaults:
   - scope:
