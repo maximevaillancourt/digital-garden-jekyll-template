@@ -8,7 +8,14 @@ This is your first note. You'll find it in the [`notes/`](https://github.com/max
 
 ### Link syntax
 
-To link to another note, you can use Roam/wiki-style link syntax by wrapping a note's title (as defined in the note's front matter) in double brackets, like this: [[a note about cats]]. You may also use the note's filename without the extension in the brackets, like this: [[cats]]. If the Roam-style link does not point to a valid note's title, the double brackets will still be shown, like this: [[there is no note with this title]].
+To link to another note, you can use multiple syntaxes. The following four use the "double-bracket" notation (view the Markdown source file to see the underlying syntax).
+
+- Using the note title: [[a note about cats]]
+- Using the note's filename: [[cats]]
+- Using the note's title, with a label: [[A note about cats|link to the note about cats using the note title]]
+- Using the note's filename, with a label: [[cats|link to the note about cats using the note's filename]]
+
+In all cases, if the double-bracket link does not point to a valid note, the double brackets will still be shown, like this: [[there is no note that matches this link]].
 
 Alternatively, you can use regular [Markdown syntax](https://www.markdownguide.org/getting-started/) for links, with a relative link to the other note, like this: [this is a Markdown link to the note about cats](/cats){: .internal-link}. Don't forget to use the `.internal-link` class to make sure the link is styled as an internal link (without the little arrow).
 
