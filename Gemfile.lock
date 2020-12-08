@@ -1,3 +1,12 @@
+GIT
+  remote: https://github.com/maximevaillancourt/jekyll-last-modified-at
+  revision: e0c918691db625401ef5850a030da59d0124d356
+  branch: add-support-for-files-in-git-submodules
+  specs:
+    jekyll-last-modified-at (1.3.0)
+      jekyll (>= 3.7, < 5.0)
+      posix-spawn (~> 0.3.9)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -29,9 +38,6 @@ GEM
       rouge (~> 3.0)
       safe_yaml (~> 1.0)
       terminal-table (~> 1.8)
-    jekyll-last-modified-at (1.2.1)
-      jekyll (>= 3.7, < 5.0)
-      posix-spawn (~> 0.3.9)
     jekyll-sass-converter (2.1.0)
       sassc (> 2.0.1, < 3.0)
     jekyll-watch (2.2.1)
@@ -47,7 +53,7 @@ GEM
     mercenary (0.3.6)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
-    posix-spawn (0.3.13)
+    posix-spawn (0.3.15)
     public_suffix (4.0.4)
     rb-fsevent (0.10.3)
     rb-inotify (0.10.1)
@@ -66,7 +72,7 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll (~> 4.0)
-  jekyll-last-modified-at
+  jekyll-last-modified-at!
 
 BUNDLED WITH
    2.1.4
