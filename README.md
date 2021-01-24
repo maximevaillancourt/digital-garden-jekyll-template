@@ -18,6 +18,19 @@ Preview the template here: https://digital-garden-jekyll-template.netlify.app/
 
 <img width="1522" alt="Screen Shot 2020-05-19 at 23 05 46" src="https://user-images.githubusercontent.com/8457808/82400515-7d026d80-9a25-11ea-83f1-3b9cb8347e07.png">
 
+
+## Modifying for use with static output
+
+If you are using a site such as Neocities which cannot resolve urls that do not end with .html the bidirectional links will not work. This can be fixed by modiying ``` _plugins/bidirectional_links_generator.rb``` on lines ```5, 32, 39, 46 and 72``` to have the .html extension. 
+
+For example: 
+```"<a class='internal-link' href='#{note_potentially_linked_to.url}'>\\1</a>"```
+
+becomes 
+```"<a class='internal-link' href='#{note_potentially_linked_to.url}.html'>\\1</a>"```
+
+You will also need to update the backlinks in ```_layouts/note.html``` to also have .html on line ```22```
+
 ## License
 
 Source code is available under the [MIT license](LICENSE.md).
