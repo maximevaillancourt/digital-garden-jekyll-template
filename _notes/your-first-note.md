@@ -45,13 +45,6 @@ Lists work as expected:
 2. List element
 3. List element
 
-So do code blocks, with full syntax highlighting:
-
-```js
-// Here's a bit of JavaScript:
-console.log('hello!')
-```
-
 If you'd like to quote other people, consider using quote blocks:
 
 > Lorem ipsum dolor sit amet
@@ -59,6 +52,27 @@ If you'd like to quote other people, consider using quote blocks:
 And of course, images look great:
 
 <img src="/assets/image.jpg"/>
+
+### Code syntax highlighting
+
+You can add code blocks with full syntax color highlighting by wrapping code snippet in triple backticks and specifying the type of the code (`js`, `rb`, `sh`, etc.):
+
+```js
+// Here's a bit of JavaScript:
+console.log('hello!')
+```
+
+```rb
+# And now some Ruby
+def foo(bar)
+  "baz"
+end
+```
+
+```sh
+$ cat /dev/urandom | grep "the answer to life" # shell scripts look nice too
+```
+
 
 ### Next steps
 
