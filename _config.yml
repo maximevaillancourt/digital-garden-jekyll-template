@@ -6,6 +6,10 @@ exclude:             ['_includes/notes_graph.json']
 # Pages deploys your repository (which is usually the repository name).
 baseurl:             /
 
+# If you are using a host that cannot resolve URLs that do
+# not end with .html (such as Neocities), set this to 'true'.
+use_html_extension:  false
+
 permalink:           pretty
 relative_permalinks: false
 
