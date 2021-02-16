@@ -37,11 +37,19 @@ footer {
 }
 
 img {
-  max-width: 100%;
   display: block;
   margin: 0 auto;
   max-height: 75vh;
   border-radius: $border-radius;
+}
+
+.landscape {
+  max-width: 100%;
+}
+
+.portrait {
+  display: inline-block;
+  width: 49%;
 }
 
 blockquote {
