@@ -13,7 +13,7 @@ permalink: /
 
 When I first heard about <a href="https://maggieappleton.com/garden-history">digital gardening</a> and <a href="https://nesslabs.com/networked-thinking">networked thinking</a>, I was interested, but skeptical. To me, digital gardens felt like shadows of [[alhambra|the real thing]], and the fact they were published online made them feel less like a public space, and more like a performance. In the age of the attention economy, you can't blame me.
 
-At the same time, I wondered if these digital methods could help to tend to our ideas, and help them to grow in a non-linear way. I liked the notion that we could create digital spaces that aren't simply collections of static, life-less pixels. I've also noticed that ecological language is being used all over the web these days: i.e. did you know that [[link rot|links can rot]]? Or that the internet is full of [[digital litter]]? 
+At the same time, I wondered if these digital methods could help us tend to our ideas, and help them to grow in a non-linear way. I liked the notion that we could create digital spaces that aren't simply collections of static, life-less pixels. I've also noticed that ecological language is being used all over the web these days: i.e. did you know that [[link rot|links can rot]]? Or that the internet is full of [[digital litter]]? 
 
 This digital garden is a place to experiment with these and other ideas out in the open and in public, in case anyone might find them useful, or wants to <a href="mailto:aleesteele@gmail.com">tell me</a> what they're thinking. My more polished writing goes on my <a href="http://www.aleesteele.com/blog/">blog</a>. This is meant to be messy.
 
