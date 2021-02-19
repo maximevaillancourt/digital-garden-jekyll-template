@@ -1,8 +1,8 @@
 ---
-title: Planting my digital garden
+title: planting my digital garden
 ---
 
-### 
+### First seeds 
 
 With the rise of platforms like medium and substack, I've been wondering what the role of <a href="http://www.aleesteele.com/field-notes/all-the-papers-i-ve-written-in-graduate-school/">a personal website or blog</a> is these day. So when I started this digital garden, I wondered what role it would play in the wider landscape of social media/network/project/platform we have before us.
 
