@@ -1,5 +1,6 @@
 ---
 title: link rot
+date: 2021-02-02
 ---
 
 <blockquote>
