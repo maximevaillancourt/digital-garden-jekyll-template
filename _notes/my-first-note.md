@@ -1,5 +1,6 @@
 ---
 title: planting my digital garden
+date: 2021-02-01
 ---
 
 ### First seeds 

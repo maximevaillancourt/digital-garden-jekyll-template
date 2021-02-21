@@ -1,5 +1,6 @@
 ---
 title: aiguille de tour
+date: 2021-02-02
 ---
 
 <img src="https://res.cloudinary.com/aleesteele/image/upload/v1613506322/IMG_1291_lwy9jw.jpg" class="landscape">
@@ -8,4 +9,4 @@ title: aiguille de tour
 
 <img src="https://res.cloudinary.com/aleesteele/image/upload/v1613506322/IMG_9440_valccl.jpg" class="landscape">
 
-a semi-regular reminder that [[alhambra|real gardens]] and real wilderness are the priority.
+A semi-regular reminder that [[alhambra|real gardens]] and real wilderness are the priority.

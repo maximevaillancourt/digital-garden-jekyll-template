@@ -1,5 +1,6 @@
 ---
-title: digital litter 
+title: digital litter
+date: 2021-02-02 
 ---
 I first heard the term "digital litter" at the <a href="http://www.cdacnetwork.org/i/20200312195200-1zh40">CDAC Annual Public Forum 2020</a>. The term was used to describe "links and websites that no one uses and no one clicks on", and aptly used to describe digitally-based projects that have no project audience.
 
