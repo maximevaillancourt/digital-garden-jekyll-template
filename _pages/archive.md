@@ -6,7 +6,7 @@ permalink: /archive
 <ul>
   {% for post in site.notes %}
     <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
+      <a class="internal-link" href="{{ post.url }}">{{ post.title }}</a>
       {{ post.date | date_to_long_string }}
     </li>
   {% endfor %}
