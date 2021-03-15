@@ -92,7 +92,9 @@ a {
     content: "↗";
     color: #aaaaaa;
   }
-  &.internal-link:after {
+  &.internal-link:after,
+  &.footnote:after,
+  &.reversefootnote:after {
     content: "";
   }
 }
