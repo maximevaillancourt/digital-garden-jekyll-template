@@ -20,32 +20,35 @@ class BidirectionalLinksGenerator < Jekyll::Generator
           File.extname(note_potentially_linked_to.basename)
         ).gsub('_', ' ').gsub('-', ' ').capitalize
 
+        new_href = "#{site.baseurl}#{note_potentially_linked_to.url}#{link_extension}"
+        anchor_tag = "<a class='internal-link' href='#{new_href}'>\\1</a>"
+
         # Replace double-bracketed links with label using note title
         # [[A note about cats|this is a link to the note about cats]]
         current_note.content = current_note.content.gsub(
           /\[\[#{title_from_filename}\|(.+?)(?=\])\]\]/i,
-          "<a class='internal-link' href='#{site.baseurl}#{note_potentially_linked_to.url}#{link_extension}'>\\1</a>"
+          anchor_tag
         )
 
         # Replace double-bracketed links with label using note filename
         # [[cats|this is a link to the note about cats]]
         current_note.content = current_note.content.gsub(
           /\[\[#{note_potentially_linked_to.data['title']}\|(.+?)(?=\])\]\]/i,
-          "<a class='internal-link' href='#{site.baseurl}#{note_potentially_linked_to.url}#{link_extension}'>\\1</a>"
+          anchor_tag
         )
 
         # Replace double-bracketed links using note title
         # [[a note about cats]]
         current_note.content = current_note.content.gsub(
           /\[\[(#{note_potentially_linked_to.data['title']})\]\]/i,
-          "<a class='internal-link' href='#{site.baseurl}#{note_potentially_linked_to.url}#{link_extension}'>\\1</a>"
+          anchor_tag
         )
 
         # Replace double-bracketed links using note filename
         # [[cats]]
         current_note.content = current_note.content.gsub(
           /\[\[(#{title_from_filename})\]\]/i,
-          "<a class='internal-link' href='#{site.baseurl}#{note_potentially_linked_to.url}#{link_extension}'>\\1</a>"
+          anchor_tag
         )
       end
 
