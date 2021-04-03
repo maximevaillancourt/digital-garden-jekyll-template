@@ -219,8 +219,6 @@
         .selectAll("circle")
         .filter((_d, i, nodes) => d3.select(nodes[i]).attr("active"))
         .attr("r", (d) => zoomOrKeep(ACTIVE_RADIUS_FACTOR * nodeSize[d.id]));
-
-      document.getElementById("zoom").innerHTML = zoomLevel.toFixed(2);
     };
 
     const ticked = () => {
