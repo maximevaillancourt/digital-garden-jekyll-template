@@ -20,6 +20,11 @@ relative_permalinks: false
 plugins:
   - jekyll-last-modified-at
 
+markdown: CommonMarkGhPages
+commonmark:
+  options: ["SMART", "FOOTNOTES", "VALIDATE_UTF8", "GITHUB_PRE_LANG", "TABLE_PREFER_STYLE_ATTRIBUTES"]
+  extensions: ["strikethrough", "autolink", "table", "tagfilter"]
+
 sass:
   sass_dir:          _sass
   style:            :compressed
