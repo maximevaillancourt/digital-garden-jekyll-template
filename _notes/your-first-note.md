@@ -25,6 +25,14 @@ Of course, you can also link to external websites, like this: [this is a link to
 
 [^1]: This is a footnote. For more information about using footnotes, check out the [Markdown Guide](https://www.markdownguide.org/extended-syntax/#footnotes).
 
+### Tweet embedding
+
+Note: This behavior is disabled by default for privacy reasons. See "Site configuration" section below to enable it.
+
+You may include a tweet URL on its own line (like below), and it would be replaced with an official Twitter embed if the site configuration demands it.
+
+https://twitter.com/jack/status/20
+
 ### Site configuration
 
 Some behavior is configurable by tweaking the `_config.yml` file.
@@ -32,6 +40,8 @@ Some behavior is configurable by tweaking the `_config.yml` file.
 **`use_html_extension`**: if you use a static host that doesn't support URLs that don't end with `.html` (such as Neocities), try changing the `use_html_extension` value to `true` in the `_config.yml` file and restart the Jekyll server (or re-build the site). This adds a `.html` extension to note URLs and may resolve issues with links. If you're still having trouble, I recommend using Netlify to host your digital garden: it's free, easy to use, and fully supports this template's features out of the box.
 
 **`open_external_links_in_new_tab`**: when set to `true`, this makes external links open in new tabs. Set to `false` to open all links in the current tab.
+
+**`embed_tweets`**: when set to `true`, tweet URLs on their own lines will be replaced with a Twitter embed. Default value is `false`.
 
 ### Automatic bi-directional links
 
