@@ -1,0 +1,1 @@
+where are all the hackers and the anarchists? i think they read [[guerilla open access manifesto]].
