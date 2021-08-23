@@ -1,1 +1,7 @@
-where are all the hackers and the anarchists? i think they read [[guerilla open access manifesto]].
+---
+title: amsterdam
+date: 2021-07-11
+---
+
+being in amsterdam for [[wiki]]
+
