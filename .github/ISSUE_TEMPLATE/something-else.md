@@ -1,5 +1,5 @@
 ---
-name: Anything else
+name: Something else
 about: Something's wrong, but it's not a bug with the template
 title: ''
 labels: ''
