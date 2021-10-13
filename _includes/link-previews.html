@@ -104,6 +104,14 @@
       hideTooltip();
     });
 
+    linkElement.addEventListener('touchend', function(_event) {
+      hideTooltip();
+    });
+
+    tooltipWrapper.addEventListener('touchend', function(_event) {
+      hideTooltip();
+    });
+
     linkElement.addEventListener('mouseenter', function(event) {
       clearTimeout(opacityTimeout);
       clearTimeout(contentTimeout);
