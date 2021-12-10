@@ -60,7 +60,7 @@
         let weight =
           3 *
           Math.sqrt(
-            linksData.filter((l) => l.source === el.id || l.target === el.id)
+            linksData.filter((l) => l.source.id === el.id || l.target.id === el.id)
               .length + 1
           );
         if (weight < MINIMAL_NODE_SIZE) {
