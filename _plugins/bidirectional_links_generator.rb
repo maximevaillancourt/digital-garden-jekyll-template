@@ -15,10 +15,12 @@ class BidirectionalLinksGenerator < Jekyll::Generator
     # anchor tag elements (<a>) with "internal-link" CSS class
     all_docs.each do |current_note|
       all_docs.each do |note_potentially_linked_to|
-        title_from_filename = Regexp.escape(File.basename(
-          note_potentially_linked_to.basename,
-          File.extname(note_potentially_linked_to.basename)
-        ).gsub('_', ' ').gsub('-', ' ').capitalize)
+        note_title_regexp_pattern = Regexp.escape(
+          File.basename(
+            note_potentially_linked_to.basename,
+            File.extname(note_potentially_linked_to.basename)
+          )
+        ).gsub('\_', '[ _]').gsub('\-', '[ -]').capitalize
 
         title_from_data = note_potentially_linked_to.data['title']
         if title_from_data
@@ -31,7 +33,7 @@ class BidirectionalLinksGenerator < Jekyll::Generator
         # Replace double-bracketed links with label using note title
         # [[A note about cats|this is a link to the note about cats]]
         current_note.content.gsub!(
-          /\[\[#{title_from_filename}\|(.+?)(?=\])\]\]/i,
+          /\[\[#{note_title_regexp_pattern}\|(.+?)(?=\])\]\]/i,
           anchor_tag
         )
 
@@ -52,7 +54,7 @@ class BidirectionalLinksGenerator < Jekyll::Generator
         # Replace double-bracketed links using note filename
         # [[cats]]
         current_note.content.gsub!(
-          /\[\[(#{title_from_filename})\]\]/i,
+          /\[\[(#{note_title_regexp_pattern})\]\]/i,
           anchor_tag
         )
       end
