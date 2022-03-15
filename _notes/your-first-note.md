@@ -15,6 +15,8 @@ To link to another note, you can use multiple syntaxes. The following four use t
 - Using the note's title, with a label: [[A note about cats|link to the note about cats using the note title]]
 - Using the note's filename, with a label: [[cats|link to the note about cats using the note's filename]]
 
+Non-latin languages are supported too: [[안녕하세요]].
+
 In all cases, if the double-bracket link does not point to a valid note, the double brackets will still be shown, like this: [[there is no note that matches this link]].
 
 Alternatively, you can use regular [Markdown syntax](https://www.markdownguide.org/getting-started/) for links, with a relative link to the other note, like this: [this is a Markdown link to the note about cats](/cats){: .internal-link}. Don't forget to use the `.internal-link` class to make sure the link is styled as an internal link (without the little arrow).
