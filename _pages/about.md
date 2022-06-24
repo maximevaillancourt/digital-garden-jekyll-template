@@ -4,6 +4,6 @@ title: About
 permalink: /about
 ---
 
-*This is an about page.*
+A place to learn about Data Science, Machine Learning, Deep Learning, and other topics.
 
-Feel free to tell the world about what you love! 😍
+I'll be posting notes about these topics to keep on learning and hopefully to help others entering the field as well.

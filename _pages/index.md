@@ -5,15 +5,17 @@ id: home
 permalink: /
 ---
 
-# Welcome! 🌱
+# Welcome to my little space on the internet! 🌱
+
+Here I'll be sharing some Data Science and Machine Learning posts for me to interiorize the most relevant concepts and to be of help to others in the mean time.
+
+Expect some posts, news, articles, discussion of concepts and code snippets around here! 
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
+  Take a look at my first post, <span style="font-weight: bold">[[The importance of data distribution]]</span> to get started.
 </p>
 
-This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
 
-The easiest way to get started is to read this [step-by-step guide explaining how to set this up from scratch](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll).
 
 <style>
   .wrapper {
