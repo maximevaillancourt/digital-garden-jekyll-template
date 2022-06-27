@@ -82,6 +82,8 @@ And of course, images look great:
 
 You can also ==highlight some content== by wrapping it with `==`.
 
+Non-latin languages are supported too: ==你好==, ==안녕하세요==, ==こんにちは==.
+
 ### Code syntax highlighting
 
 You can add code blocks with full syntax color highlighting by wrapping code snippet in triple backticks and specifying the type of the code (`js`, `rb`, `sh`, etc.):
