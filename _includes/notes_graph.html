@@ -36,17 +36,9 @@
 
 <div id="graph-wrapper">
   <script>
-    var commentFlag = true;
-    
     window.addEventListener("load", loadGraph);
-    window.addEventListener("scroll", loadGraph);
 
     function loadGraph() {
-      if (!( document.getElementById("graph-wrapper").getBoundingClientRect().top <
-             window.innerHeight * 1.5 &&
-          commentFlag)){
-        return;
-      }
       var oScript = document.createElement("script");
       oScript.src = "https://cdnjs.cloudflare.com/ajax/libs/d3/5.16.0/d3.min.js";
       oScript.crossOrigin = 'anonymous';
@@ -308,7 +300,6 @@
           if (str.length <= maxLen) return str;
           return str.substr(0, str.lastIndexOf(separator, maxLen)) + '...';
         }
-        commentFlag = false;
       }
     }
   </script>
