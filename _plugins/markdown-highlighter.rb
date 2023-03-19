@@ -14,5 +14,5 @@ Jekyll::Hooks.register [:pages], :pre_render do |doc|
 end
 
 def replace(doc)
-  doc.content.gsub!(/==+([^ ](.*?)?[^ .=]?)==+/, "<mark>\\1</mark>")
+  doc.content.gsub!(/==+([^ ](.*?)?[^ .=])==+/, "<mark>\\1</mark>")
 end
