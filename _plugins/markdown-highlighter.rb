@@ -2,11 +2,11 @@
 
 # Turns ==something== in Markdown to <mark>something</mark> in output HTML
 
-Jekyll::Hooks.register [:notes], :post_convert do |doc|
+Jekyll::Hooks.register [:notes], :pre_render do |doc|
   replace(doc)
 end
 
-Jekyll::Hooks.register [:pages], :post_convert do |doc|
+Jekyll::Hooks.register [:pages], :pre_render do |doc|
   # jekyll considers anything at the root as a page,
   # we only want to consider actual pages
   next unless doc.path.start_with?('_pages/')
@@ -14,5 +14,5 @@ Jekyll::Hooks.register [:pages], :post_convert do |doc|
 end
 
 def replace(doc)
-  doc.content.gsub!(/==+([^ ](.*?)?[^ .=]?)==+/, "<mark>\\1</mark>")
+  doc.content.gsub!(/==+([^ ](.*?)?[^ .=])==+/, "<mark>\\1</mark>")
 end

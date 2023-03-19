@@ -102,7 +102,8 @@ You can add code blocks with full syntax color highlighting by wrapping code sni
 
 ```js
 // Here's a bit of JavaScript:
-console.log('hello!')
+if (a === b || c == d)
+  console.log('hello!')
 ```
 
 ```rb
