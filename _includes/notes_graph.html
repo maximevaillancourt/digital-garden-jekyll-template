@@ -71,7 +71,7 @@
             let weight =
               3 *
               Math.sqrt(
-                linksData.filter((l) => l.source.id === el.id || l.target.id === el.id)
+                linksData.filter((l) => l.source.id == el.id || l.target.id == el.id)
                   .length + 1
               );
             if (weight < MINIMAL_NODE_SIZE) {
@@ -111,7 +111,7 @@
           });
 
           link.attr("stroke-width", (link_d) => {
-            if (link_d.source.id === d.id || link_d.target.id === d.id) {
+            if (link_d.source.id == d.id || link_d.target.id == d.id) {
               return STROKE * 4;
             }
             return STROKE;
