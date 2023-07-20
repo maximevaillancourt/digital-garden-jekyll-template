@@ -66,7 +66,7 @@ permalink: /
         const FONT_SIZE = 16;
         const TICKS = 200;
         const FONT_BASELINE = 40;
-        const MAX_LABEL_LENGTH = 25;
+        const MAX_LABEL_LENGTH = 20;
 
         const graphData = {% include notes_graph.json %}
         let nodesData = graphData.nodes;
