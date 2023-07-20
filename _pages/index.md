@@ -42,7 +42,7 @@ permalink: /
   }
 
   #graph-wrapper > svg {
-    max-width: 100%;
+    max-width: 150%;
     display: block;
   }
 </style>
