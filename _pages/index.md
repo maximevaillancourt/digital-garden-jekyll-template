@@ -213,7 +213,18 @@ permalink: /
         const g = svg.append("g");
         let link = g.append("g").attr("class", "links").selectAll(".link");
         let node = g.append("g").attr("class", "nodes").selectAll(".node");
-        let text = g.append("g").attr("class", "text").selectAll(".text");
+        let text = g
+  .append("g")
+  .attr("class", "text")
+  .selectAll(".text")
+  .data(nodesData)
+  .enter()
+  .append("foreignObject")
+  .attr("width", nodeSize)
+  .attr("height", nodeSize)
+  .html((d) => `<div>${shorten(d.label.replace(/_*/g, ""), MAX_LABEL_LENGTH)}</div>`)
+  .attr("x", (d) => d.x - nodeSize[d.id] / 2)
+  .attr("y", (d) => d.y - nodeSize[d.id] / 2);
 
         const resize = () => {
           if (d3.event) {
