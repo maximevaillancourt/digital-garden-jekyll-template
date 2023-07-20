@@ -221,6 +221,102 @@ permalink: /
             zoomLevel = scale.k;
             g.attr("transform", scale);
           }
+
+          const zoomOrKeep = (value) => (zoomLevel >= 1 ? value / zoomLevel : value);
+
+          const font = Math.max(Math.round(zoomOrKeep(FONT_SIZE)), 1);
+
+          text.attr("font-size", (d) => font);
+          text.attr("y", (d) => d.y - zoomOrKeep(FONT_BASELINE) + 8);
+          link.attr("stroke-width", zoomOrKeep(STROKE));
+          node.attr("r", (d) => {
+            return zoomOrKeep(nodeSize[d.id]);
+          });
+          svg
+            .selectAll("circle")
+            .filter((_d, i, nodes) => d3.select(nodes[i]).attr("active"))
+            .attr("r", (d) => zoomOrKeep(ACTIVE_RADIUS_FACTOR * nodeSize[d.id]));
+        };
+
+        const ticked = () => {
+          node.attr("cx", (d) => d.x).attr("cy", (d) => d.y);
+          text
+            .attr("x", (d) => d.x)
+            .attr("y", (d) => d.y - (FONT_BASELINE - nodeSize[d.id]) / zoomLevel);
+          link
+            .attr("x1", (d) => d.source.x)
+            .attr("y1", (d) => d.source.y)
+            .attr("x2", (d) => d.target.x)
+            .attr("y2", (d) => d.target.y);
+        };
+
+        const restart = () => {
+          updateNodeSize();
+          node = node.data(nodesData, (d) => d.id);
+          node.exit().remove();
+          node = node
+            .enter()
+            .append("circle")
+            .attr("r", (d) => {
+              return nodeSize[d.id];
+            })
+            .on("click", onClick)
+            .on("mouseover", onMouseover)
+            .on("mouseout", onMouseout)
+            .merge(node);
+
+          link = link.data(linksData, (d) => `${d.source.id}-${d.target.id}`);
+          link.exit().remove();
+          link = link.enter().append("line").attr("stroke-width", STROKE).merge(link);
+
+          text = text.data(nodesData, (d) => d.label);
+          text.exit().remove();
+          text = text
+            .enter()
+            .append("text")
+            .text((d) => shorten(d.label.replace(/_*/g, ""), MAX_LABEL_LENGTH))
+            .attr("font-size", `${FONT_SIZE}px`)
+            .attr("text-anchor", "middle")
+            .attr("alignment-baseline", "central")
+            .on("click", onClick)
+            .on("mouseover", onMouseover)
+            .on("mouseout", onMouseout)
+            .merge(text);
+
+          node.attr("active", (d) => isCurrentPath(d.path) ? true : null);
+          text.attr("active", (d) => isCurrentPath(d.path) ? true : null);
+
+          simulation.nodes(nodesData);
+          simulation.force("link").links(linksData);
+          simulation.alpha(1).restart();
+          simulation.stop();
+
+          for (let i = 0; i < TICKS; i++) {
+            simulation.tick();
+          }
+
+          ticked();
+        };
+
+        const zoomHandler = d3.zoom().scaleExtent([0.2, 3]).on("zoom", resize);
+
+        zoomHandler(svg);
+        restart();
+
+        function isCurrentPath(notePath) {
+          return window.location.pathname.includes(notePath)
+        }
+
+        function shorten(str, maxLen, separator = ' ') {
+          if (str.length <= maxLen) return str;
+          return str.substr(0, str.lastIndexOf(separator, maxLen)) + '...';
+        }
+      }
+    }
+  </script>
+</div>
+<strong>Recently updated notes</strong>
+
 <ul>
   {% assign recent_notes = site.notes | sort: "last_modified_at_timestamp" | reverse %}
   {% for note in recent_notes limit: 5 %}
@@ -230,10 +326,6 @@ permalink: /
   {% endfor %}
 </ul>
 <style>
-  .wrapper {
-    max-width: 46em;
-  }
-</style>
   .wrapper {
     max-width: 46em;
   }
