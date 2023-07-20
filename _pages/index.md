@@ -20,7 +20,7 @@ permalink: /
     cursor: pointer;
     fill: #333;
     overflow-wrap: break-word;
-    max-width: 100px;
+    max-width: 50px;
     text-shadow: -1px -1px 0 #fafafabb, 1px -1px 0 #fafafabb, -1px 1px 0 #fafafabb, 1px 1px 0 #fafafabb;
   }
 
