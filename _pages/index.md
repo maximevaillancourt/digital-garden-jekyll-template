@@ -66,7 +66,7 @@ permalink: /
         const FONT_SIZE = 16;
         const TICKS = 200;
         const FONT_BASELINE = 40;
-        const MAX_LABEL_LENGTH = 20;
+        const MAX_LABEL_LENGTH = 30;
 
         const graphData = {% include notes_graph.json %}
         let nodesData = graphData.nodes;
@@ -206,7 +206,7 @@ permalink: /
             d3
               .forceLink(linksData)
               .id((d) => d.id)
-              .distance(70)
+              .distance(100)
           )
           .force("center", d3.forceCenter(width / 2, height / 2))
           .force("collision", d3.forceCollide().radius(80))
