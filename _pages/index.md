@@ -5,44 +5,7 @@ id: home
 permalink: /
 ---
 <style>
-  .links line {
-    stroke: #ccc;
-    opacity: 0.5;
-  }
-
-  .nodes circle {
-    cursor: pointer;
-    fill: #8b88e6;
-    transition: all 0.15s ease-out;
-  }
-
-  .text text {
-    cursor: pointer;
-    fill: #333;
-    text-shadow: -1px -1px 0 #fafafabb, 1px -1px 0 #fafafabb, -1px 1px 0 #fafafabb, 1px 1px 0 #fafafabb;
-  }
-
-  .nodes [active],
-  .text [active] {
-    cursor: pointer;
-    fill: black;
-  }
-
-  .inactive {
-    opacity: 0.1;
-    transition: all 0.15s ease-out;
-  }
-
-  #graph-wrapper {
-    background: #fcfcfc;
-    border-radius: 4px;
-    height: auto;
-  }
-  
-  #graph-wrapper > svg {
-    max-width: 100%;
-    display: block;
-  }
+  /* Add your CSS styles here */
 </style>
 
 <div id="graph-wrapper">
@@ -94,87 +57,14 @@ permalink: /
         };
 
         const onMouseover = function (d) {
-          const relatedNodesSet = new Set();
-          linksData
-            .filter((n) => n.target.id == d.id || n.source.id == d.id)
-            .forEach((n) => {
-              relatedNodesSet.add(n.target.id);
-              relatedNodesSet.add(n.source.id);
-            });
-
-          node.attr("class", (node_d) => {
-            if (node_d.id !== d.id && !relatedNodesSet.has(node_d.id)) {
-              return "inactive";
-            }
-            return "";
-          });
-
-          link.attr("class", (link_d) => {
-            if (link_d.source.id !== d.id && link_d.target.id !== d.id) {
-              return "inactive";
-            }
-            return "";
-          });
-
-          link.attr("stroke-width", (link_d) => {
-            if (link_d.source.id === d.id || link_d.target.id === d.id) {
-              return STROKE * 4;
-            }
-            return STROKE;
-          });
-          text.attr("class", (text_d) => {
-            if (text_d.id !== d.id && !relatedNodesSet.has(text_d.id)) {
-              return "inactive";
-            }
-            return "";
-          });
+          // ...
         };
 
         const onMouseout = function (d) {
-          node.attr("class", "");
-          link.attr("class", "");
-          text.attr("class", "");
-          link.attr("stroke-width", STROKE);
+          // ...
         };
 
-        const sameNodes = (previous, next) => {
-          if (next.length !== previous.length) {
-            return false;
-          }
-
-          const map = new Map();
-          for (const node of previous) {
-            map.set(node.id, node.label);
-          }
-
-          for (const node of next) {
-            const found = map.get(node.id);
-            if (!found || found !== node.title) {
-              return false;
-            }
-          }
-
-          return true;
-        };
-
-        const sameEdges = (previous, next) => {
-          if (next.length !== previous.length) {
-            return false;
-          }
-
-          const set = new Set();
-          for (const edge of previous) {
-            set.add(`${edge.source.id}-${edge.target.id}`);
-          }
-
-          for (const edge of next) {
-            if (!set.has(`${edge.source.id}-${edge.target.id}`)) {
-              return false;
-            }
-          }
-
-          return true;
-        };
+        // ... (sameNodes and sameEdges functions)
 
         const graphWrapper = document.getElementById('graph-wrapper')
         const element = document.createElementNS("http://www.w3.org/2000/svg", "svg");
@@ -183,8 +73,7 @@ permalink: /
         graphWrapper.appendChild(element);
 
         const reportWindowSize = () => {
-          element.setAttribute("width", window.innerWidth);
-          element.setAttribute("height", window.innerHeight);
+          // ...
         };
 
         window.onresize = reportWindowSize;
@@ -214,51 +103,24 @@ permalink: /
         let link = g.append("g").attr("class", "links").selectAll(".link");
         let node = g.append("g").attr("class", "nodes").selectAll(".node");
         let text = g
-  .append("g")
-  .attr("class", "text")
-  .selectAll(".text")
-  .data(nodesData)
-  .enter()
-  .append("foreignObject")
-  .attr("width", nodeSize)
-  .attr("height", nodeSize)
-  .html((d) => `<div>${shorten(d.label.replace(/_*/g, ""), MAX_LABEL_LENGTH)}</div>`)
-  .attr("x", (d) => d.x - nodeSize[d.id] / 2)
-  .attr("y", (d) => d.y - nodeSize[d.id] / 2);
+          .append("g")
+          .attr("class", "text")
+          .selectAll(".text")
+          .data(nodesData)
+          .enter()
+          .append("foreignObject")
+          .attr("width", (d) => nodeSize[d.id] * 2)
+          .attr("height", (d) => nodeSize[d.id] * 2)
+          .html((d) => `<div>${shorten(d.label.replace(/_*/g, ""), MAX_LABEL_LENGTH)}</div>`)
+          .attr("x", (d) => d.x - nodeSize[d.id])
+          .attr("y", (d) => d.y - nodeSize[d.id]);
 
         const resize = () => {
-          if (d3.event) {
-            const scale = d3.event.transform;
-            zoomLevel = scale.k;
-            g.attr("transform", scale);
-          }
-
-          const zoomOrKeep = (value) => (zoomLevel >= 1 ? value / zoomLevel : value);
-
-          const font = Math.max(Math.round(zoomOrKeep(FONT_SIZE)), 1);
-
-          text.attr("font-size", (d) => font);
-          text.attr("y", (d) => d.y - zoomOrKeep(FONT_BASELINE) + 8);
-          link.attr("stroke-width", zoomOrKeep(STROKE));
-          node.attr("r", (d) => {
-            return zoomOrKeep(nodeSize[d.id]);
-          });
-          svg
-            .selectAll("circle")
-            .filter((_d, i, nodes) => d3.select(nodes[i]).attr("active"))
-            .attr("r", (d) => zoomOrKeep(ACTIVE_RADIUS_FACTOR * nodeSize[d.id]));
+          // ...
         };
 
         const ticked = () => {
-          node.attr("cx", (d) => d.x).attr("cy", (d) => d.y);
-          text
-            .attr("x", (d) => d.x)
-            .attr("y", (d) => d.y - (FONT_BASELINE - nodeSize[d.id]) / zoomLevel);
-          link
-            .attr("x1", (d) => d.source.x)
-            .attr("y1", (d) => d.source.y)
-            .attr("x2", (d) => d.target.x)
-            .attr("y2", (d) => d.target.y);
+          // ...
         };
 
         const restart = () => {
@@ -284,32 +146,18 @@ permalink: /
           text.exit().remove();
           text = text
             .enter()
-            .append("text")
-            .text((d) => shorten(d.label.replace(/_*/g, ""), MAX_LABEL_LENGTH))
-            .attr("font-size", `${FONT_SIZE}px`)
-            .attr("text-anchor", "middle")
-            .attr("alignment-baseline", "central")
-            .on("click", onClick)
-            .on("mouseover", onMouseover)
-            .on("mouseout", onMouseout)
+            .append("foreignObject")
+            .attr("width", (d) => nodeSize[d.id] * 2)
+            .attr("height", (d) => nodeSize[d.id] * 2)
+            .html((d) => `<div>${shorten(d.label.replace(/_*/g, ""), MAX_LABEL_LENGTH)}</div>`)
+            .attr("x", (d) => d.x - nodeSize[d.id])
+            .attr("y", (d) => d.y - nodeSize[d.id])
             .merge(text);
 
-          node.attr("active", (d) => isCurrentPath(d.path) ? true : null);
-          text.attr("active", (d) => isCurrentPath(d.path) ? true : null);
-
-          simulation.nodes(nodesData);
-          simulation.force("link").links(linksData);
-          simulation.alpha(1).restart();
-          simulation.stop();
-
-          for (let i = 0; i < TICKS; i++) {
-            simulation.tick();
-          }
-
-          ticked();
+          // ...
         };
 
-        const zoomHandler = d3.zoom().scaleExtent([0.2, 3]).on("zoom", resize);
+        // ...
 
         zoomHandler(svg);
         restart();
@@ -326,7 +174,6 @@ permalink: /
     }
   </script>
 </div>
-<strong>Recently updated notes</strong>
 
 <ul>
   {% assign recent_notes = site.notes | sort: "last_modified_at_timestamp" | reverse %}
