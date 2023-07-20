@@ -15,10 +15,12 @@ permalink: /
     fill: #8b88e6;
     transition: all 0.15s ease-out;
   }
-
+  
   .text text {
     cursor: pointer;
     fill: #333;
+    overflow-wrap: break-word;
+    max-width: 200px;
     text-shadow: -1px -1px 0 #fafafabb, 1px -1px 0 #fafafabb, -1px 1px 0 #fafafabb, 1px 1px 0 #fafafabb;
   }
 
