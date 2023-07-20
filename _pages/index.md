@@ -206,7 +206,7 @@ permalink: /
             d3
               .forceLink(linksData)
               .id((d) => d.id)
-              .distance(100)
+              .distance(200)
           )
           .force("center", d3.forceCenter(width / 2, height / 2))
           .force("collision", d3.forceCollide().radius(80))
