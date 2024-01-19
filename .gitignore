@@ -13,3 +13,5 @@ _includes/notes_graph.json
 
 # Obsidian config
 .obsidian/
+_private/
+_staging/
