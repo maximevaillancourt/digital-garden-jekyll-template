@@ -1,6 +1,11 @@
 ---
 title: Browse by theme
 ---
-Themes:
+Topics:
 - [[Github and Git]]
 - [[React.js]]
+- [[Redux]]
+
+Projects:
+- [[Jammming]]
+- [[Quiz me!]]

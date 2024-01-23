@@ -2,7 +2,7 @@
 title: "Quiz me!: Building a trivia app with React and OpenTriviaDB"
 ---
 Hello world! 👋
-Today I want to tell you about the React-Redux app I built recently using `create-react-app`. The app is called **Quiz Me!** and it cost me $0.00 and a few hours to develop.
+Today I want to tell you about the [[React.js|React]]-[[Redux]] app I built recently using `create-react-app`. The app is called **Quiz Me!** and it cost me $0.00 and a few hours to develop.
 
 ## 1. Defining my goals for the project
 I wanted to create an interactive app using React-Redux that I could add to my portfolio to demonstrate my understanding of the tech, which I have been learning for the past several months. The key technologies in play here are [React](https://react.dev/) and [Redux](https://redux.js.org/). I also used [Opentdb API](https://opentdb.com/) for the data, [MaterialUI](https://mui.com/material-ui/) for some interface components and [he](https://www.npmjs.com/package/he) for HTML encoding/decoding.
