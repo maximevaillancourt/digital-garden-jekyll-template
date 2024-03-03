@@ -31,7 +31,6 @@ David speaks about inquiry-based learning as possibly providing that approach, a
 
 After reading his post, I posted this on Twitter:
 
-
 https://twitter.com/jethrojones/status/1191751552786026496
 
 Now I just need something visual to represent this.
