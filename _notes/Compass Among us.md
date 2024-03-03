@@ -10,7 +10,9 @@ publish date: 2024-02-20
 #substack 
 ### How we move from the traditional view, to the modern view, to the future view of teachers.
 
-<img src = "{{ site.baseurl }}/assets/compass.png"/>
+
+<img src="https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F315f9765-3d6c-4885-815c-2ecc9a9d8bd0_2000x909.png"/>
+<img src="{{ site.baseurl }}/assets/compass.png"/>
 ![[compass.png]]
 
 Here’s one of the things I love about Twitter, short conversations spark longer discussions. Will Richardson posted this on Twitter:
