@@ -86,3 +86,5 @@ If you like what we've got going here, there are multiple ways you can get more.
 1. Subscribe [to my Podcast](https://transformativeprincipal.org/subscribe) where I interview the most amazing leaders out there.
 2. Read either of my books on [how to redesign your schoo](https://transformative-principal.ck.page/products/school-x-how-principals-can-des)l or [how to be a transformative principal](https://transformative-principal.ck.page/products/how2be)
 3. [Join my coaching program](https://jethrojones.com/coach), enrollment starts every six weeks. Would love to have you in the next cohort.
+
+[[List of all the Newsletters I Send out|Newsletters]]
