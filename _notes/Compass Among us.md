@@ -3,7 +3,7 @@ title: Compass Among us
 creation date: 2021-10-12 11:39
 description: We need to move from teachers being a sage on the stage, to being a compass among us.
 cover: https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F315f9765-3d6c-4885-815c-2ecc9a9d8bd0_2000x909.png
-publish date: 2024-02-20
+publish date: 2021-10-12
 ---
 # Sage on the Stage < Guide on the Side < Compass Among Us
 ### How we move from the traditional view, to the modern view, to the future view of teachers.
