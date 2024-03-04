@@ -1,5 +1,4 @@
 ---
-layout: post
 title: How to Build a Data Dashboard for your Teachers' Daily Use
 creation date: 2024-03-04 09:47
 description: Lifelong Learning, overcoming trials, what education is really for, and data dahsboards
