@@ -20,6 +20,7 @@ GEM
     eventmachine (1.2.7)
     ffi (1.16.3)
     forwardable-extended (2.6.0)
+    gemoji (3.0.1)
     google-protobuf (3.25.3)
     http_parser.rb (0.8.0)
     i18n (1.14.1)
@@ -42,6 +43,11 @@ GEM
       webrick (~> 1.7)
     jekyll-sass-converter (3.0.0)
       sass-embedded (~> 1.54)
+    jekyll-spaceship (0.10.2)
+      gemoji (~> 3.0)
+      jekyll (>= 3.6, < 5.0)
+      nokogiri (~> 1.6)
+      rainbow (~> 3.0)
     jekyll-watch (2.2.1)
       listen (~> 3.0)
     kramdown (2.4.0)
@@ -62,6 +68,7 @@ GEM
     posix-spawn (0.3.15)
     public_suffix (5.0.4)
     racc (1.7.3)
+    rainbow (3.1.1)
     rake (13.1.0)
     rb-fsevent (0.11.2)
     rb-inotify (0.10.1)
@@ -83,6 +90,7 @@ PLATFORMS
 DEPENDENCIES
   jekyll (~> 4.3)
   jekyll-last-modified-at!
+  jekyll-spaceship
   nokogiri
   webrick (~> 1.8)
 
