@@ -4,9 +4,5 @@ title: Newsletters
 - [[Compass Among us|Compass]]
 - [[Data Dashboard]]
 
-
-Dataview: 
-
-```dataview
-list from #newsletter 
-```
+![Compass]({{ site.url }}/assets/compass.png)
+	
