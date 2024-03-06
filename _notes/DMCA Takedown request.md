@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: none
 title: DMCA
 date: 2024-03-05 08:06:10
 categories: 
