@@ -1,7 +1,7 @@
 ---
 title: School Does not matter
 ---
-![[School not matter header.jpeg]]
+![School Not Matter]({{ site.url }}/assets/School not matter header.jpeg)
 
 
 We made a grave mistake in telling families that much of what we do in education doesn’t matter. 
@@ -40,11 +40,11 @@ Unfortunately, the actions we took we took when the pandemic started had dire ef
 
 ## Where can I turn for education?
 In Fairbanks, Alaska, my previous school district, they saw a reduction in enrollment of 2,000 kids. From 13,219 to 11,260. This unprecedented drop did severe damage to a school district already experiencing sharp decline. That is 15% of the student population gone in one year. [Source](https://public.tableau.com/app/profile/k12northstar/viz/Enrollment_1/Enrollment)
-![[Fairbanks North Star Borough School District enrollment decline.png]]
+![FNSBSD Enrollment decline]({{ site.url }}/assets/Fairbanks North Star Borough School District enrollment decline.png)
 That's a huge drop. That leads to reduction in staffing, as it is not sustainable to keep teachers and other staff on board when you have that many students leave your district. 
 
 But where did they all go? Well, that district has a homeschool program that is supported by the district. Unfortunately, the district refused to allow people to transfer into the homeschool program at the time, as many families wanted. So, the enrollment in the homeschool program did increase, and significantly, by over 300%!!! But that 2000 student decrease in the district does not count any students enrolled in the district homeschool program as they stayed in the district. So, the actual decrease of students in physical schools is about 2600! That, again, takes it toll. 
-![[Fairbanks North Star Borough School District enrollment increase.png]]
+![Enrollment increase]({{ site.url }}/assets/Fairbanks North Star Borough School District enrollment increase.png)
 
 What Alaska has going for it is that families that enroll in homeschool receive an allotment, usually between $2,000 and $2,500 per student. But the district still receives the base student allocation given to a district for each student enrolled. 
 
