@@ -1,10 +1,9 @@
 ---
-Title: How to Write a Talk
+title: How to Write a 5 Minute Talk in Less than a Minute
 ---
-
 Writing a talk strikes fear into the hearts of so many people. Public speaking can cause typically smart, articulate, intelligent people to second guess, panic, stumble, and feel incredible imposter syndrome from even a short talk. 
 
-As I have worked with young people to prepare talks for school, church, and presentations, I’ve developed a simple framework that helps them. See more information here about the [[frameworks MOC|power of Frameworks]]
+As I have worked with young people to prepare talks for school, church, and presentations, I’ve developed a simple framework that helps them. See more information here about the [[Frameworks|power of Frameworks]].
 
 Having a simple framework for giving a talk helps in many ways, from the preparation to the delivery of the talk. 
 
