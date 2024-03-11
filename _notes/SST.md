@@ -1,7 +1,7 @@
 ---
 title: How to Write a 5 Minute Talk in Less than a Minute
 ---
-Writing a talk strikes fear into the hearts of so many people. Public speaking can cause typically smart, articulate, intelligent people to second guess, panic, stumble, and feel incredible imposter syndrome from even a short talk. 
+Writing a talk[^1] strikes fear into the hearts of so many people. Public speaking can cause typically smart, articulate, intelligent people to second guess, panic, stumble, and feel incredible imposter syndrome from even a short talk. 
 
 As I have worked with young people to prepare talks for school, church, and presentations, I’ve developed a simple framework that helps them. See more information here about the [[Frameworks|power of Frameworks]].
 
@@ -37,6 +37,7 @@ Once you have these three things just jot them down in a table like the one belo
 | Scripture     | Story                                                        | Testimony                                                                                                |
 | ------------- | ------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------- |
 | Matt 22:36-39 | Neighbor loved my sister-in-law when her son was in hospital | While we were far away, and couldn’t be there, we were comforted knowing someone was watching over them. |
+
 The simplest form of this talk is to share the scripture, then the story, then the testimony. That will be a short, 2-3 minute talk. 
 
 Here’s the key: Repeat this same framework as much as you need to in order to fill whatever time you have allotted to you. This also works great as a brainstorming session so you can find what topics actually resonate with you and your audience. 
@@ -51,6 +52,7 @@ So, if you need to give a fifteen minute talk, you could have about five rounds 
 | Nelson - Luputa - Running Water       | People helped provide access to a mountain spring 18 miles away from their city of over 100,000 people with NO running water | We don’t help provide clean water that can travel 18 miles, but we can do little things                  |
 | Feed my sheep, John 21:15–17.         | How my youth leaders have shown me love                                                                                      | I can show love to others by feeding His sheep                                                           |
 | By love serve one another, Gal. 5:13. | When we love others we serve them - serving my kids instead of demanding they do chores                                      | I can show love by serving others.                                                                       |
+
 Here’s where this is powerful: Even if you are shy, nervous, or afraid, you can give this talk based on this table. 
 
 Once you have completed this table with whatever length of talk you need, you can start writing or outlining your talk. 
@@ -81,3 +83,5 @@ That’s the whole point of the talk. Find those things that illustrate or expla
 **What if I don’t have much time to prepare?**
 
 The real beauty of this system is that you don’t need a lot of time to prepare. You can be asked to give a talk and be ready with about 45 seconds of jotting down ideas, stories, and your testimony. For me, if I needed to give a 45 minute talk, I could do it on many different subjects, because I would just use this process and go deep on each aspect of it. 
+
+[^1]: Living a talk is not just about the speaking part, but also about the preparation part, which is what I'm going to address here.
