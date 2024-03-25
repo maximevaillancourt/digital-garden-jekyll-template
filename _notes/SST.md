@@ -84,4 +84,4 @@ That’s the whole point of the talk. Find those things that illustrate or expla
 
 The real beauty of this system is that you don’t need a lot of time to prepare. You can be asked to give a talk and be ready with about 45 seconds of jotting down ideas, stories, and your testimony. For me, if I needed to give a 45 minute talk, I could do it on many different subjects, because I would just use this process and go deep on each aspect of it. 
 
-[^1]: Living a talk is not just about the speaking part, but also about the preparation part, which is what I'm going to address here.
+[^1]: Giving a talk is not just about the speaking part, but also about the preparation part, which is what I'm going to address here.

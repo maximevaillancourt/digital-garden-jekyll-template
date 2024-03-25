@@ -9,5 +9,5 @@ aliases:
 publish date: 
 tags:
 ---
-[[Frameworks for Job Interviews]]
-[[SST|How to Write a 5 Minute Speech in 30 Seconds]]
+- [[Frameworks for Job Interviews]]
+- [[SST|How to Write a 5 Minute Speech in 30 Seconds]]
