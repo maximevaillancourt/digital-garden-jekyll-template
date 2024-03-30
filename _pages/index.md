@@ -11,7 +11,7 @@ permalink: /
 
 You can learn more about me at my Link-in-Bio page: [jethrojon.es](https://jethrojon.es)
 
-See what I'm up to now on my [now page]({{ site url }}/now)
+See what I'm up to now on my [now page]({{ site.baseurl }}/now)
 
 See below for my most recently updated notes. That's the last 10. 
 
