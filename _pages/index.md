@@ -7,11 +7,13 @@ permalink: /
 
 # Welcome! 🌱
 
-See below for my most recently updated notes. That's the last 10. 
+
 
 You can learn more about me at my Link-in-Bio page: [jethrojon.es](https://jethrojon.es)
 
-My latest exciting project is [EduNews](https://edune.ws)
+See what I'm up to now on my [now page]({{ site url }}/now)
+
+See below for my most recently updated notes. That's the last 10. 
 
 <strong>Recently updated notes</strong>
 
