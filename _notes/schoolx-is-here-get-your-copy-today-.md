@@ -3,8 +3,7 @@ title: '#SchoolX is here! Get your Copy today!'
 date: 2020-09-09T15:30:00.001-07:00
 draft: false
 url: /2020/09/schoolx-is-here-get-your-copy-today.html
-tags: 
-- Podcast
+tags: product
 ---
 
   
@@ -13,4 +12,4 @@ Click the title or long-press the album art to get to the book. or go to [http:/
 
   
 
-[New Episode of @TrnFrmPrincipal](https://amzn.to/33cIy22)
+[Or buy it on Amazon like a normal person](https://amzn.to/33cIy22)
