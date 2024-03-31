@@ -46,3 +46,5 @@ Richard Shell is a global thought leader and senior faculty member at one of the
 *   How to be a transformative principal? It’s easy to get wrapped up in your identity as a principal. Go back to the reason you’re doing the thing you’re doing and ask if you are a person of conscience.
 
 
+### Listen here: 
+<iframe width="100%" height="180" frameborder="no" scrolling="no" seamless="" src="https://transformativeprincipal.org/s9/449"></iframe>
