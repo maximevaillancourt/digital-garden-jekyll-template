@@ -1,0 +1,16 @@
+---
+title: 'Professional Development Day 2'
+date: 2008-07-18T22:40:00.000-07:00
+draft: true
+url: 
+tags: 
+- internship
+---
+
+I talked about test scores with the teachers today. These are just raw scores, so we don't know if the students actually passed or not. But, it is interesting for the teachers to see how their kids did on the overall score of the test. I asked them to predict how they did as a grade, then how their students did. They wrote down the percentages that they predicted, and took some time to reflect on the scores when they got their grade and class scores.  
+  
+Then, I gave them rosters of their classes from last year and they were able to predict how each individual student did. I think this was really effective. It gave the teachers an opportunity to think about each kid based on the overall scores. Then, they were able to see their students' scores and see what they, as a teacher, needs to improve on in their instruction. The teachers were very happy to see their scores, and some of them were surprised at what their students got, both good and bad surprised.  
+  
+Teachers should know how their students do on these tests. My first year teaching, one student came back and told me that they had received their score test results in the mail, and they were excited that they did so well. I tried for six months to see my students' scores, and I never got to see them. It would have helped me be a better teacher, and I want to make sure that I can do that for my teachers when I am a principal.  
+  
+Have a Good Life.

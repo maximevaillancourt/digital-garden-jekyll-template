@@ -22,7 +22,7 @@ relative_permalinks: false
 
 plugins:
   - jekyll-last-modified-at
-  - jekyll-feed
+
 sass:
   sass_dir:          _sass
   style:            :compressed

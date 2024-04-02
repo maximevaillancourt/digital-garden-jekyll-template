@@ -1,0 +1,27 @@
+---
+title: 'Reflection on Retreat'
+date: 2009-07-19T05:59:00.000-07:00
+draft: false
+url: /2009/07/reflection-on-retreat.html
+tags: 
+- time
+- retreat
+- canyons
+- learning
+- #csdemt
+---
+
+[![](http://1.bp.blogspot.com/_wrorMsBZYW0/SmRw6zwv5sI/AAAAAAAAA9E/SDbIytXAJIg/s400/3732843930_c3ed861f4e.jpg)](http://1.bp.blogspot.com/_wrorMsBZYW0/SmRw6zwv5sI/AAAAAAAAA9E/SDbIytXAJIg/s1600-h/3732843930_c3ed861f4e.jpg)  
+This last week we had a retreat that filled our brains to capacity.  
+  
+Kelly Dumont did most of the work, and he did a great job. As far as training like this goes, we had a ton of information to process. We spent a lot of time learning about tools we need to be using for the school year. That was the information overload. We could have continued the retreat into this week with all the stuff we needed to do, but I think one week was enough. There is still a lot to get done before the school year starts.  
+  
+To break things up, we invited some expert voices to Skype in and talk to us about educational technology, libraries, and branding. This was, in my opinion, the best part about the retreat. It was really neat to hear from those who have been doing this for a while, and many of their words sparked a discussion that we probably would not have had. I think that I have a great team. They are going to be wonderful. All four of us (hopefully soon to be five of us) have strong opinions, but we are able to disagree without holding a grudge (or at least, that is my perception, and I hope it is right). During the week, we did "About Me" presentations which I think helped us get to know each other. The time was also very loose, so we could do what we wanted to and spend some time seeing what we were really like. I think both those things contributed to our great discussions.  
+  
+One of the biggest challenges we face in education is giving teachers time to think. We don't do that nearly often enough, and it is a vital key to their continual learning. We had time this week to think, discuss, and learn. That is what made the week a success.  
+  
+There were many topics that were left unvisited and incomplete. We still need to figure out a Responsible Use Policy for students and employees. We still need to take a stance on copyright. We still need to figure how we will support social media. We also need to prepare our presentation for New Teacher Orientation. And I am sure there are other things we still need to do. The good news is that I think we can do this now. I think that we have worked together enough to have our ideas mostly in sync. What I mean is, one or two or three of us can write some of these policies and make tentative decisions knowing where the others are going to have problems. One person wants facebook completely blocked, while another wants to use it as a tool in the classroom.  
+  
+I think this retreat was great. We are all heading the same general direction, and I think that is important.  
+  
+Have a Good Life.

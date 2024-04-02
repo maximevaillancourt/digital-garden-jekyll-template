@@ -1,0 +1,10 @@
+---
+title: 'Difficult'
+date: 2007-09-05T13:07:00.000-07:00
+draft: false
+url: /2007/09/difficult.html
+tags: 
+- change
+---
+
+One thing about change is that it can be so difficult sometimes. I am trying really hard to change the type of teacher that I am. It is difficult, because habit is so engrained in me that it seems much more natural to be that way. For me, I guess it is more natural since that is what I have been doing. I do think, however that I have noticed a change. Today I jumped on a student who would not shut his freaking mouth. It was driving me insane. I was asking for participation from the class by raising their hands, and he was commenting on everything that was said or done. After I barked at him, the rest of the class refused to participate for a short time. I am sure it is because I reacted so strongly to that kid. It was frustrating, but very enlightening. It was a great reminder that changing my attitude and changing how I interact with students does make a difference. In related news, I have noticed that I am also a better husband and father. I don't get as frustrated with my daughter, and I don't get as annoyed with my wife. Disclaimer: I don't usually get annoyed with my wife. She is the greatest thing ever. I have noticed that I am more patient, less judgmental, less rude, and more understanding.

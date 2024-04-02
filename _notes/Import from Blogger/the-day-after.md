@@ -1,0 +1,14 @@
+---
+title: 'The Day After'
+date: 2008-07-16T21:10:00.000-07:00
+draft: true
+url: 
+tags: 
+- internship
+- think then do
+- thinking
+---
+
+I was sick yesterday. Even though I was sick, work still went on without me. As a teacher when I was sick, it didn't usually matter too much. I called the sub, they did my lesson, and life went on, most of the time. As an administrator, things change. Decisions still need to be made. I did get a call about stuff even though I was at home, flat on my back. I don't think that will stop. I would never expect a substitute to actually call me if I were sick. That is unthinkable. But, when you are the bigger cheese, it happens. I wonder how that will be in the future, when I have a school to run. If I have assistants, they will likely be able to handle any problems. Although, when I was subbing at my school, the assistant principal did have to call our principal a time or two. I guess it just happens.  
+  
+It seems also that the principal in a middle school can be more aloof than an elementary school principal can. When you are the only one there, you really have to stop and think about things. That is one area in which I really struggle. Especially since I am young, new, and naïve, people try to pull a fast one on me. Well, perhaps that is too strong (true though it may be). When people want something from the principal, they make sure they set it up correctly. That is, they set up their question/request/whatever in such a way that the principal only has enough information to make a choice that will favor them. That is bad. When a person comes up to me and asks about something, and I say yes, then go and talk to my secretary, and they give me a completely different story, that is also bad. When I go back to the person that requested something and try to go back on what I already agreed to do because it was not a good decision, that is beyond bad. That happened today, and I put myself in a bad situation that I could not get out of. That is very frustrating.
