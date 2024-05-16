@@ -1,12 +1,14 @@
 ---
-title: 'Nook First Impressions'
+title: Nook First Impressions (Comments)
 date: 2009-12-07T18:52:00.000-08:00
 draft: false
 url: /2009/12/nook-first-impressions.html
-tags: 
-- nook
-- eReader
-- Barnes and Noble
+tags:
+  - nook
+  - eReader
+  - Barnes
+  - and
+  - Noble
 ---
 
 #### Which of the ebook readers, then, is your favorite...
@@ -19,7 +21,7 @@ Which of the ebook readers, then, is your favorite - and which have you yet to t
 
 Darren,  
   
-The kindle is my favorite. I have tried the big 3 (Sony, Amazon, and B&N) but I have not tried the readers created by lesser-known companies.
+The [[the-kindle|Kindle]] is my favorite. I have tried the big 3 (Sony, Amazon, and B&N) but I have not tried the readers created by lesser-known companies.
 <hr />
 #### I'm not sure how you maintain that navigation ...
 [Unknown](https://www.blogger.com/profile/14515555777260203266 "noreply@blogger.com") - <time datetime="2010-07-05T12:42:02.715-07:00">Jul 1, 2010</time>
