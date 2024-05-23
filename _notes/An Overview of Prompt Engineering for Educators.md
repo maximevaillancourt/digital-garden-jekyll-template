@@ -7,6 +7,8 @@ For example, if you want AI to write a poem, you could provide a prompt like "Wr
 This document is a valuable resource for educators who want to use AI in their classrooms. It provides a variety of prompts that can be used to teach AI a variety of skills.
 ## Prompt Frameworks
 
+Get all the [[ChatGPT Prompts for Educators]]
+
 ### The PASS Method
 
 Watch a Video of this in action:
