@@ -1,3 +1,6 @@
+---
+permalink: adlerian-edu
+---
 Our education system would be fundamentally different if we subscribed to Adlerian Psychology for these five reasons: 
 
 Reason 1: Deny Trauma for it Does Not Exist
