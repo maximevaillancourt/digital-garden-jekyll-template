@@ -33,3 +33,6 @@ Relationships
 - Boundaries: We will keep our confidences and trust each other to not take advantage of us. 
 - No Expectations: Person will behave however they behave and any given time and we will deal with it at that time. 
 - Low Expectations: This person is probably going to stab me in the back at some point, so I better not get too close. 
+
+
+[[Adlerian Psychology in Schools]]

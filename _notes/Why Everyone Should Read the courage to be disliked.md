@@ -38,3 +38,5 @@ This means that you believe "I have the ability" to whatever that thing is AND t
 You, and no other person, situation, context, or anything else, are the one who decides your life. It's not your mom's fault, your dad who left you, your bad night's sleep, society, "the Man", privilege. You alone are responsible for where your life is. When you can break away from the trap of blaming someone or something else for your woes, it is incredibly freeing. 
 
 These are just five reasons, but there is so much more in that book that is so powerful. 
+
+[[Adlerian Psychology in Schools]]

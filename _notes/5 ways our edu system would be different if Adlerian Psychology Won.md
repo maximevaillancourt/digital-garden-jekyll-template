@@ -46,3 +46,5 @@ Talk about educating the whole child. While there is plenty of "talk" about the 
 There's so much more that would impact how we educate kids if Adlerian psychology were the dominant force in education. 
 
 [[Why Everyone Should Read the courage to be disliked]]
+
+[[Adlerian Psychology in Schools]]

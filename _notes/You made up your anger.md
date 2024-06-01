@@ -25,4 +25,4 @@ For more information on Adlerian psychology in schools, follow me (@jethrojones)
 
 
 
-[[Adlerian Psychology in Schools MOC]]
+[[Adlerian Psychology in Schools]]
