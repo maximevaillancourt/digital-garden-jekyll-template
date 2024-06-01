@@ -1,3 +1,8 @@
+---
+permalink: adler
+---
+
+
 - [[You made up your anger]]
 - [[The Power of No Expectations]]
 - [[Why Everyone Should Read the courage to be disliked]]
