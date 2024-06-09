@@ -13,3 +13,7 @@ _includes/notes_graph.json
 
 # Obsidian config
 .obsidian/
+
+# Obsidian _staging and _templates
+_notes/_staging
+_notes/_templates
