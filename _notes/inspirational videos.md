@@ -1,5 +1,11 @@
 ---
+permalink: inspiration
+title: Inspirational Videos for Teachers and Students Updated 2024
+creation date: 2020-05-01
 ---
+
+
+Everyone needs some inspiration every once in a while. I’ve collected here some of the greatest motivational videos that I’ve found. From inspiring that makes you cry, to teacher support, to inspiring students, I hope this helps. I’m sure there’s a ton more, and I hope if you find one that isn’t on this page, you’ll send me the [link here](mailto:jethro@paperlessprincipal.com?subject=You're%20missing%20an%20inspirational%20video!!&body=Hey%20Jethro!%20Great%20site%2C%20but%20you're%20missing%20a%20great%20inspirational%20video.%20Here's%20the%20link%3A%20). I keep this page updated throughout the years, so check back often.
 # For Everyone
 
 ![Every Kid Needs a Champion](https://youtu.be/SFnMTHhKdkw)
