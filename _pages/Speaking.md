@@ -1,4 +1,5 @@
 ---
+permalink: /speaking
 ---
 
 # Presentations & Speaking
