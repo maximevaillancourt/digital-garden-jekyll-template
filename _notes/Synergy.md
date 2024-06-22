@@ -24,6 +24,10 @@ You can see one example of [[why-i-do-what-i-do|why I do what I do]].
 
 One of our teams was even [featured in the local news](https://www.facebook.com/watch/?v=10155703347504051)
 
+One of the teams started a [youtube channel to do tutoring for kids](https://www.youtube.com/channel/UCM5OalOMEBfWm0JJdT-1xEA "Synergy Videos").
+
+  
+
 Some other examples: 
 - synergy TTL
 - Synergy step (the one featured in the news)
