@@ -108,4 +108,4 @@ October 1-2 - Vancouver WA - Move Up Workshop for Assistant Principals
 
 ## Work with me
 
-If you would like to partner with me, or invite me to present at a training or conference, fill out the form below and I will get back to you. I help many districts and schools find simple solutions to their complex problems. I only do 4 speaking engagements each year, so we will make sure it is a good match for you.
+If you would like to partner with me, or invite me to present at a training or conference, please reach out to me via email. I help many districts and schools find simple solutions to their complex problems. 
