@@ -23,9 +23,11 @@ Sharing what I learn is very important to me. Here you will find links and resou
 
 ---
 
-## TEDxCSDTeachers talk: How we increased attendance to 95%, and kept it there for 5 years.
+## TEDxCSDTeachers 
+### [[Simplicity]]: How we increased attendance to 95%, and kept it there for 5 years.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Xz_zKCgCLnQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 ---
 
