@@ -1,3 +1,6 @@
+---
+---
+
 # An Overview of Prompt Engineering for Educators
 
 Prompts are a powerful tool that can be used to teach AI how to do things. By providing a prompt, you are essentially telling AI what you want it to do. The more specific the prompt, the better AI will be able to understand what you are asking for.

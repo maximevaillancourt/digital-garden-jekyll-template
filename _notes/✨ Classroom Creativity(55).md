@@ -1,3 +1,6 @@
+---
+---
+
 # ✨ Classroom Creativity(55)
 
 1. Analyze the role of creativity in fostering critical thinking and problem-solving skills among students.

@@ -1,3 +1,6 @@
+---
+---
+
 # 🕊️ Promoting Ethical Decision-Making and Responsible Citizenship (50)
 
 1. Analyze the importance of teaching ethical decision-making and responsible citizenship skills in preparing students for the challenges of the 21st century.

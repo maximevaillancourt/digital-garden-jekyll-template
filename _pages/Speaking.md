@@ -1,3 +1,6 @@
+---
+---
+
 # Presentations & Speaking
 
 Sharing what I learn is very important to me. Here you will find links and resources from all my presentations. I am available for speaking engagements on any of the topics below: 

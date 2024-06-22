@@ -1,3 +1,6 @@
+---
+---
+
 I spent the last 30 days doing the Ship 30 for 30 writing course with my daughter. This has been an incredible experience with several benefits. 
 
 I'll share my three main benefits and then include all my posts here. 

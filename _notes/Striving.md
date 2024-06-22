@@ -1,3 +1,6 @@
+---
+---
+
 When people say kids aren't motivated they are lying to themselves. 
 
 Kids love to learn but they hate school. 

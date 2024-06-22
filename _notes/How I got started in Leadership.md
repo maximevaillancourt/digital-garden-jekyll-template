@@ -1,3 +1,6 @@
+---
+---
+
 I wouldn't call myself an expert in Leadership.
 
 However, I have spent 1000s of hours reading and learning about Leadership. And I have been in a leadership position pretty much since I was twelve years old!

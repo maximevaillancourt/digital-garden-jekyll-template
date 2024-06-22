@@ -1,3 +1,6 @@
+---
+---
+
 # 🌍 Culturally Responsive Teaching (50)
 
 1. Give me strategies for creating a culturally inclusive and welcoming classroom environment.

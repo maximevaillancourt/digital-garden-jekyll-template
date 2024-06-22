@@ -1,3 +1,6 @@
+---
+---
+
 # BEST AI Tools for Educators today
 This page includes some of my favorite AI tools for educators right now. Updated regularly. See tutorials for these inside of [AILeader.info](https://aileader.info)
 

@@ -1,3 +1,6 @@
+---
+---
+
 # 🧩 Classroom Differentiation (50)
 
 1. Give me strategies for differentiating instruction to meet the needs of diverse learners.

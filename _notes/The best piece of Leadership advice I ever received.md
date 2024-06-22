@@ -1,3 +1,6 @@
+---
+---
+
 When I was just 29 years old, John Bone gave me an unforgettable piece of advice. that made me look like a genius 5 years later.
 
 I was just starting in my first administrator position, and had been running myself ragged trying to help our Title I school. But, like most beginners, I was making a lot of mistakes: pleasing everyone, focusing solely on data, and making it not about the people.

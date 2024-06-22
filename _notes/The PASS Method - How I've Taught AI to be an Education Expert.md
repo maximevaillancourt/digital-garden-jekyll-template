@@ -1,3 +1,6 @@
+---
+---
+
 Since ChatGPT was first introduced, I knew that I had to have a method for communicating with it so it would do what I wanted. 
 
 I created this prompt method specifically for educators to help them prompt AI in a way that made sense for them. 

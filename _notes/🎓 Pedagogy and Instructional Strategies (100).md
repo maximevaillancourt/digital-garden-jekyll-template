@@ -1,3 +1,6 @@
+---
+---
+
 # 🎓 Pedagogy and Instructional Strategies (100)
 
 1. Give me three strategies for promoting active learning in a history class.

@@ -1,3 +1,6 @@
+---
+---
+
 Leaving education and starting consulting is hard, and can be very stressful financially.
 
 I've read tons of books on managing **money** in my **solopreneur business**, and this book [Profit First](https://amzn.to/3JUsAPA) is the best one I've seen.

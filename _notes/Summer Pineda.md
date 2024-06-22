@@ -1,3 +1,6 @@
+---
+---
+
 I'm not a mompreneur, but I learned a ton from this video with Moiret Miketa and Summer PIneda. 
 
 Summer started her career in the mortgage industry 16 years ago-2008!

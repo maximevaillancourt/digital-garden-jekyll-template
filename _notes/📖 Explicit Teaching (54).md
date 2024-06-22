@@ -1,3 +1,6 @@
+---
+---
+
 #  📖 Explicit Teaching (54)
 
 1. "Create a lesson plan for a unit on [concept being taught] that includes a variety of activities and assessments and takes into account the following paragraph where I provide a brief description on the skills and knowledge of my students."

@@ -1,3 +1,6 @@
+---
+---
+
 1. Give me an example of a differentiated lesson plan for teaching multiplication to students with varying levels of math proficiency.
 2. I want strategies for integrating technology effectively into a lesson plan for teaching a historical event.
 3. Provide me with three methods for incorporating hands-on activities and experiments into a science lesson plan.

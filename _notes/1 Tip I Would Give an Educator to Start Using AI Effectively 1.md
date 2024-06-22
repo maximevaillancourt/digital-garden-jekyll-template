@@ -1,3 +1,6 @@
+---
+---
+
 # 1 Tip I Would Give an Educator to Start Using AI Effectively
 
 I have been consulting educators on Automation and AI for 15 years now, 12 years since I published my book Paperless Principal. And what I can tell you (from experience) is that in order to effectively use these tools you need to make it practical, make it personal, and make it part of your day

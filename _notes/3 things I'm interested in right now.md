@@ -1,3 +1,6 @@
+---
+---
+
 ### **_Day 2: 3 Topics I Am Exploring In My Life Right Now_**
 
 _There are 3 topics I am actively thinking about a lot these days:_

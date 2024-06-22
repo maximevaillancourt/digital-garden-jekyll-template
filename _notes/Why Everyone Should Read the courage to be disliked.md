@@ -1,3 +1,6 @@
+---
+---
+
 What if Sigmund Freud lost and Alfred Adler won the epic battle of modern psychology? 
 
 "[The Courage to be Disliked](https://www.goodreads.com/en/book/show/43306206)" by [Ichiro Kishimi](https://www.goodreads.com/author/show/14541046.Ichiro_Kishimi), [Fumitake Koga](https://www.goodreads.com/author/show/14541047.Fumitake_Koga) is the best book on Adlerian Psychology. 

@@ -1,3 +1,6 @@
+---
+---
+
 
   
 Yesterday, OpenAI released the latest version of their model called GPT-4o, as in 4 Omni. 

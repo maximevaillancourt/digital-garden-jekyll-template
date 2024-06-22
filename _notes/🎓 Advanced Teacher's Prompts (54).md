@@ -1,3 +1,6 @@
+---
+---
+
 1. "How could you use your prior knowledge and skills to tackle this new challenge? What strategies would you use to overcome any obstacles?"
 2. "Create a quiz with 5 multiple choice questions that assesses students' understanding of [concept being taught]."
 3. "Create an assignment that is challenging for students who have a strong understanding of [concept being taught], but also provides support and scaffolding for students who are struggling with the material."

@@ -1,3 +1,6 @@
+---
+---
+
 Sometimes, when we are searching for something, the Lord keeps it hidden from us so we can find the thing that will bless our life even more, even if we can’t understand it in the moment. 
 
 This is what is happening to me right now. There are things I want that I’m searching for, and they’re not happening, but God is teaching me other things, for a wise purpose that He understands, but that I don’t, yet. 
