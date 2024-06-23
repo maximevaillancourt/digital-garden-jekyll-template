@@ -13,13 +13,13 @@ You can learn more about me at my Link-in-Bio page: [jethrojon.es](https://jethr
 
 See what I'm up to now on my [now page]({{ site.baseurl }}/now)
 
-See below for my most recently updated notes. That's the last 10. 
+See below for my most recently updated notes. That's the last 30. 
 
 <strong>Recently updated notes</strong>
 
 <ul>
   {% assign recent_notes = site.notes | sort: "last_modified_at_timestamp" | reverse %}
-  {% for note in recent_notes limit: 10 %}
+  {% for note in recent_notes limit: 30 %}
     <li>
       {{ note.last_modified_at | date: "%Y-%m-%d" }} — <a class="internal-link" href="{{ site.baseurl }}{{ note.url }}">{{ note.title }}</a>
     </li>
