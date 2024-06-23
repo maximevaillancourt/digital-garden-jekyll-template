@@ -1,5 +1,5 @@
 ---
-title: 'About'
+title: About SDL Academy
 date: Wed, 15 Jul 2020 19:41:38 +0000
 draft: false
 ---
