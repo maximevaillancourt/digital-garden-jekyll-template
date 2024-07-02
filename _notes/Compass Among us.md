@@ -6,6 +6,7 @@ cover: https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl
 publish date: 2021-10-12
 tags:
   - newsletter
+permalink: compass
 ---
 # Sage on the Stage < Guide on the Side < Compass Among Us
 ### How we move from the traditional view, to the modern view, to the future view of teachers.
