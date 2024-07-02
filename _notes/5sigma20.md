@@ -16,4 +16,6 @@ Testimonials
 *   Encouraging conversation after keynote. Thank you for sharing your story. I loved how students were leading activities... - Michael
 *   The student-driven projects you described in your keynote was beyond any work I’ve done with schools in the last ten years. - Tim
 
-![5StagesMountain large.png](https://images.squarespace-cdn.com/content/v1/4fffa949e4b0b4590d67b4e7/1582557741478-1UBOOG26BF6KITWEQ1XU/5StagesMountain+large.png)
+![5StagesMountain large.png]({{ site.url }}/assets/5Stages.png)
+
+[[speaking]]
