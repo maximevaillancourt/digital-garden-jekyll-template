@@ -7,7 +7,9 @@ draft: false
 The Place for Student Driven Learning
 =====================================
 
-![Screen Shot 2021-08-17 at 9.46.47 PM.png](https://images.squarespace-cdn.com/content/v1/4fffa949e4b0b4590d67b4e7/1629254876791-P7J42AN8BLFONPHBATIP/Screen+Shot+2021-08-17+at+9.46.47+PM.png)
+Learn more about [[Synergy]]
+Here's my 5 Stages of student driven learning![]({{ site.url }}/assets/5stages.png)
+
 
 Join the student driven learning community [on ASCD.org](https://ascdcommunity.ascd.org/group/23-student-driven-learning)
 
