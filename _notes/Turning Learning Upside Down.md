@@ -36,15 +36,15 @@ Here's my Four Year Plan (TM haha):
 
 
 
-](http://www.transformativeprincipal.org/enjoy-the-journey-with-jethro-jones-transformative-principal-1035/)
+](https://transformativeprincipal.org/s4/bonus216)
 
-Click the image above to go to the podcast where I explain this in more detail. 
+Click the image above to go to the [podcast](https://transformativeprincipal.org/s4/bonus216) where I explain this in more detail. 
 
 In the last month and a half, there has been a confluence of factors that have helped me see that it is truly possible to do what we need to do for our kids.
 
 I'm a podcast nerd, so many of these links are to podcasts, which is worthwhile, because you get to hear the excitement in the voices as they talk about it.
 
-I spoke a little bit about this passion in my podcast a couple weeks ago, where I [suggested that we end college career readiness](http://www.transformativeprincipal.org/end-college-and-career-readiness-with-jethro-jones-transformative-principal-1040/).
+I spoke a little bit about this passion in my podcast a couple weeks ago, where I [suggested that we end college career readiness](https://transformativeprincipal.org/s4/bonus219).
 
 The dream I have had for education is already happening at a place called Acton Academy. At least a year and a half ago, Seth Godin suggested I talk with Jeff Sandefer, the co-founder (with his wife, Laura) of Acton Academy.
 
@@ -58,7 +58,7 @@ While I was in the process of arranging that, the book [Courage to Grow](http://
 
 Soon after that, Laura was on [The 1 Thing Podcast](https://www.the1thing.com/podcasts/99/)t. Listen [here](https://overcast.fm/+HzI0exNwA). I was on [The 1 Thing podcast, too, btw](https://www.the1thing.com/podcasts/101/).
 
-Then I interviewed Jeff a couple weeks later. [Here is the early release, unedited of that episode](https://overcast.fm/+GMAhjZTq4).
+Then I interviewed Jeff a couple weeks later. [Here is that episode](https://transformativeprincipal.org/s5/219).
 
 We can turn learning over to our students and really empower them in a powerful way.
 
