@@ -1,6 +1,6 @@
 ---
 permalink: praise
-creation date: 2024-06-07
+date: 2024-06-07
 ---
 Praising kids is manipulation and naturally creates an adversarial relationship. 
 
