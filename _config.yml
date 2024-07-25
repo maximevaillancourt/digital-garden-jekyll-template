@@ -1,6 +1,7 @@
 title:               Welcome to Jethro
 include:             ['_pages']
 exclude:             ['_includes/notes_graph.json']
+url:                "https://jethro.site"
 # You may need to change the base URL depending on your deploy configuration.
 # baseurl:             ''
 
@@ -27,6 +28,9 @@ plugins:
 sass:
   sass_dir:          _sass
   style:            :compressed
+
+feed:
+    path: feed.xml
 
 collections:
   notes:
