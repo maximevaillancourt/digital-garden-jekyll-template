@@ -1,6 +1,6 @@
 ---
-title: 'Thanks!'
-date: Fri, 16 Feb 2024 17:47:53 +0000
+title: Thanks!
+date: 2020-07-24
 draft: false
 ---
 
@@ -15,4 +15,7 @@ While you're here:
 *   Learn about [the Mastermind](https://transformativeprincipal.com)
     
 *   Learn about the [Trauma-informed course](http://jethrojones.com/trauma)
+
+
+Have a Good Life.
 
