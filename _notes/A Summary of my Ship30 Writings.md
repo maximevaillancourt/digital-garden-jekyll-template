@@ -65,7 +65,7 @@ Here's all my writings (numbers 14, 26, 19, and 32 were the most popular):
     https://x.com/jethrojones/status/1796386396678312057
 25. [[You made up your anger]]
     https://x.com/jethrojones/status/1796753411343589401
-26. [[praise]] - It's manipulation
+26. [[2024-06-07-Praise]] - It's manipulation
     https://x.com/jethrojones/status/1797428810352312577
 27. [[Self-Esteem]]
     https://x.com/jethrojones/status/1797862450643312930
