@@ -22,6 +22,7 @@ relative_permalinks: false
 
 plugins:
   - jekyll-last-modified-at
+  - jekyll-spaceship
 
 sass:
   sass_dir:          _sass
@@ -41,3 +42,19 @@ defaults:
       path: "_notes/**/*.md"
     values:
       layout: "note"
+
+
+jekyll-spaceship:
+  # default enabled processors
+  processors:
+    - mermaid-processor
+  mermaid-processor:
+    mode: default  # mode value 'pre-fetch' for fetching image at building stage
+    css:
+      class: mermaid
+    syntax:
+      code: 'mermaid'
+      custom: ['@startmermaid', '@endmermaid']
+    config:
+      theme: default
+    src: https://kroki.io/mermaid/svg/

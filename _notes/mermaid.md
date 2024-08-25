@@ -25,6 +25,7 @@ Here are the themes:
 | Default   | anything else | Grey\Blue    |
 
 ```mermaid
+
 %%{init: {
 "theme": "default",
 "themeCSS": [
@@ -134,4 +135,5 @@ erDiagram
         float amount "Cost of thing"
     }
     finReport1 ||--|| finReport2 : "Relationship lable"
+
 ```
