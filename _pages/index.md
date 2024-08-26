@@ -28,6 +28,8 @@ See below for my most recently updated notes. That's the last 10.
   {% endfor %}
 </ul>
 
+Have a Good Life.
+
 <style>
   .wrapper {
     max-width: 46em;

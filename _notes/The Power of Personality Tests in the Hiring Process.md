@@ -68,3 +68,5 @@ Tony Robbins is awesome and gives a shortened [DISC profile away for free at his
 It doesn’t really matter which one you get or use. What matters is that you have a framework for having those conversations with someone else.
 
 If you have questions or want support on this, just drop me a line. I love talking about it with people.
+
+[[Leadership VS Management]]
