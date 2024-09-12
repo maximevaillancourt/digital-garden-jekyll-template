@@ -25,7 +25,6 @@ relative_permalinks: false
 plugins:
   - jekyll-last-modified-at
   - jekyll-feed
-  - jekyll-seo-tag
   
 sass:
   sass_dir:          _sass

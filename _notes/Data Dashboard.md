@@ -5,7 +5,7 @@ description: Lifelong Learning, overcoming trials, what education is really for,
 publish: "true"
 permalink: https://jethro.site/data-dashboard
 aliases: 
-publish date: 
+publish date: 2024-03-04
 tags:
   - data
   - dashboard

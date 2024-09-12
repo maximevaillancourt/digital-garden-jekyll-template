@@ -1,5 +1,7 @@
 ---
 permalink: aip
+title: AI Presentations by Jethro Jones
+description: The presentations about AI that Jethro Jones has presented on throughout the country.
 ---
 
 
