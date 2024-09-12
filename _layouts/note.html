@@ -6,8 +6,8 @@ layout: default
   <div>
     <h1>{{ page.title }}</h1>
     <time datetime="{{ page.last_modified_at | date_to_xmlschema }}">{% if page.type != 'pages' %}
-      Originally published: {{ page.date | date: "%m-%d-%Y" }} <br>
-      Last updated: {{ page.last_modified_at | date: "%m-%d-%Y" }}
+      Originally published: {{ page.date | date: "%B %d, %Y" }} <br>
+      Last updated: {{ page.last_modified_at | date: "%B %d, %Y" }}
       {% endif %}
     </time>
   </div>
