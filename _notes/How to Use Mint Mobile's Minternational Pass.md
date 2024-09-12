@@ -12,10 +12,11 @@ First, for my daughter, she had to request the Minternational Pass from her phon
 I bought a pass for myself at the same time I bought her pass. They don't expire for 360 days, so you can buy it early, or right when you get there. 
 
 The buying process is very simple, just tap "MINTL PASS" on your phone in your Mint Mobile account: 
-![[IMG_1AD5536140D4-1.jpeg]]
+![click buy MINTL PASSES]({{ site.url }}/assets/IMG_1AD5536140D4-1.jpeg)
 
 Then, you can choose which one you want to purchase, I went for the 10GB data with 500 minutes of talking, 500 text messages:
-![[IMG_EC77E4902A89-1.jpeg]]
+
+![Choose your plan]({{ site.url }}/assets/IMG_EC77E4902A89-1.jpeg)
 
 It cost $20 for all the access I needed while in Japan. I was there for a week, so I opted for the 10 day plan. 
 
@@ -61,10 +62,9 @@ What did I use for all my data? Well, it was mostly maps for directions and tran
 
 Btw, the Arc Browser "browse for me" search function was amazing to learn about where I was in Japan. I used that a ton. You just type in anything, and then it searches and organizes information for you. It's amazing. So much better than Google. 
 
-![[arc 1.png]]
+![Arc Browse for me example on Roppongi Tokyo]({{ site.url }}/assets/arc1.png)
 
-
-![[IMG_0483.jpg]]
+![Data usage]({{ site.url }}/assets/IMG_0483.jpg)
 
 I did change my photos to not upload using cellular data, because I took a lot of those and used the hotel wifi to upload them. And I used my phone like normal for everything else. It seems that there was plenty of data for me to get around, use translate and transit passes, as well as get directions. 
 
