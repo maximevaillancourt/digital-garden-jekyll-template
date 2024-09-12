@@ -11,3 +11,4 @@ gem "nokogiri"
 gem 'jekyll-spaceship', group: :jekyll_plugins
 gem 'jekyll-feed'
 gem 'jekyll-seo-tag'
+gem 'jekyll-sitemap'

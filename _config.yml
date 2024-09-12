@@ -26,6 +26,7 @@ plugins:
   - jekyll-last-modified-at
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-sitemap
   
 sass:
   sass_dir:          _sass

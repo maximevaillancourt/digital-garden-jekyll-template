@@ -1,5 +1,15 @@
 ---
-permalink: /speaking
+last_modified_at: September 12, 2024
+permalink: speaking
+description: Jethro Jones speaking page gives details about speaking engagements past, present and future
+title: Presentations and Speaking
+image: 
+published: "true"
+sitemap: "true"
+excerpt_separator: <!--more-->
+category: 
+tags: 
+date: 2024-03-01
 ---
 My main focus is the integration of leadership and technology. If you would like to have me speak at your event, please [get in touch](mailto:jethro@transformativeprincipal.com).
 
