@@ -1,4 +1,5 @@
 ---
+permalink: mintlpass
 ---
 
 I've been a Mint Mobile customer for years. It's a [great, and inexpensive](http://fbuy.me/r34At), service that works well. 
