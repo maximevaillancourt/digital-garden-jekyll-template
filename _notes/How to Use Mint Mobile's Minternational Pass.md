@@ -36,22 +36,25 @@ The other two people I was traveling with used a different eSIM Provider and the
 Upon landing in Japan, I took my phone out of airplane mode, and it started searching for a signal. 
 
 Within about 30 seconds, I got a text from Mint saying:
-
->Hey jetsetter. Need a Minternational Pass? Text one of the following to 6700:
-> GO1DAY - $5 60 mins, 60 texts, 1GB.
-> GO3DAY - $10 200 mins, 200 texts, 3 high-speed GB with unlimited 3G speeds afterwards. 
-> GO10DAY - $20 500 mins, 500 texts, 10 high-speed GB with unlimited 3G speeds afterwards.
-> ACTIVATE - Activate your earliest stored pass
+```
+Hey jetsetter. Need a Minternational Pass? Text one of the following to 6700:
+ GO1DAY - $ 5 60 mins, 60 texts, 1GB.
+ GO3DAY - $ 10 200 mins, 200 texts, 3 high-speed GB with unlimited 3G speeds afterwards. 
+ GO10DAY - $ 20 500 mins, 500 texts, 10 high-speed GB with unlimited 3G speeds afterwards.
+ACTIVATE - Activate your earliest stored pass
+ ```
 
 A couple seconds later, I got another text that said: 
-
->Mint Mobile: Hey jetsetter. You've got a Minternational Pass. If you're ready to roam, text ACTIVATE to 6700, or check if Wi-Fi is available to activate in the app https://m.mintmobile.com/48KPrYr
+```
+Mint Mobile: Hey jetsetter. You've got a Minternational Pass. If you're ready to roam, text ACTIVATE to 6700, or check if Wi-Fi is available to activate in the app https://m.mintmobile.com/48KPrYr
+```
 
 I texted back "ACTIVATE"
 
 And a few seconds later, I got this message:
->Welcome jetsetter. You're ready to roam with your 10-Day Minternational Pass. Text GOROAM to 6700 to see your balance at anytime. Want to roam like a pro? Check out these tips and tricks https://mintmobile.com/features/international-roaming.
-
+```
+Welcome jetsetter. You're ready to roam with your 10-Day Minternational Pass. Text GOROAM to 6700 to see your balance at anytime. Want to roam like a pro? Check out these tips and tricks https://mintmobile.com/features/international-roaming.
+```
 ## Data Speed
 Having the internet in your pocket isn't very useful if it isn't fast enough to give you what you need. I was worried about Mint Mobile (being a budget carrier) even though they do have 5G in the states, being able to give me good service in Japan. 
 
