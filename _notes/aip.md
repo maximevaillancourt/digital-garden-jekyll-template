@@ -1,5 +1,17 @@
 ---
 ---
+>[!SUMMARY]- Table of Contents
+>- [[aip#AI Presentations|AI Presentations]]
+>   - [[aip#How AI in Employee Evaluations Can Enhance Human Flourishing|How AI in Employee Evaluations Can Enhance Human Flourishing]]
+>   - [[aip#How AI Can Improve Communication to Increase Human Flourishing|How AI Can Improve Communication to Increase Human Flourishing]]
+>   - [[aip#Using RAG (Retrieval-Augmented Generation) to Make Casper, Wyoming's City Policies Easily Accessible|Using RAG (Retrieval-Augmented Generation) to Make Casper, Wyoming's City Policies Easily Accessible]]
+>   - [[aip#Using AI to Deepen the Student-Teacher Relationship|Using AI to Deepen the Student-Teacher Relationship]]
+>   - [[aip#Using AI to Build a Culture of Human Connection|Using AI to Build a Culture of Human Connection]]
+>   - [[aip#Dangers and Opportunities of Using AI in Business, Education, and Government|Dangers and Opportunities of Using AI in Business, Education, and Government]]
+>   - [[aip#Using AI to Improve Difficult Conversations and Foster Human Flourishing|Using AI to Improve Difficult Conversations and Foster Human Flourishing]]
+>   - [[aip#Arizona AI Workgroup: Creating Your Own Chatbot|Arizona AI Workgroup: Creating Your Own Chatbot]]
+>   - [[aip#AI Tools Review: Key AI Tools that you can use today|AI Tools Review: Key AI Tools that you can use today]]
+>   - [[aip#How to Get AI to Write in Your Own Voice|How to Get AI to Write in Your Own Voice]]
 
 # AI Presentations
 
