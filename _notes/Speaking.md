@@ -25,6 +25,8 @@ Sharing what I learn is very important to me. Here you will find links and resou
 -   Student Driven Learning
     -   This multi-day workshop is geared towards moving whole systems to a student-driven learning model. 
 
+## For More about AI Presentations, see [[aip|here]].
+
 ---
 
 ## TEDxCSDTeachers 
@@ -50,6 +52,7 @@ Juse 11 - Texas Association of School Principals - Going beyond AI Policy (fill-
 
 September 2024 - Buckeye Union School District - AI Policy and Beyond
 
+December 2024 - ALASBO & AML Presentations about AI
 # 2023
 March 1-2 - Olympia WA - Move Up Workshop for Assistant Principals
 
