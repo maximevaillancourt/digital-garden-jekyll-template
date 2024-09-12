@@ -1,7 +1,9 @@
 ---
 permalink: /speaking
 ---
+My main focus is the integration of leadership and technology. If you would like to have me speak at your event, please [get in touch](mailto:jethro@transformativeprincipal.com).
 
+## For More about AI Presentations, see [[aip|here]].
 # Presentations & Speaking
 
 Sharing what I learn is very important to me. Here you will find links and resources from all my presentations. I am available for speaking engagements on any of the topics below: 
@@ -25,7 +27,7 @@ Sharing what I learn is very important to me. Here you will find links and resou
 -   Student Driven Learning
     -   This multi-day workshop is geared towards moving whole systems to a student-driven learning model. 
 
-## For More about AI Presentations, see [[aip|here]].
+
 
 ---
 

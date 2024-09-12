@@ -8,6 +8,8 @@ My approach to AI is simple: It's a tool. We need to use AI to enhance relations
 
 Because AI is changing rapidly, I don't reuse the same AI presentations, so these are presented below as summaries of the types of things I talk about. Unfortunately for me, I have to constantly update to suit the audience and changing landscape. 
 
+If you would like to have me speak at your event, please [get in touch](mailto:jethro@transformativeprincipal.com).
+
 Here are just some of the topics that I've presented on: 
 
 ## How AI in Employee Evaluations Can Enhance Human Flourishing
