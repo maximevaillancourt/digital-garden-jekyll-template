@@ -4,11 +4,7 @@ I've launched more than a dozen podcasts into the top 10% and higher.
 
 See examples below: 
 
-| Podcast | current ranking | time to top 10% 
-|--- | --- | ---
-|Transformative Principal | 1.5% | years! 
-|Super Human Fathers | 5% | 60 days
-| Better Teaching: Only Stuff that Works | 10% | 30 days
+
 
 <a href="https://www.listennotes.com/podcasts/better-teaching-only-stuff-that-works-gene-bmtUPgKM61W/" title="Better Teaching: Only Stuff That Works | Listen Notes"><img loading="lazy" src="https://cdn-images-2.listennotes.com/images/podcasts/bmtUPgKM61W/badge/" alt="Better Teaching: Only Stuff That Works | Listen Notes" style="height: 120px; max-width: 100%;" /></a>
 
