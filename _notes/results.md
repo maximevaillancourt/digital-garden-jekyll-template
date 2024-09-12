@@ -5,8 +5,9 @@ I've launched more than a dozen podcasts into the top 10% and higher.
 See examples below: 
 
 
-
+<div markdown="1">
 <a href="https://www.listennotes.com/podcasts/better-teaching-only-stuff-that-works-gene-bmtUPgKM61W/" title="Better Teaching: Only Stuff That Works | Listen Notes"><img loading="lazy" src="https://cdn-images-2.listennotes.com/images/podcasts/bmtUPgKM61W/badge/" alt="Better Teaching: Only Stuff That Works | Listen Notes" style="height: 120px; max-width: 100%;" /></a>
+</div>
 
 <a href="https://www.listennotes.com/podcasts/super-human-fathers-transformation-kyle-riq37xF9ROU/" title="Super Human Fathers Transformation | Listen Notes"><img loading="lazy" src="https://cdn-images-2.listennotes.com/images/podcasts/riq37xF9ROU/badge/" alt="Super Human Fathers Transformation | Listen Notes" style="height: 120px; max-width: 100%;" /></a>
 
