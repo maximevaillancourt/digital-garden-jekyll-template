@@ -1,3 +1,6 @@
+---
+---
+
 # AI Presentations
 
 I do a variety of presentations about AI. You can see information about those below. 
@@ -11,6 +14,7 @@ Because AI is changing rapidly, I don't reuse the same AI presentations, so thes
 If you would like to have me speak at your event, please [get in touch](mailto:jethro@transformativeprincipal.com).
 
 Here are just some of the topics that I've presented on: 
+* TOC 
 {:toc}
 ## How AI in Employee Evaluations Can Enhance Human Flourishing
 
@@ -61,7 +65,7 @@ Here’s how RAG can be used to improve access to city policies:
 5. **Customized for Local Needs**:
    By tailoring RAG specifically for Casper’s policy documents, it can handle local terms and contexts better than generic search systems. For example, if someone asks about “pet licensing rules,” the AI will retrieve Casper-specific guidelines, rather than generic advice for any city.
 
-#### Example Scenario:
+**Example Scenario:**
 A Casper resident wants to know how to open a small business. They can ask the RAG system, “What are the steps to start a small business in Casper, Wyoming?” The AI pulls relevant information from city policies, licensing procedures, and zoning regulations and provides a comprehensive, easy-to-understand guide. Citations are provided naturally: 
 
 - "According to Casper's Business Licensing Guidelines, you must first register with the Wyoming Secretary of State (Casper Policy §123.45)."
@@ -99,13 +103,13 @@ In essence, AI helps create more time and space for genuine human interactions, 
 
 ## Dangers and Opportunities of Using AI in Business, Education, and Government
 
-#### **Opportunities**:
+ **Opportunities**:
 1. **Efficiency**: AI automates repetitive tasks, saving time and resources across industries.
 2. **Personalization**: AI customizes experiences in education, business, and public services, tailoring solutions to individual needs.
 3. **Data-Driven Decisions**: AI can analyze vast amounts of data, providing insights that lead to smarter decisions in policy-making, business strategy, and education.
 4. **Innovation**: AI fosters innovation by solving complex problems, enhancing creativity, and unlocking new possibilities in technology and service delivery.
 
-#### **Dangers**:
+**Dangers**:
 1. **Bias and Inequality**: AI systems can inherit biases from the data they are trained on, leading to unfair outcomes in hiring, education, or public policies.
 2. **Job Displacement**: Automation threatens certain jobs, especially in repetitive tasks, potentially widening economic inequality.
 3. **Privacy Concerns**: AI-driven data collection can compromise personal privacy, especially when used in surveillance or data analysis without adequate safeguards.
@@ -137,7 +141,7 @@ By using AI to guide these conversations, individuals can improve communication,
 **AI Insights**:
 - AI is versatile but struggles to focus on one task.
 - Early tools, like LebraHQ, are promising for building culture with AI.
-### AI Tools Review: Key AI Tools that you can use today
+## AI Tools Review: Key AI Tools that you can use today
 
 1. **OpenAI**  
    - **Description**: Easy-to-use AI with features like ChatGPT and advanced plugins.
@@ -167,7 +171,7 @@ By using AI to guide these conversations, individuals can improve communication,
    - **Description**: Transforms voice notes into structured text for easier idea organization.
    - **Link**: [Audiopen.ai](https://audiopen.ai/?aff=neRMq)
 
-### How to Get AI to Write in Your Own Voice
+## How to Get AI to Write in Your Own Voice
 
 1. **Provide Samples of Your Writing**: Share multiple examples of your writing style with the AI. The more examples you give, the better it will understand your tone, word choice, and sentence structure.
 

@@ -16,7 +16,7 @@ I'm currently working on a [Doctorate in Servant Leadership, Citizenship, and Ch
 
 # Coaching
 
-Focus areas: Principal Leadership, through the [Transformative Mastermind][4], [Mental Fitness Coaching][5], and speaking [schools to be more student driven learning][6]. 
+Focus areas: Principal Leadership, through the [Transformative Mastermind][4], [Mental Fitness Coaching][5], and speaking [[speaking|schools to be more student driven learning]]. 
 
 - - -
 
@@ -45,7 +45,6 @@ I'm working with several companies in some way, shape or form on these topics:
 [3]: https://transformativeprincipal.org/summer-of-ai
 [4]: http://jethrojones.com/mastermind
 [5]: https://transformative-principal.ck.page/products/mental-fitness-coaching
-[6]: http://jethrojones.com/speaking
 [7]: https://aileader.info/
 [8]: https://ruckusmakers.substack.com?utm_source=navbar&utm_medium=web&r=ac8cl
 [9]: https://edune.ws
