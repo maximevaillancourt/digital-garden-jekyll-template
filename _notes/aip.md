@@ -11,7 +11,7 @@ Because AI is changing rapidly, I don't reuse the same AI presentations, so thes
 If you would like to have me speak at your event, please [get in touch](mailto:jethro@transformativeprincipal.com).
 
 Here are just some of the topics that I've presented on: 
-
+{:toc}
 ## How AI in Employee Evaluations Can Enhance Human Flourishing
 
 AI can transform employee evaluations to not only improve performance but also foster personal and professional growth, contributing to human flourishing:
