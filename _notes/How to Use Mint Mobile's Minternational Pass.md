@@ -17,7 +17,7 @@ The buying process is very simple, just tap "MINTL PASS" on your phone in your M
 
 Then, you can choose which one you want to purchase, I went for the 10GB data with 500 minutes of talking, 500 text messages:
 
-![Choose your plan]({{ site.url }}/attachments/IMG_EC77E4902A89-1.jpeg)
+![Choose your plan]({{ site.url }}/assets/IMG_EC77E4902A89-1.jpeg)
 
 It cost $20 for all the access I needed while in Japan. I was there for a week, so I opted for the 10 day plan. 
 
