@@ -1,3 +1,6 @@
+---
+---
+
 I've been a Mint Mobile customer for years. It's a [great, and inexpensive](http://fbuy.me/r34At), service that works well. 
 
 But my problem was that I didn't know how to use the Minternational Pass, and I couldn't find much information about it. 
@@ -29,38 +32,20 @@ Upon landing in Japan, I took my phone out of airplane mode, and it started sear
 
 Within about 30 seconds, I got a text from Mint saying:
 
->Hey jetsetter. Need a Minternational
-Pass? Text one of the following to
-6700:
-GO1DAY - $5 60 mins, 60 texts, 1
-GB.
-GODAY - $10 200 mins, 200 texts,
-3 high-speed GB with unlimited 3G
-speeds afterwards.
-GO10DAY - $20 500 mins, 500
-texts, 10 high-speed GB with
-unlimited 3G speeds afterwards.
-ACTIVATE - Activate your earliest
-stored pass
+>Hey jetsetter. Need a Minternational Pass? Text one of the following to 6700:
+> GO1DAY - $5 60 mins, 60 texts, 1GB.
+> GO3DAY - $10 200 mins, 200 texts, 3 high-speed GB with unlimited 3G speeds afterwards. 
+> GO10DAY - $20 500 mins, 500 texts, 10 high-speed GB with unlimited 3G speeds afterwards.
+> ACTIVATE - Activate your earliest stored pass
 
 A couple seconds later, I got another text that said: 
 
->Mint Mobile: Hey jetsetter. You've
-got a Minternational Pass. If you're
-ready to roam, text ACTIVATE to
-6700, or check if Wi-Fi is available
-to activate in the app https://m.mintmobile.com/48KPrYr
+>Mint Mobile: Hey jetsetter. You've got a Minternational Pass. If you're ready to roam, text ACTIVATE to 6700, or check if Wi-Fi is available to activate in the app https://m.mintmobile.com/48KPrYr
 
 I texted back "ACTIVATE"
 
 And a few seconds later, I got this message:
->Welcome jetsetter. You're ready to
-roam with your 10-Day
-Minternational Pass. Text GOROAM
-to 6700 to see your balance at
-anytime. Want to roam like a pro?
-Check out these tips and tricks
-https://mintmobile.com/features/international-roaming.
+>Welcome jetsetter. You're ready to roam with your 10-Day Minternational Pass. Text GOROAM to 6700 to see your balance at anytime. Want to roam like a pro? Check out these tips and tricks https://mintmobile.com/features/international-roaming.
 
 ## Data Speed
 Having the internet in your pocket isn't very useful if it isn't fast enough to give you what you need. I was worried about Mint Mobile (being a budget carrier) even though they do have 5G in the states, being able to give me good service in Japan. 
@@ -74,7 +59,7 @@ And just like that, the Minternational Pass worked just great. I had great servi
 
 What did I use for all my data? Well, it was mostly maps for directions and translate for communicating. I did use social media, and search for looking up different things. 
 
-Btw, the Arc Browser "browse for me" search function was amazing to learn about where I was in Japan. I used that a ton. 
+Btw, the Arc Browser "browse for me" search function was amazing to learn about where I was in Japan. I used that a ton. You just type in anything, and then it searches and organizes information for you. It's amazing. So much better than Google. 
 
 ![[arc 1.png]]
 
