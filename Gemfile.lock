@@ -45,6 +45,8 @@ GEM
       jekyll (>= 3.7, < 5.0)
     jekyll-sass-converter (3.0.0)
       sass-embedded (~> 1.54)
+    jekyll-seo-tag (2.8.0)
+      jekyll (>= 3.8, < 5.0)
     jekyll-spaceship (0.10.2)
       gemoji (~> 3.0)
       jekyll (>= 3.6, < 5.0)
@@ -93,6 +95,7 @@ DEPENDENCIES
   jekyll (~> 4.3)
   jekyll-feed
   jekyll-last-modified-at!
+  jekyll-seo-tag
   jekyll-spaceship
   nokogiri
   webrick (~> 1.8)
