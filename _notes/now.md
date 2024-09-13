@@ -1,10 +1,12 @@
 ---
+last_modified_at: September 13, 2024
 ---
 
-Last updated August 26, 2024
 # Creating
 
 With the successful launch of my last two books, [SchoolX][0] and [How to be a Transformative Principal][1], I'm writing my third book: Bad Advice for New Principals, which should be out...whenever I finish it. 
+
+I've also started a [Big Impact Mixer](https://bigimpactmixer.com) where each month I gather people who are making a big impact. 
 
 The [BE Podcast Network][2] now has 43 shows! Wow. 
 
