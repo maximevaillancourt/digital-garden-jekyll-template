@@ -1,5 +1,6 @@
 ---
 title: Simplicity
+date: 2013-12-04
 ---
 For years, I've been focused on simple solutions to complex problems, of where there are many! 
 
