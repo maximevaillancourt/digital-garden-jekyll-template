@@ -11,7 +11,7 @@ category: BIM
 tags:
   - BIM
   - newsletter
-date: 2024-09-20
+publish date: 2024-09-20
 ---
 
 
@@ -20,7 +20,7 @@ date: 2024-09-20
 We had a great time at the Big Impact Mixer yesterday. You can join us, you know. Just go [here](https://bigimpactmixer.com). 
 
 [Brian Pulliam](https://www.linkedin.com/in/briankpulliam/) was our main event and he shared his story of going from making a salary of over 600K as a software engineer lead to working 3-4 hours per day, and that is it! He shared a little bit about why he took this transition, and how rewarding it has been. 
-
+<!--more-->
 - Brian shared his career journey through roles at Microsoft, Zillow, and Coinbase before transitioning to a coaching career.
 - Emphasized the need for a **low-risk transition**, especially considering his family's financial stability.
 - Discussed the concept of **'leap of faith' assumptions** and how they can derail goals if not verified. 
