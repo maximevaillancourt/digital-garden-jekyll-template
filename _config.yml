@@ -1,6 +1,6 @@
 title:               Welcome to Jethro
 include:             ['_pages']
-exclude:             ['_includes/notes_graph.json']
+exclude:             ['_includes/notes_graph.json', '_notes/.obsidian/plugins/obsidian-daily-stats/data.json']
 url:                "https://jethro.site"
 timezone:           "America/Los_Angeles" # Set your timezone
 # You may need to change the base URL depending on your deploy configuration.
