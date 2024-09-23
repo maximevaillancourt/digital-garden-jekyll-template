@@ -34,7 +34,7 @@ Powerful, managed, safe AI-powered tools that bring K-12 students, teachers, and
 
 # Hands on Sessions
 - [[best ai tools]]
-- [Tell me about your project here](https://app.schoolai.com/student-space?code=O7NB)
+- EXIT TICKET: [Tell me about your project here](https://app.schoolai.com/student-space?code=O7NB)
 
 # What Principals Have Created
 
