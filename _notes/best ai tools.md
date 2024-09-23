@@ -1,5 +1,5 @@
 ---
-last_modified_at: 2024-09-22
+last_modified_at: 2024-09-23
 permalink: bestai
 description: The Best AI tools out there, as curated by Jethro Jones. Updated regularly. 
 title: Best AI Tools for Educators
@@ -24,6 +24,9 @@ This page includes some of my favorite AI tools for educators right now. Updated
 
 ## Poe.com
 Poe gives you access to many different AI tools and agents, allowing you to compare responses and get very specific needs met. Like Ludia, which is an AI designed specifically for Universal Design for Learning. 
+
+## Colorbliss.com 
+Create your own line-drawings and coloring pages. 
 
 ## [Typpo.app](https://typpo.app)
 [![](https://share.cleanshot.com/4fvDmkq0+)](https://typpo.app)
