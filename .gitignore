@@ -15,3 +15,5 @@ _includes/notes_graph.json
 .obsidian/
 /_notes/templates
 .DS_Store
+_notes/.DS_Store
+.DS_Store

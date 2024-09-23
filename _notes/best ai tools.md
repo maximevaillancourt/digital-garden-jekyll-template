@@ -1,5 +1,21 @@
+
 ---
+last_modified_at: 2024-09-22
+permalink: bestai
+description: The Best AI tools out there, as curated by Jethro Jones. Updated regularly. 
+title: Best AI Tools for Educators
+image: https://share.cleanshot.com/MlYVyqc3+
+published: "true"
+sitemap: "true"
+excerpt_separator: <!--more-->
+category: 
+tags: 
+date: 2023-08-10
 ---
+
+
+{% if page.image %} <img src="{{ page.image }}" alt=""> {% endif %}
+
 
 # BEST AI Tools for Educators today
 This page includes some of my favorite AI tools for educators right now. Updated regularly. See tutorials for these inside of [AILeader.info](https://aileader.info)
