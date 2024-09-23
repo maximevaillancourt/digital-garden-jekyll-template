@@ -36,6 +36,14 @@ Powerful, managed, safe AI-powered tools that bring K-12 students, teachers, and
 - [[best ai tools]]
 - [Tell me about your project here](https://app.schoolai.com/student-space?code=O7NB)
 
+# What Principals Have Created
 
+[AI For Teacher Observations](https://www.dropbox.com/scl/fi/el7ccl2pvgxnyjuzeicwt/2023-10-10-Julie-and-Danna-School-AI-for-Teacher-Observations.mov?rlkey=h7kjmg33pfyce64x8iczo0fx2&dl=0)
+
+[Observation Reports without sacrificing Quality](https://www.dropbox.com/scl/fi/rd39kec9e0w126z6ta30o/2023-10-10-Mike-M_Rou_AI_video.mp4?rlkey=rn4ud8z0mh7hf8afl526ugb9b&dl=0)
+
+[AudioPen to Imrpove Teacher Observation and Documentation](https://docs.google.com/presentation/d/1rcrnncgbHV-GZEx8V3x-WG9bPh__waTuGZeapcyqYX0/edit?usp=sharing)
+
+[Padelet about Solving Problems With AI](https://padlet.com/crisreyking/problem-solving-with-a1-t5b7r9xvk3r4scjq)
 ## More Questions? 
 Feel free to [reach out to me anytime](mailto:jethro@transformativeprincipal.com)
