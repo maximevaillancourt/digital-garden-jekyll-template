@@ -19,10 +19,12 @@ date: 2024-09-22
 
 This page contains all the links, resources, and tools that I used in my keynote and workshops. If I said I'd add something, it'll be here shortly!
 
-- [Keynote Presentation]()
+- [Keynote Presentation](https://www.dropbox.com/s/m184v9udm1xc3ek/2024-09-25%20AZ%20Buckeye%20Day%20of%20Learning.pdf?dl=1)
+- [Saboteur Assessment](https://www.positiveintelligence.com/saboteurs/) and FREE [Saboteur Discovery Session with me](http://cal.com/jethrojones/sds).
 - [Great Teacher, Great Principal Link](https://docs.google.com/forms/d/e/1FAIpQLSd1HrFwm9vJw1xn45mAPS3EcAVyINC84YbEUTK5gPBI8W4diQ/viewform?usp=sf_link)
 - [BUHSD GEAR UP NotebookLM](https://notebooklm.google.com/notebook/34ae0f8f-6f47-469d-9263-633edae441ae?pli=1) - May need to request access
 - More about [AI Slop](https://simonwillison.net/2024/May/8/slop/)
+- [Depth of Knowledge AI Coach](https://chat.maverikeducation.com/signup)
 
 ## SchoolAI Spaces
 The all-in-one AI platform for teachers and students
