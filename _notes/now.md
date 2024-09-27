@@ -1,7 +1,20 @@
 ---
-last_modified_at: September 13, 2024
+last_modified_at: 2024-09-27
+permalink: now
+description: What's Jethro up to right now?
+title: Now
+image: 
+published: "true"
+sitemap: "true"
+excerpt_separator: <!--more-->
+category: 
+tags: 
+date: 2022-10-01
+layout: page
 ---
 
+
+{% if page.image %} <img src="{{ page.image }}" alt=""> {% endif %}
 # Creating
 
 With the successful launch of my last two books, [SchoolX][0] and [How to be a Transformative Principal][1], I'm writing my third book: Bad Advice for New Principals, which should be out...whenever I finish it. 
