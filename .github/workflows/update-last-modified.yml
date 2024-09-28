@@ -28,6 +28,9 @@ jobs:
         run: |
           #!/bin/bash
 
+          # Enable debugging mode to log all executed commands
+          set -x
+
           # Loop through all markdown files being committed
           for file in $(git diff --cached --name-only --diff-filter=ACM | grep '.md$'); do
             echo "Processing file: $file"
@@ -42,7 +45,7 @@ jobs:
               modified_at_found=false
 
               # Create a temporary file to store the updated content
-              temp_file=$(mktemp) || { echo "Failed to create temp file"; exit 1; }
+              temp_file=$(mktemp) || { echo "Failed to create temp file"; exit 11; }
 
               # Read through the file line by line
               while IFS= read -r line; do
@@ -60,14 +63,14 @@ jobs:
               # If last_modified_at was not found, insert it after the first '---'
               if ! $modified_at_found; then
                 # Insert after the first '---' in the front matter (Linux compatible sed command)
-                sed -i "0,/^---$/!b;//a last_modified_at: $modified_date" "$temp_file"
+                sed -i "0,/^---$/!b;//a last_modified_at: $modified_date" "$temp_file" || { echo "sed command failed"; exit 11; }
               fi
 
               # Overwrite the original file with the modified file
-              mv "$temp_file" "$file"
+              mv "$temp_file" "$file" || { echo "mv command failed"; exit 11; }
 
               # Stage the modified file for commit
-              git add "$file"
+              git add "$file" || { echo "git add failed"; exit 11; }
             fi
           done
 
