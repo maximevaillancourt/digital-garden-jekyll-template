@@ -61,7 +61,7 @@ This shift moves the focus away from dissection and critique to **building conve
 This aligns well with Craig Randall's "Trust-Based Observations," where leaders use curiosity to start a reflective dialogue. Questions like, *“What were you doing to help students learn?”* and *“If you had to do it again, what might you do differently?”* bring the teacher into the conversation and empower them to reflect, without the weight of judgment.
 
 ## Strategy for the 15-Minute Session
-When you only have 15 minutes, every second counts. Here’s a quick plan you could use:
+When you only have 15 minutes, every second counts! Here’s a quick plan you could use:
 
 1. **Start with a Vision-Driven Question**: Ask your group of veteran administrators, *“How is your feedback contributing to your school's vision?”* This immediately shifts the focus from evaluation to something bigger.
 
