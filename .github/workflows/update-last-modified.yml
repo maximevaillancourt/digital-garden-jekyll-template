@@ -1,0 +1,91 @@
+name: Update Last Modified At
+on:
+  push:
+    branches:
+      - main
+jobs:
+  update_last_modified:
+    runs-on: ubuntu-latest
+    if: "!contains(github.event.head_commit.message, 'Update last_modified_at fields')"
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.1.4'
+      - name: Install Bundler
+        run: gem install bundler
+      - name: Install Dependencies
+        run: bundle install
+      - name: Update Last Modified At in Markdown Files
+        run: |
+          #!/bin/bash
+          set -x
+
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+
+          for file in $(git diff --name-only HEAD^ HEAD | grep '.md$'); do
+            echo "Processing file: $file"
+            
+            if [[ -f "$file" ]] && grep -q '^---' "$file"; then
+              modified_date=$(date "+%Y-%m-%d %H:%M:%S")
+              echo "Modified date: $modified_date"
+              
+              temp_file=$(mktemp)
+              if [[ ! -f "$temp_file" ]]; then
+                echo "Failed to create temp file for $file"
+                continue
+              fi
+
+              awk -v date="$modified_date" '
+                BEGIN {front_matter=0; updated=0}
+                /^---/ {
+                  if (front_matter == 0) {
+                    front_matter = 1
+                    print $0
+                    next
+                  } else {
+                    if (updated == 0) {
+                      print "last_modified_at: " date
+                      updated = 1
+                    }
+                    front_matter = 0
+                  }
+                }
+                /^last_modified_at:/ {
+                  if (front_matter == 1) {
+                    print "last_modified_at: " date
+                    updated = 1
+                    next
+                  }
+                }
+                {print}
+                END {
+                  if (front_matter == 1 && updated == 0) {
+                    print "last_modified_at: " date
+                    print "---"
+                  }
+                }
+              ' "$file" > "$temp_file"
+
+              mv "$temp_file" "$file"
+              if [[ $? -ne 0 ]]; then
+                echo "Failed to update $file"
+                continue
+              fi
+
+              git add "$file"
+              if [[ $? -ne 0 ]]; then
+                echo "Failed to stage $file"
+              fi
+            else
+              echo "File $file does not exist or doesn't have front matter"
+            fi
+          done
+
+          git commit -m "Update last_modified_at fields" || echo "No changes to commit"
+          git push
