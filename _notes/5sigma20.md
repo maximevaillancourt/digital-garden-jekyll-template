@@ -1,7 +1,9 @@
+last_modified_at: 2024-09-28 01:42:21
 ---
 title: '5Sigma Keynote'
 date: Mon, 24 Feb 2020 15:28:13 +0000
 draft: false
+last_modified_at: 2024-09-28 01:42:21
 ---
 
 The 5Sigma Edu Conference is a place to learn with world-changing thinkers and innovators within the education community.

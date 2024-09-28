@@ -1,7 +1,7 @@
 ---
 title: Simplicity
 date: 2013-12-04
-last_modified_at: 2024-09-19
+last_modified_at: 2024-09-28 01:42:22
 ---
 For years, I've been focused on simple solutions to complex problems, of where there are many! 
 

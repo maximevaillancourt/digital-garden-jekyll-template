@@ -1,9 +1,11 @@
+last_modified_at: 2024-09-28 01:42:22
 ---
 title: '#SchoolX is here! Get your Copy today!'
 date: 2020-09-09T15:30:00.001-07:00
 draft: false
 url: /2020/09/schoolx-is-here-get-your-copy-today.html
 tags: product
+last_modified_at: 2024-09-28 01:42:22
 ---
 
   

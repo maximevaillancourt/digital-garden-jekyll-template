@@ -1,8 +1,10 @@
+last_modified_at: 2024-09-28 01:42:22
 ---
 title: 'Where to start...And an action item!'
 date: Wed, 24 Jun 2020 16:58:00 +0000
 draft: false
 tags: ['reopening schools', 'covid']
+last_modified_at: 2024-09-28 01:42:22
 ---
 
 [[how-many-teachers-do-i-need-to-hire-for-social-distancing|Last Post]] we talked about all the things you’ve got to think about as you plan for reopening. I totally get it! 
