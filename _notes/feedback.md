@@ -7,7 +7,7 @@ image: /assets/feedback_ai.webp
 published: "true"
 sitemap: "true"
 excerpt_separator: <!--more-->
-category: 
+category: how2be
 tags:
   - feedback
   - rejectthepremise
