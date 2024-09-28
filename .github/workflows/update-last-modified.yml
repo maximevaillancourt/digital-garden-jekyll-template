@@ -12,6 +12,7 @@ jobs:
         uses: actions/checkout@v2
         with:
           fetch-depth: 0
+          submodules: 'recursive'
       - name: Set up Ruby
         uses: ruby/setup-ruby@v1
         with:
@@ -19,7 +20,9 @@ jobs:
       - name: Install Bundler
         run: gem install bundler
       - name: Install Dependencies
-        run: bundle install
+        run: |
+          bundle config set --local git.allow_insecure true
+          bundle install
       - name: Update Last Modified At in Markdown Files
         run: |
           #!/bin/bash
