@@ -20,6 +20,8 @@ layout: post
 
 Administrators have been giving feedback for years, and much like feedback on a student's paper, the teacher is usually only interested in one thing: Am I doing a good enough job to keep my job? 
 
+Kids throw the paper away after looking at the score. Teachers do the equivalent.
+
 The key is to shift the focus from traditional feedback methods to something much deeper. It's about moving away from simply pointing out what’s “right” or “wrong” and towards building conversations that align with the school’s vision. 
 
 In this post, I’ll explore how to make feedback more meaningful, impactful, and supportive—so it’s perceived as caring and practical by teachers, rather than fueling a harmful grapevine.
