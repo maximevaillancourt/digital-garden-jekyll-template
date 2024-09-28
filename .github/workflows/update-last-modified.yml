@@ -1,41 +1,68 @@
-#!/bin/bash
+name: Update Last Modified
 
-# Loop through all markdown files being committed
-for file in $(git diff --cached --name-only --diff-filter=ACM | grep '.md$'); do
-  # Check if the file has front matter
-  if grep -q '^---' "$file"; then
-    # Get the current date
-    modified_date=$(date "+%Y-%m-%d %H:%M:%S")
-    
-    # Define a flag to check if last_modified_at is found
-    modified_at_found=false
+on:
+  push:
+    branches:
+      - main
 
-    # Create a temporary file to store the updated content
-    temp_file=$(mktemp)
+jobs:
+  build:
+    runs-on: ubuntu-latest
 
-    # Read through the file line by line
-    while IFS= read -r line; do
-      # Check if the line contains 'last_modified_at' inside the front matter
-      if [[ $line == last_modified_at* ]]; then
-        # Replace the last_modified_at value
-        echo "last_modified_at: $modified_date" >> "$temp_file"
-        modified_at_found=true
-      else
-        # Copy the line to the temp file
-        echo "$line" >> "$temp_file"
-      fi
-    done < "$file"
+    steps:
+      - uses: actions/checkout@v2
 
-    # If last_modified_at was not found, insert it after the first '---'
-    if ! $modified_at_found; then
-      # Insert after the first '---' in the front matter
-      sed -i '' "0,/^---$/!b;//a last_modified_at: $modified_date" "$temp_file"
-    fi
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.1.4'
 
-    # Overwrite the original file with the modified file
-    mv "$temp_file" "$file"
+      - name: Install Bundler
+        run: gem install bundler
 
-    # Stage the modified file for commit
-    git add "$file"
-  fi
-done
+      - name: Install Dependencies
+        run: bundle install
+
+      - name: Run Last Modified Script
+        run: |
+          #!/bin/bash
+
+          # Loop through all markdown files being committed
+          for file in $(git diff --cached --name-only --diff-filter=ACM | grep '.md$'); do
+            # Check if the file has front matter
+            if grep -q '^---' "$file"; then
+              # Get the current date
+              modified_date=$(date "+%Y-%m-%d %H:%M:%S")
+              
+              # Define a flag to check if last_modified_at is found
+              modified_at_found=false
+
+              # Create a temporary file to store the updated content
+              temp_file=$(mktemp)
+
+              # Read through the file line by line
+              while IFS= read -r line; do
+                # Check if the line contains 'last_modified_at' inside the front matter
+                if [[ $line == last_modified_at* ]]; then
+                  # Replace the last_modified_at value
+                  echo "last_modified_at: $modified_date" >> "$temp_file"
+                  modified_at_found=true
+                else
+                  # Copy the line to the temp file
+                  echo "$line" >> "$temp_file"
+                fi
+              done < "$file"
+
+              # If last_modified_at was not found, insert it after the first '---'
+              if ! $modified_at_found; then
+                # Insert after the first '---' in the front matter
+                sed -i '' "0,/^---$/!b;//a last_modified_at: $modified_date" "$temp_file"
+              fi
+
+              # Overwrite the original file with the modified file
+              mv "$temp_file" "$file"
+
+              # Stage the modified file for commit
+              git add "$file"
+            fi
+          done
