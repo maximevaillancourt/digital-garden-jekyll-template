@@ -1,4 +1,3 @@
-last_modified_at: 2024-09-28 01:46:28
 ---
 title: How Many Teachers Do I Need To Hire For Social Distancing?
 date: Tue, 23 Jun 2020 19:58:53 +0000

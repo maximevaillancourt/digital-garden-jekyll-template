@@ -1,12 +1,11 @@
-last_modified_at: 2024-09-28 01:46:28
 ---
+last_modified_at: 2024-09-28 01:46:28
 title: This is why I do what I do [MUST WATCH VIDEO]
 date: 2018-12-01
 draft: false
 tags:
   - synergy
   - service
-last_modified_at: 2024-09-28 01:46:28
 ---
 
 Middle school students came up with an idea, made plans, collaborated with the elementary school, worked with other teachers and a principal, and then taught volleyball, cheer, and soccer to 2nd and 3rd graders at a very highly proficient level.

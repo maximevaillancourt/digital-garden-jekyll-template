@@ -1,4 +1,3 @@
-last_modified_at: 2024-09-28 01:46:28
 ---
 title: 'Take your daughter to work day'
 date: 2012-04-26T14:52:00.001-07:00

@@ -1,4 +1,3 @@
-last_modified_at: 2024-09-28 01:46:28
 ---
 title: 'PBIS as Medicine'
 date: Tue, 07 Aug 2012 13:38:57 +0000

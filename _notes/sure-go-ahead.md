@@ -1,4 +1,3 @@
-last_modified_at: 2024-09-28 01:46:28
 ---
 title: 'Sure, Go Ahead'
 date: 2007-02-22T10:41:00.000-08:00

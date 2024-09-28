@@ -1,8 +1,20 @@
-last_modified_at: 2024-09-28 01:46:28
 ---
-last_modified_at: 2024-09-28 01:46:28
+last_modified_at: 
+permalink: 
+description: 
+title: 
+image: 
+published: "true"
+sitemap: "true"
+excerpt_separator: <!--more-->
+category: 
+tags: 
+date: 2001-01-01
+layout:
 ---
 
+
+{% if page.image %} <img src="{{ page.image }}" alt=""> {% endif %}
 I produce podcasts that get in the top 10% worldwide within 90 days. 
 
 I've launched more than a dozen podcasts into the top 10% and higher. 

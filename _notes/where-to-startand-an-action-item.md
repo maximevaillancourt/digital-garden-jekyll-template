@@ -1,4 +1,3 @@
-last_modified_at: 2024-09-28 01:46:28
 ---
 title: 'Where to start...And an action item!'
 date: Wed, 24 Jun 2020 16:58:00 +0000

@@ -1,4 +1,3 @@
-last_modified_at: 2024-09-28 01:46:28
 ---
 title: 'The Kindle'
 date: 2009-10-12T14:42:00.000-07:00

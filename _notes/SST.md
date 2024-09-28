@@ -1,3 +1,6 @@
+---
+---
+
 last_modified_at: 2024-09-28 01:46:27
 ---
 title: How to Write a 5 Minute Talk in Less than a Minute
