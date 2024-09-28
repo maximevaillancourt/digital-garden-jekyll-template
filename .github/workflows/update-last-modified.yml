@@ -31,8 +31,16 @@ jobs:
           # Enable debugging mode to log all executed commands
           set -x
 
+          # Get the list of modified markdown files
+          modified_files=$(git diff --cached --name-only --diff-filter=ACM | grep '.md$')
+          
+          if [ -z "$modified_files" ]; then
+            echo "No modified markdown files found."
+            exit 0
+          fi
+
           # Loop through all markdown files being committed
-          for file in $(git diff --cached --name-only --diff-filter=ACM | grep '.md$'); do
+          for file in $modified_files; do
             echo "Processing file: $file"
             
             # Check if the file has front matter
@@ -62,8 +70,7 @@ jobs:
 
               # If last_modified_at was not found, insert it after the first '---'
               if ! $modified_at_found; then
-                # Insert after the first '---' in the front matter (Linux compatible sed command)
-                sed -i "0,/^---$/!b;//a last_modified_at: $modified_date" "$temp_file" || { echo "sed command failed"; exit 11; }
+                sed "0,/^---$/!b;//a last_modified_at: $modified_date" "$file" > "$temp_file" || { echo "sed command failed"; exit 11; }
               fi
 
               # Overwrite the original file with the modified file
@@ -71,11 +78,17 @@ jobs:
 
               # Stage the modified file for commit
               git add "$file" || { echo "git add failed"; exit 11; }
+            else
+              echo "No front matter found in $file, skipping."
             fi
           done
 
-      - name: Commit changes
+      - name: Commit changes, if any
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git commit -m "Update last_modified_at fields" || echo "No changes to commit"
+          if git diff-index --quiet HEAD --; then
+            echo "No changes to commit."
+          else
+            git commit -m "Update last_modified_at fields"
+          fi
