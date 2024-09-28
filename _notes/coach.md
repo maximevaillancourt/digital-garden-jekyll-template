@@ -25,7 +25,7 @@ Everyone wants to be their best selves. One problem we face is that it is too ea
 
 Most attempts at positive change fail because we stop at insight and don’t build habits. Sustained change towards a more positive mind requires laying down neural pathways to form new habits through consistent daily practice. And that’s what our PQ Program empowers you to do.
 
-<iframe src="https://share.descript.com/embed/GmpDPandFOC?t=0.000004&autoplay=0" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://share.descript.com/embed/GmpDPandFOC?t=0.000004&autoplay=1" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
 ### **How it works**
 

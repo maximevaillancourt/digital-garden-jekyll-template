@@ -11,10 +11,9 @@ category:
 tags: 
 date: 2022-10-01
 layout: page
+last_modified_at: September 13, 2024
 ---
 
-
-{% if page.image %} <img src="{{ page.image }}" alt=""> {% endif %}
 # Creating
 
 With the successful launch of my last two books, [SchoolX][0] and [How to be a Transformative Principal][1], I'm writing my third book: Bad Advice for New Principals, which should be out...whenever I finish it. 
