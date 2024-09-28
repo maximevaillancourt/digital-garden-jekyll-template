@@ -1,11 +1,9 @@
 GIT
   remote: https://github.com/maximevaillancourt/jekyll-last-modified-at
-  revision: e0c918691db625401ef5850a030da59d0124d356
-  branch: add-support-for-files-in-git-submodules
+  revision: 3052cbe5fdf550dd1e85ed8eb7ec7a5595cd9f1d
   specs:
-    jekyll-last-modified-at (1.3.0)
+    jekyll-last-modified-at (1.3.2)
       jekyll (>= 3.7, < 5.0)
-      posix-spawn (~> 0.3.9)
 
 GEM
   remote: https://rubygems.org/
@@ -71,7 +69,6 @@ GEM
       racc (~> 1.4)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
-    posix-spawn (0.3.15)
     public_suffix (5.0.4)
     racc (1.7.3)
     rainbow (3.1.1)
