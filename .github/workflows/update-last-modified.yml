@@ -17,6 +17,10 @@ jobs:
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: '3.1.4'
+      - name: Update Gemfile
+        run: |
+          sed -i 's|gem "jekyll-last-modified-at", git: "https://github.com/maximevaillancourt/jekyll-last-modified-at", branch: "add-support-for-files-in-git-submodules"|gem "jekyll-last-modified-at", git: "https://github.com/maximevaillancourt/jekyll-last-modified-at"|' Gemfile
+          cat Gemfile
       - name: Install Bundler
         run: gem install bundler
       - name: Install Dependencies
@@ -90,5 +94,6 @@ jobs:
             fi
           done
 
-          git commit -m "Update last_modified_at fields" || echo "No changes to commit"
+          git add Gemfile Gemfile.lock
+          git commit -m "Update last_modified_at fields and Gemfile" || echo "No changes to commit"
           git push
