@@ -1,7 +1,7 @@
-last_modified_at: 2024-09-28 01:42:21
+last_modified_at: 2024-09-28 01:46:27
 ---
 title: How to Write a 5 Minute Talk in Less than a Minute
-last_modified_at: 2024-09-28 01:42:21
+last_modified_at: 2024-09-28 01:46:27
 ---
 Writing a talk[^1] strikes fear into the hearts of so many people. Public speaking can cause typically smart, articulate, intelligent people to second guess, panic, stumble, and feel incredible imposter syndrome from even a short talk. 
 

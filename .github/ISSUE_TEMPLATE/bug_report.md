@@ -1,4 +1,4 @@
-last_modified_at: 2024-09-28 01:42:21
+last_modified_at: 2024-09-28 01:46:27
 ---
 name: Bug report
 about: Something's broken with the template
@@ -6,7 +6,7 @@ title: ''
 labels: bug
 assignees: ''
 
-last_modified_at: 2024-09-28 01:42:21
+last_modified_at: 2024-09-28 01:46:27
 ---
 
 <!-- If you're requesting a new feature or suggesting an idea, please use the "Discussions" tab instead of opening a new issue. Thank you! -->

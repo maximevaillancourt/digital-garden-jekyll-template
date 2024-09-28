@@ -1,11 +1,11 @@
-last_modified_at: 2024-09-28 01:42:22
+last_modified_at: 2024-09-28 01:46:28
 ---
 title: 'YouTube for Schools'
 date: 2013-03-18T09:14:00.001-07:00
 draft: false
 url: /2013/03/youtube-for-schools.html
 tags: YouTube
-last_modified_at: 2024-09-28 01:42:22
+last_modified_at: 2024-09-28 01:46:28
 ---
 
 The other day I walked into a teacher's room and found he was supplementing Reading Street with a great video on YouTube. Though not in his case, there can be times when ads or related videos may not be appropriate for our kids, so here is [YouTube's acknowledgement and help for that problem](http://www.youtube.com/schools  )

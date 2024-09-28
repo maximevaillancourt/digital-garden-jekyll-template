@@ -1,4 +1,4 @@
-last_modified_at: 2024-09-28 01:42:21
+last_modified_at: 2024-09-28 01:46:27
 ---
 layout: post
 title: Frameworks
@@ -9,7 +9,7 @@ permalink:
 aliases: 
 publish date: 
 tags:
-last_modified_at: 2024-09-28 01:42:21
+last_modified_at: 2024-09-28 01:46:27
 ---
 - [[Frameworks for Job Interviews]]
 - [[SST|How to Write a 5 Minute Speech in 30 Seconds]]

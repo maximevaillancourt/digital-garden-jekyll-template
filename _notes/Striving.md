@@ -1,6 +1,6 @@
-last_modified_at: 2024-09-28 01:42:22
+last_modified_at: 2024-09-28 01:46:27
 ---
-last_modified_at: 2024-09-28 01:42:22
+last_modified_at: 2024-09-28 01:46:27
 ---
 
 When people say kids aren't motivated they are lying to themselves. 

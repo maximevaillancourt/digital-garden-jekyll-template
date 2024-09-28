@@ -1,4 +1,4 @@
-last_modified_at: 2024-09-28 01:42:22
+last_modified_at: 2024-09-28 01:46:28
 ---
 title: 'Your Values are Only Worth What You’re Willing to Pay for Them'
 date: 2021-10-03T01:10:00.001-07:00
@@ -6,7 +6,7 @@ draft: false
 url: /2021/10/your-values-are-only-worth-what-youre.html
 tags: 
 - Podcast
-last_modified_at: 2024-09-28 01:42:22
+last_modified_at: 2024-09-28 01:46:28
 ---
 > [!ai]+ AI
 >

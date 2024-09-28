@@ -1,7 +1,7 @@
-last_modified_at: 2024-09-28 01:42:22
+last_modified_at: 2024-09-28 01:46:28
 ---
 permalink: /speaking
-last_modified_at: 2024-09-28 01:42:22
+last_modified_at: 2024-09-28 01:46:28
 ---
 
 # Presentations & Speaking
