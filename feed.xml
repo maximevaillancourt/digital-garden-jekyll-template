@@ -1,23 +1,27 @@
 ---
 layout: null
 ---
-<?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
   <channel>
     <title>{{ site.title | xml_escape }}</title>
+    <link>https://jethro.site/</link>
     <description>{{ site.description | xml_escape }}</description>
-    <link>{{ site.url | append: site.baseurl }}/</link>
-    <atom:link href="{{ site.url | append: site.baseurl }}/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S %z" }}</lastBuildDate>
-    <pubDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
-    <ttl>1800</ttl>
+    <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
+    <language>{{ site.lang | default: "en-US" }}</language>
+
     {% for post in site.posts %}
     <item>
       <title>{{ post.title | xml_escape }}</title>
-      <description>{{ post.content | xml_escape }}</description>
-      <link>{{ site.url | append: post.url }}</link>
-      <guid isPermaLink="true">{{ site.url | append: post.url }}</guid>
-      <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
+      <description>{{ post.excerpt | xml_escape }}</description>
+      <link>https://jethro.site{{ post.url }}</link>
+      <guid isPermaLink="true">https://jethro.site{{ post.url }}</guid>
+      <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
+
+      {% if post.last_modified_at %}
+      <lastModified>{{ post.last_modified_at | date_to_rfc822 }}</lastModified>
+      {% endif %}
+      
     </item>
     {% endfor %}
   </channel>
