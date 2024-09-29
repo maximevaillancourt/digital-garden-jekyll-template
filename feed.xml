@@ -9,6 +9,8 @@ layout: null
     <description>{{ site.description | xml_escape }}</description>
     <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
     <language>{{ site.lang | default: "en-US" }}</language>
+	 <!-- Add atom:link to point to the feed's self-referencing URL -->
+	<atom:link href="{{ site.url }}{{ site.baseurl }}/feed.xml" rel="self" type="application/rss+xml" />
 
     {% for post in site.posts %}
     <item>
