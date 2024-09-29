@@ -17,7 +17,6 @@ layout: null
     <item>
       <title>{{ post.title | xml_escape }}</title>
       <description>{{ post.excerpt | xml_escape }}</description>
-      <guid isPermaLink="true">https://jethro.site{{ post.url }}</guid>
       <link>{{ site.url }}{{ post.url }}</link>
       <guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
       <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
