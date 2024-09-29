@@ -12,7 +12,7 @@ layout: null
 	 <!-- Add atom:link to point to the feed's self-referencing URL -->
 	<atom:link href="{{ site.url }}{{ site.baseurl }}/feed.xml" rel="self" type="application/rss+xml" />
 
-    {% for post in site.posts %}
+    {% for post in site.posts | limit:20 %}
     <item>
       <title>{{ post.title | xml_escape }}</title>
       <description>{{ post.excerpt | xml_escape }}</description>
