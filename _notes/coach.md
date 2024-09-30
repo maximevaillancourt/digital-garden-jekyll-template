@@ -184,7 +184,7 @@ Here’s what you’ll get:
 
 <iframe width="100%" height="180" frameborder="no" scrolling="no" seamless src="https://share.transistor.fm/e/34f5ffd1"></iframe>
 
-## [**Book your FREE Saboteur Discovery ](https://cal.com/jethrojones/sds)Session Today**
+## **Book your FREE Saboteur Discovery Session Today**
 
 Imagine yourself able to remain calm, clear headed, stress-free, and positive even in the midst of handling work and life’s greatest challenges. What becomes possible for you, in achievement, in peace of mind and wellness, and in your relationships?
 

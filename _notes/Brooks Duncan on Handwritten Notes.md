@@ -1,6 +1,6 @@
 ---
-title: 'Still Taking Handwritten Notes on Paper?'
-date: Wed, 29 Aug 2012 02:58:25 +0000
+title: Still Taking Handwritten Notes on Paper?
+date: 2012-08-28
 draft: true
 ---
 
