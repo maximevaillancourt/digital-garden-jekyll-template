@@ -66,17 +66,16 @@ Build your foundation of mental fitness by strengthening three critical mental m
 
 # **Personal**
 
-![Stress (1).png](https://images.squarespace-cdn.com/content/v1/4fffa949e4b0b4590d67b4e7/1694188672239-GND5LNI6QYJG45VWCP9D/Stress+%281%29.png)
 
-![Wellness (1).png](https://images.squarespace-cdn.com/content/v1/4fffa949e4b0b4590d67b4e7/1694189014038-3LSWW9RHS044VGC72E1O/Wellness+%281%29.png)
+![Stress (1).png](https://images.squarespace-cdn.com/content/v1/4fffa949e4b0b4590d67b4e7/1694188672239-GND5LNI6QYJG45VWCP9D/Stress+%281%29.png?format=1500w)
 
-![Relationships (1).png](https://images.squarespace-cdn.com/content/v1/4fffa949e4b0b4590d67b4e7/1694189333728-ARVX34JVLSC9HO6W0P5U/Relationships+%281%29.png)
+![Wellness (1).png](https://images.squarespace-cdn.com/content/v1/4fffa949e4b0b4590d67b4e7/1694189014038-3LSWW9RHS044VGC72E1O/Wellness+%281%29.png?format=1500w)
 
-![Parenting (1).png](https://images.squarespace-cdn.com/content/v1/4fffa949e4b0b4590d67b4e7/1694189597233-KWVB33GZ63YSGCHA34RT/Parenting+%281%29.png)
+![Relationships (1).png](https://images.squarespace-cdn.com/content/v1/4fffa949e4b0b4590d67b4e7/1694189333728-ARVX34JVLSC9HO6W0P5U/Relationships+%281%29.png?format=1500w)
 
-![Career Planning (1).png](https://images.squarespace-cdn.com/content/v1/4fffa949e4b0b4590d67b4e7/1694189818298-DCOSAKWQLYUWA75RGKX6/Career+Planning+%281%29.png)
+![Parenting (1).png](https://images.squarespace-cdn.com/content/v1/4fffa949e4b0b4590d67b4e7/1694189597233-KWVB33GZ63YSGCHA34RT/Parenting+%281%29.png?format=1500w)
 
-![Stress (1).png](https://images.squarespace-cdn.com/content/v1/4fffa949e4b0b4590d67b4e7/1694188672239-GND5LNI6QYJG45VWCP9D/Stress+%281%29.png?format=1500w)![Wellness (1).png](https://images.squarespace-cdn.com/content/v1/4fffa949e4b0b4590d67b4e7/1694189014038-3LSWW9RHS044VGC72E1O/Wellness+%281%29.png?format=1500w)![Relationships (1).png](https://images.squarespace-cdn.com/content/v1/4fffa949e4b0b4590d67b4e7/1694189333728-ARVX34JVLSC9HO6W0P5U/Relationships+%281%29.png?format=1500w)![Parenting (1).png](https://images.squarespace-cdn.com/content/v1/4fffa949e4b0b4590d67b4e7/1694189597233-KWVB33GZ63YSGCHA34RT/Parenting+%281%29.png?format=1500w)![Career Planning (1).png](https://images.squarespace-cdn.com/content/v1/4fffa949e4b0b4590d67b4e7/1694189818298-DCOSAKWQLYUWA75RGKX6/Career+Planning+%281%29.png?format=1500w)
+![Career Planning (1).png](https://images.squarespace-cdn.com/content/v1/4fffa949e4b0b4590d67b4e7/1694189818298-DCOSAKWQLYUWA75RGKX6/Career+Planning+%281%29.png?format=1500w)
 
 # **Professional**
 
@@ -89,8 +88,6 @@ Build your foundation of mental fitness by strengthening three critical mental m
 ![Leadership (1).png](https://images.squarespace-cdn.com/content/v1/4fffa949e4b0b4590d67b4e7/1694191457430-655UVDCUCCPUEQJ9W7A9/Leadership+%281%29.png)
 
 ![Performance (1).png](https://images.squarespace-cdn.com/content/v1/4fffa949e4b0b4590d67b4e7/1694191658752-H8OHKLZC0VE70GK7FROG/Performance+%281%29.png)
-
-![Emotional Intelligence .png](https://images.squarespace-cdn.com/content/v1/4fffa949e4b0b4590d67b4e7/1694190575368-P4TPE6NO9JUU8BY65WS4/Emotional+Intelligence+.png?format=1500w)![Conflict Management (2).png](https://images.squarespace-cdn.com/content/v1/4fffa949e4b0b4590d67b4e7/1694191059719-PKSDU2F7L3F3C2Q2NZ3C/Conflict+Management+%282%29.png?format=1500w)![Creativity (2).png](https://images.squarespace-cdn.com/content/v1/4fffa949e4b0b4590d67b4e7/1694191197862-S1UDN4JNSEAGKVFYHLKZ/Creativity+%282%29.png?format=1500w)![Leadership (1).png](https://images.squarespace-cdn.com/content/v1/4fffa949e4b0b4590d67b4e7/1694191457430-655UVDCUCCPUEQJ9W7A9/Leadership+%281%29.png?format=1500w)![Performance (1).png](https://images.squarespace-cdn.com/content/v1/4fffa949e4b0b4590d67b4e7/1694191658752-H8OHKLZC0VE70GK7FROG/Performance+%281%29.png?format=1500w)
 
 # **Applications for Teams**
 
