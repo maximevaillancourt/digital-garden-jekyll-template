@@ -1,8 +1,22 @@
 ---
+last_modified_at: 
+permalink: 
+description: 
+title: 
+image: 
+published: "true"
+sitemap: "true"
+excerpt_separator: <!--more-->
+category: 
+tags: 
+date: 2001-01-01
+layout:
 ---
 
-Calories
-Circulate
-Coaching
 
-I tried 15 fat diets and here is what finally got me to lose 70 pounds in a year and keep the weight off
+{% if page.image %} <img src="{{ page.image }}" alt=""> {% endif %}
+
+![Twitter Thread](https://twitter.com/jethrojones/status/1778133295412232332)
+
+
+
