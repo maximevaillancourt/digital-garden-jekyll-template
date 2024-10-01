@@ -3,7 +3,7 @@ last_modified_at: 2024-10-01 19:17:32
 permalink: data
 description: how I lost all my data, and how I'm trying to get it back.
 title: You Should be Able to Take Your Data With You
-image: /assets/stronglogo.png
+image: /assets/beforeafter.jpeg
 published: "true"
 sitemap: "true"
 excerpt_separator: <!--more-->
