@@ -1,5 +1,5 @@
 ---
-last_modified_at: 2024-10-01 19:17:32
+last_modified_at: 2024-10-01 19:32:37
 permalink: data
 description: how I lost all my data, and how I'm trying to get it back.
 title: You Should be Able to Take Your Data With You
