@@ -148,5 +148,6 @@ We certainly want to save kids from the damage that can be caused by abusive sit
 
 What other issues am I forgetting and what are your solutions to those issues? What doesn't make sense? 
 
+Originally [published on my substack](https://jethrojones.substack.com/p/how-we-told-families-school-doesnt)
 
 [[Compass Among us]]
