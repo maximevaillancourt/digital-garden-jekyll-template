@@ -1,6 +1,22 @@
 ---
-title: School Does not matter
+last_modified_at: 
+permalink: schooldoesnotmatter
+description: we made a grave mistake telling kids that school does not matter during the pandemic.
+title: How we told families school doesn't matter and what we can do to fix it.
+image: 
+published: "true"
+sitemap: "true"
+excerpt_separator: <!--more-->
+category: 
+tags:
+  - covid
+creation date: OCT 14, 2021
+layout: post
 ---
+
+
+{% if page.image %} <img src="{{ page.image }}" alt=""> {% endif %}
+
 ![School Not Matter]({{ site.url }}/assets/School not matter header.jpeg)
 
 
