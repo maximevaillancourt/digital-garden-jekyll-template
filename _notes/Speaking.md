@@ -34,6 +34,7 @@ Sharing what I learn is very important to me. Here you will find links and resou
     -   How much should we communicate with our community? How do we help teachers communicate effectively? What is the best way for our staff to invite community members into our school? 
 -   Keeping Kids Safe on Social Media (one geared towards parents and one geared towards educators)
     -   In this presentation, I speak to the need for staying safe and how parents and educators can support children to make good choices, how to deal with failure, and how to stand up for others. 
+    - More about the [[Setting Healthy Tech Boundaries for Kids|Parent-Focused Talk]]
 -   Student Driven Learning
     -   This multi-day workshop is geared towards moving whole systems to a student-driven learning model. 
 

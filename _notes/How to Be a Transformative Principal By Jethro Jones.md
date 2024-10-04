@@ -16,7 +16,7 @@ layout: page
 
 {% if page.image %} <img src="{{ page.image }}" alt=""> {% endif %}
 
-[Buy the Book on Amazon](https://amzn.to/3JfzwVG) -- [Buy the Book from Me (signed)](https://jethrojones.gumroad.com/l/how2bebook)
+**[Buy the Book on Amazon](https://amzn.to/3JfzwVG) -- [Buy the Book from Me (signed)](https://jethrojones.gumroad.com/l/how2bebook)**
 
 If you've been listening to [Transformative Principal](https://transformativeprincipal.org) for any amount of time, you know that I ask this question every interview!
 
