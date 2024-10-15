@@ -44,3 +44,5 @@ The first step in learning to read is reading to your child. Kids focus on what 
 My oldest daughter, now 18, has down syndrome and was at great risk of not being able to read, but she was reading fluently by 8 years old because we focused and made it intentional to help her, using good reading instruction strategies. Hooked on Phonics really does work. 
 
 I also recommend checking out [Irene Daria's work](https://stepstoreading.com) as she literally wrote the book on this. 
+
+Have a Good Life.
