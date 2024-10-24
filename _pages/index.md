@@ -6,7 +6,7 @@ id: home
 permalink: /
 ---
 
-# Welcome! 👋
+# Have a Good Life.
 
 I host the longest running, most downloaded, highest rated podcast for educational leaders [Transformative Principal](https://transformativeprincipal.org) and a bunch of other podcasts. 
 
