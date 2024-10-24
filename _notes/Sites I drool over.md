@@ -40,7 +40,7 @@ Ultimately, I want this to be the one-stop shop for all things that I'm working 
 Fast, clean site, that has a long history. 
 
 ### [Simon Willison](https://simonwillison.net)
-This is written in a dailies style. He has multiple posts per day, and he does a lot about coding. I don't have that skill, but maybe I'll develop it some day. 
+This is written in a dailies style. He has multiple posts per day, and he writes a lot about coding. I don't have that skill, but maybe I'll develop it some day. 
 
 ### [John Gruber - Daring Fireball](https://daringfireball.net)
 I love that John Gruber makes a living from writing about nerdy stuff he likes. 
