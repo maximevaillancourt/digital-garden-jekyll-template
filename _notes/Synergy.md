@@ -1,7 +1,20 @@
 ---
+last_modified_at: 
+permalink: synergy
+description: Jethro describes and provides an overview of the synergy program at his school.
 title: Synergy
-last_modified_at: 2024-09-28 01:46:27
+image: 
+published: "true"
+sitemap: "true"
+excerpt_separator: <!--more-->
+category: 
+tags: 
+creation date: 2024-09-27 18:50
+layout:
 ---
+
+
+{% if page.image %} <img src="{{ page.image }}" alt=""> {% endif %}
 
 In 2018, we started a program at my school called Synergy. 
 
