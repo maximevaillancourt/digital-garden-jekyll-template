@@ -1,7 +1,20 @@
 ---
+last_modified_at: 
+permalink: synergy
+description: Jethro describes the innovative way that he helped students perform better than ever before with a simple program called synergy
 title: Synergy
-last_modified_at: 2024-10-29 04:04:19
+image: 
+published: "true"
+sitemap: "true"
+excerpt_separator: <!--more-->
+category: 
+tags: 
+creation date: 2024-09-27 21:12
+layout: post
 ---
+
+
+{% if page.image %} <img src="{{ page.image }}" alt=""> {% endif %}
 
 In 2018, we started a program at my school called Synergy. 
 
