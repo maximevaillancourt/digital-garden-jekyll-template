@@ -1,6 +1,6 @@
 ---
 title: Synergy
-last_modified_at: 2024-09-28 01:46:27
+last_modified_at: 2024-10-29 04:04:19
 ---
 
 In 2018, we started a program at my school called Synergy. 
