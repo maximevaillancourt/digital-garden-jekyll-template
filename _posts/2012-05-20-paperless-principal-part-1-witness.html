@@ -1,0 +1,139 @@
+---
+layout: post
+title: 'The Paperless Principal, Part 1: Witness Statements'
+date: '2012-05-20T20:45:00.000-07:00'
+author: jethrojones
+tags:
+modified_time: '2012-07-01T23:31:38.068-07:00'
+thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTnnJdfGvsTTiubbx3Xqx7a4gTzdG616OeBdPkw_sDLNzSSh9XcRURNeXlcJpAUEl7EB5HrzBncfds61cNMtJrTKUmYNFP4mqUGUHrobp8iBatTzVfCGUT8i6kaNE99eV4ymBHpPDr5WSo/s72-c/scan+snap+preferences.png
+blogger_id: tag:blogger.com,1999:blog-3944273018536227154.post-5163063623381510291
+blogger_orig_url: https://mrjonesed.blogspot.com/2012/05/paperless-principal-part-1-witness.html
+---
+
+<h4>
+
+Twitter version: Use ScanSnap, OCR, Hazel, and Boxcar to digitize, notify, and sort all witness statements from students.</h4>
+<h2>
+
+Why Go Paperless?</h2>
+One thing I have learned about myself is that I get overwhelmed and bothered by big stacks of paper on my desk. I don't like having people come into my office when there is all that mess, and I don't feel like I can do anything. I also like having access to the things that I need somewhere on my iOS devices, if I am not by my computer.<br />
+<br />
+I recently picked up the great iBook by David Sparks called <a href="http://itunes.apple.com/us/book/paperless/id520393162?mt=11&amp;ign-mpt=uo%3D4">Paperless</a>. It is a great read, and Sparks goes into great detail about how to be paperless. He gives a lot of great tips and walks through many different types of software in screencast format. The screencasts are especially beneficial because I like to try things out, and the screencasts are targeted on specific tasks and show how it looks doing that task in the different programs. It helps seeing what you are reading.<br />
+<br />
+He gives some good tips for naming conventions, and recommends three tips: 1. Assume Senility 2. Always put the date first 3. Always use lower-case. <a href="http://cl.ly/GknF">Here</a> are our naming conventions as they stand right now. That is subject to change.<br />
+<h3>
+
+Old Workflow</h3>
+<ol>
+<li>Secretaries collect witness statements.</li>
+<li>They put them in my box.</li>
+<li>I take them from my box and go through them.</li>
+<li>I put them in a pile on my desk, or in my to do box on the desk.&nbsp;</li>
+<li>I don't get around to all of them, and I just keep shuffling them from one pile to another.&nbsp;</li>
+<li>When I do finish them, I write the incident number on the witness statements and send them to the principal's office to be filed.&nbsp;</li>
+<li>Occasionally, we need to look at old witness statements. We've needed to find old statements about 10 times this year. So, more than once per month, which means we need a good system to help us find old statements.&nbsp;</li>
+</ol>
+<div>
+Here are the problems I have with my current workflow (and how I would hope this new workflow solves them):</div>
+<div>
+<ul>
+<li>I have to be in my office to deal with any problems (or carry around a big stack of papers). I am often not in my office. Friday, for example, I set my stuff down in my office, and returned once during the day for a couple minutes, and then packed my stuff up at the end of the day. Solution: Digitizing them allows them to be accessible on my phone without having to be in my office.&nbsp;</li>
+<li>I end up with piles of witness statements, some of which could have been handled in two minutes by their teacher. Solution: Piles are gone, and I can email the teachers right after reading the statement and forward it on to the them.&nbsp;</li>
+<li>My principal certainly doesn't have time to file all the witness statements (neither do any of the secretaries). Solution: Automatic filing, so even if I don't personally deal with the situation, we have it on record that it was reported and we can at least state what was done.&nbsp;</li>
+<li>When a parent or student says they have turned in statements about a recurring problem, it would be really beneficial to review them and ensure that we made a correct response the first time. Also, when we need to send a student on to a district-level hearing, we have an easier time collecting documentation relating to that student's history. Solution: Having all the statements in one folder lets me know that they have (or haven't) complained about something before, and even if I didn't deal with it, I can see their history.</li>
+</ul>
+</div>
+<h3>
+
+New Workflow</h3>
+<h4>
+
+Simple idea version</h4>
+<div>
+<ol>
+<li>Scan witness statements.</li>
+<li>I get notified and deal with the problem.</li>
+<li>I rename the file once it is dealt with or solved.</li>
+</ol>
+</div>
+<h4>
+
+How the simple idea version actually works</h4>
+<ol>
+<li>Secretaries usually collect witness statements.</li>
+<li>Secretary puts witness statements that I need to review in the scanner (or sends them right to the teacher if she knows they can deal with it).</li>
+<li>Statements are OCR'd as they go through.</li>
+<li>Hazel reads contents and when it sees "WITNESS STATEMENT" in the document, it renames it to "witness statement.pdf" and sends it through dropbox to my computer.&nbsp;</li>
+<li>My action folder has a Hazel rule that renames files called "witness statement.pdf" to "to do&nbsp;2012-05-18 witness statement.pdf".</li>
+<li>I get a Growl notification on my iPhone (through <a href="http://boxcar.io/site/services/add">boxcar</a>) that says "Work - to do&nbsp;2012-05-18 witness statement".</li>
+<li>Then I open my dropbox folder on my phone and see that I have a witness statement in that folder. I can pull the kids out right away, or wait for a bit, depending on the severity.&nbsp;</li>
+<li>When I deal with the problem, I rename the file using Snippets by Conceited Software.&nbsp;The snippet I use is "/wit" which expands to "2012-05-18 witness statement - ##firstname lastname##" where there is a fill-in form for the student's first and last name. (before renaming, I split the multi-page PDF with all the witness statements into a bunch of single-page PDFs and rename them all using the above snippet.)</li>
+<li>Once the file is renamed, that means it is completed <i>and</i> logged in our student information system.&nbsp;</li>
+<li>Also, once the file is renamed, Hazel sees the new name that starts with the year, and moves it to the Student Folders folder where...</li>
+<li>There is another Hazel rule which sorts it into a subfolder which is alphabetized by student last name(!)!</li>
+<li>Then, I have a year's worth (or more) file of all statements by all students that have filled one out!</li>
+</ol>
+<div>
+That is a lot of work to get to this point. Why do it?&nbsp;</div>
+<div>
+<br /></div>
+<div>
+I'll highlight some of the steps of my workflow, as they are pretty amazing.&nbsp;</div>
+<div>
+<br />
+<h3>
+
+Scanning</h3>
+We use a <a href="http://www.amazon.com/gp/product/B001XWCQO2/ref=as_li_ss_tl?ie=UTF8&amp;tag=jethrojonesco-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B001XWCQO2">Fujitsu ScanSnap S1500M</a><img alt="" border="0" height="1" src="http://www.assoc-amazon.com/e/ir?t=jethrojonesco-20&amp;l=as2&amp;o=1&amp;a=B001XWCQO2" style="border: none !important; margin: 0px !important;" width="1" />
+ (though all their scanners are pretty amazing from what I have heard). The software can do OCR as it scans, which is what we have it set up to do, and it will also add keywords to a PDF based on highlighted words in the document, which is something I will work on for some other workflows. The scanner is fast, and slick. It rocks. I haven't had any problems with OCR, even with our nonstandard font on our Think Time sheets. My favorite things about this scanner:<br />
+<br />
+<ul>
+<li>Scans both sides of the document</li>
+<li>Automatically deletes a blank back page</li>
+<li>OCR on all files</li>
+<li>Automatically adjusts page to correct orientation</li>
+</ul>
+<br />
+<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
+<tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTnnJdfGvsTTiubbx3Xqx7a4gTzdG616OeBdPkw_sDLNzSSh9XcRURNeXlcJpAUEl7EB5HrzBncfds61cNMtJrTKUmYNFP4mqUGUHrobp8iBatTzVfCGUT8i6kaNE99eV4ymBHpPDr5WSo/s1600/scan+snap+preferences.png" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="258" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTnnJdfGvsTTiubbx3Xqx7a4gTzdG616OeBdPkw_sDLNzSSh9XcRURNeXlcJpAUEl7EB5HrzBncfds61cNMtJrTKUmYNFP4mqUGUHrobp8iBatTzVfCGUT8i6kaNE99eV4ymBHpPDr5WSo/s320/scan+snap+preferences.png" width="320" /></a></td></tr>
+<tr><td class="tr-caption" style="text-align: center;">ScanSnap Preferences. Convert to Searchable PDF means OCR.</td></tr>
+</tbody></table>
+<h3>
+
+Hazel Rules</h3>
+<div>
+Search contents for the words WITNESS STATEMENT and MUST USE PEN TO COMPLETE (which are easily&nbsp;OCRized phrases that are on our witness statements and not much else), then rename it as "witness statement" in the scanned folder.&nbsp;</div>
+<div>
+<br /></div>
+<div>
+Here are the "sort into subfolders"&nbsp;<a href="http://cl.ly/GkEE">rules</a>&nbsp;(I use <a href="http://noodlesoft.com/">Hazel 3</a>) that are run when another Hazel rule sends files to my "Student Folders" folder. &nbsp;These are all the rules I have set up for that folder, but I'll focus on the witness statement rule, and the rest build off of that. Somehow I found <a href="http://iconaholic.posterous.com/better-tv-renaming-sorting-hazel-rules">this cool Hazel</a> rule for renaming and automatically sorting files into subfolders, even if you don't have the folder they will end up in already created, which was a new concept for me. I didn't download his examples, because what I needed was different enough that I didn't want to just edit.&nbsp;The key is custom tokens. Use custom tokens and it will be able to use what work you have done to simplify your life later.&nbsp;</div>
+<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
+<tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhjQTvSWyUelsyfXuxe0Q4gbPE9Ga5F69gWWCiW9QrJzWenUbDE25i9Pbz5UrZV1wE540DxvvvRIuwcLkASxl0crHDC-1dGupJHQrdwI5HC8tUJ3NIaXZw3EQmRrB5NmwEq7qvpDjZnqKc/s1600/custom+rule.png" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="282" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhjQTvSWyUelsyfXuxe0Q4gbPE9Ga5F69gWWCiW9QrJzWenUbDE25i9Pbz5UrZV1wE540DxvvvRIuwcLkASxl0crHDC-1dGupJHQrdwI5HC8tUJ3NIaXZw3EQmRrB5NmwEq7qvpDjZnqKc/s400/custom+rule.png" width="400" /></a></td></tr>
+<tr><td class="tr-caption" style="text-align: center;">Custom Tokens is the key</td></tr>
+</tbody></table>
+<div>
+<br /></div>
+<h3>
+
+Boxcar/Growl</h3>
+<div>
+One of my favorite parts of this workflow is that I can use my iPhone or iPad to check out the witness statements. When a new witness statement is added to my action folder, a Hazel rule sends a <a href="http://growl.info/">growl notification</a>&nbsp;(I am not using the app store version of growl)&nbsp;on my computer which stays up until I dismiss it (to ensure that I don't miss any witness statements). I also use <a href="http://boxcar.io/">Boxcar</a> to send that same notification to my phone. So, on my phone and on my computer are notifications that I have something to deal with.&nbsp;</div>
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjx9p0MbXh69FP1alu8FL2J8-E8xae1updnB1R6mmmbYyn-pAsmf03F4qlpQbEY4j_pnGHZnnUUVzmnmg28YPHrdmxRK10iBJwF81S3ulMCOU8hRJKldp_2fQ2Nn1qXXQvQuki2y1vGaIi2/s1600/2012-05-19_1416.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjx9p0MbXh69FP1alu8FL2J8-E8xae1updnB1R6mmmbYyn-pAsmf03F4qlpQbEY4j_pnGHZnnUUVzmnmg28YPHrdmxRK10iBJwF81S3ulMCOU8hRJKldp_2fQ2Nn1qXXQvQuki2y1vGaIi2/s1600/2012-05-19_1416.png" /></a></div>
+<h3>
+
+Using Files Later</h3>
+<div>
+Once I have all the witness statements in the computer, they are in my "Student Folders" folder, organized neatly by student. That is pretty rad, but sometimes I need them. So, I made a smart folder in the finder, which you can see below. This smart folder is called "2012 witness statements" and at the end of the year, I will be able to archive all those and save it is as one large ZIP file that will have every witness statement we collected this year in a neat space.&nbsp;</div>
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhi6P5cVVarfEzYlOy1cc8ryHYnw97XzJ9vsylowQdZsO4wiMzM3Vcdq9YliVHOPrsktii56-GhK0OtqBNfeJGn8hxbRkZHsTFcBRUC11tP4UdbEw0mrJNIF4Xt-9943-VAKtgNTM0ni76q/s1600/2012-05-19_1525.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="145" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhi6P5cVVarfEzYlOy1cc8ryHYnw97XzJ9vsylowQdZsO4wiMzM3Vcdq9YliVHOPrsktii56-GhK0OtqBNfeJGn8hxbRkZHsTFcBRUC11tP4UdbEw0mrJNIF4Xt-9943-VAKtgNTM0ni76q/s640/2012-05-19_1525.png" width="640" /></a></div>
+<h3>
+
+Continued Obstacles</h3>
+</div>
+<div>
+<ul>
+<li>Witness statements from one event are not grouped together, so each student's folder only has his side of the story. I am not sure if the date is the best way to go about organizing them, but right now, it seems like the best (easiest) way.&nbsp;</li>
+<li>Not all events worth recording and documenting come with a witness statement, and students aren't always able to fill them out.&nbsp;</li>
+</ul>
+</div>

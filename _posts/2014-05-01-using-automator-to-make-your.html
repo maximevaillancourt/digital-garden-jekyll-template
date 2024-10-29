@@ -1,0 +1,61 @@
+---
+layout: post
+title: Using Automator to Make Your Kindergarten Orientation have a Bigger Impact!
+date: '2014-05-01T06:00:00.000-07:00'
+author: jethrojones
+tags:
+modified_time: '2014-05-01T06:00:00.187-07:00'
+thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEii6ZXCD6eUGY0VLKrH6n4-lka00gT07qjvOPZI23fbEzxpn46ci9blErWA15KjFL5HWfBf0a-rIXE9XhHLsckPjvbMsp-dDtueulyTpwyYEhXxIBaiLfnZY53qhmgP_KRdXlA9eNOtNuCK/s72-c/automator-kinder.png
+blogger_id: tag:blogger.com,1999:blog-3944273018536227154.post-1304435737939860064
+blogger_orig_url: https://mrjonesed.blogspot.com/2014/05/using-automator-to-make-your.html
+---
+
+<h1 id="theproblem">
+The Problem</h1>
+Last Friday we had kindergarten orientation. Last year, we thought it would be fun to take pictures with the school mascot and share them with the families. The only problem is that we didn’t have a way to get the pictures printed and distributed to the families, so we took a bunch of pictures and they sat on the person’s camera and nothing was done. A great gesture, but not helpful in the end. <br />
+This year, I was tasked with making sure the families got a picture of their student with our mascot. The picture would be on the bottom half of an 8.5x11“ piece of paper. On the top of the paper it said, ”Future Cougar, Class of 2027" and that was already printed out. So, I needed to get the picture on those papers. <br />
+The original idea was to print 2 pictures on 8.5x11" paper and then cut them out and tape or paste them on that piece of paper. I knew that we wouldn’t have enough time to cut all those pictures out. <br />
+<h1 id="thesolution">
+The Solution</h1>
+Here is what I wanted to do:<br />
+<ol>
+<li>Since the papers were already printed, and just needed the picture, I could print right onto the paper that said “Future Cougar”.</li>
+<li>I created a Word document that had a top margin set to about 6" (which is about how much space the words took up).</li>
+<li>I would insert all (expected) 70 Kindergartner pictures in the Word document.</li>
+<li>I would then print them.</li>
+</ol>
+Here’s the thing, Edit -&gt; Insert Picture -&gt; From File and then navigating to that folder would be really annoying to do 70 times! <br />
+<br />
+Another wrench that quickly messed things up is that printing pictures from a camera that takes high resolution pictures takes a long time on our computer, especially if it makes the Word document really big. So, I would also need to reduce the size of the pictures to something much smaller, so they wouldn’t create a bottleneck at the printing process. <br />
+<h1 id="theautomatedsolution">
+The Automated Solution</h1>
+Automator is an app that comes with every Apple computer, and it automates things you would do on your computer. It is pretty awesome. <br />
+I already created the Word document. I already had a folder that I would put all the pictures in. I just needed to get them reduced in size and inserted into the Word document. <br />
+Automator takes care of that for me. <br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEii6ZXCD6eUGY0VLKrH6n4-lka00gT07qjvOPZI23fbEzxpn46ci9blErWA15KjFL5HWfBf0a-rIXE9XhHLsckPjvbMsp-dDtueulyTpwyYEhXxIBaiLfnZY53qhmgP_KRdXlA9eNOtNuCK/s1600/automator-kinder.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEii6ZXCD6eUGY0VLKrH6n4-lka00gT07qjvOPZI23fbEzxpn46ci9blErWA15KjFL5HWfBf0a-rIXE9XhHLsckPjvbMsp-dDtueulyTpwyYEhXxIBaiLfnZY53qhmgP_KRdXlA9eNOtNuCK/s1600/automator-kinder.png" height="209" width="320" /></a></div>
+<br />
+Here are the Automator steps:<br />
+<br />
+<ol>
+<li><b>Get Selected Finder Items</b> - This gets the Finder items that are selected in the frontmost finder window. I just selected the photos that I had taken.&nbsp;</li>
+<li><b>Scale Images</b> - &nbsp;I needed the images smaller, but not too small I had to play around with this one, but I got it to work well at about 50% scaling.&nbsp;</li>
+<li><b>Move Finder Items</b> - To not confuse myself, I had Automator move the pictures from the folder they were in to a folder in Dropbox called “Print these” which is shared with the office staff, where the pictures were printed. They did quality control and made sure all pictures printed correctly.&nbsp;</li>
+<li><b>Insert Content into Word Documents </b>- This is where the magic happens! Automator takes care of the annoying mouse clicks and just inserts the pictures into the document. I chose the bottom of the document, so that they would be in the same order as they were taken.</li>
+</ol>
+<br />
+<h1 id="bonus">
+Bonus</h1>
+We took the pictures using the iPad. I had Camera Uploads turned on, so that when we took a picture, it almost instantly went to the camera uploads folder on Dropbox. That got it to my computer quickly. Using Hazel, I created a rule that watched the Camera Uploads folder for new files and moved them to a folder and then ran the Automator workflow on those files. <br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhj7FhVLI6QuhEGmjCmj5sgeh61_k59fopgMG5OTsEcP3x4PPbNaRqvNyOwjquf5JGrk5_R8ynuI-hEXviq2d1pz2l8lwqFEMaijvvCJCUTcPMb-2EOPlnV5Ud_pX24jsAbCur3IuaJDlXi/s1600/hazel-kinder.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhj7FhVLI6QuhEGmjCmj5sgeh61_k59fopgMG5OTsEcP3x4PPbNaRqvNyOwjquf5JGrk5_R8ynuI-hEXviq2d1pz2l8lwqFEMaijvvCJCUTcPMb-2EOPlnV5Ud_pX24jsAbCur3IuaJDlXi/s1600/hazel-kinder.png" height="252" width="320" /></a></div>
+<br />
+<h1 id="bam">
+BAM!</h1>
+Dropbox, Automator, and Hazel allowed me to take pictures on my iPad and by the time I got back to my office, they were in a Word document ready to review and print on pre-made stationary!<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+Have a Good Life.

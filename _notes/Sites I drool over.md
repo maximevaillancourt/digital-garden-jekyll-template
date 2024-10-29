@@ -35,15 +35,19 @@ I want a site that I can tinker just the right amount with. That helps me learn 
 ## One-Stop Shop
 Ultimately, I want this to be the one-stop shop for all things that I'm working on. 
 
+
 ## Some Sites I admire
+### [Derek Sivers](Sivers.org)
+Derek has been an inspiration for years. He recommends writing in all HTML, but I'm not quite there, myself. I prefer writing in Markdown and having it translated for me, because I like the idea of things being human readable, and while HTML isn't terrible, it's not as good as markdown. 
+Derek's approach to [short URLs](https://sive.rs/su) and [tech independence](https://sive.rs/ti) are guideposts for me. 
 ### [Matt Webb - Interconnected.org](https://interconnected.org)
 Fast, clean site, that has a long history. 
 
 ### [Simon Willison](https://simonwillison.net)
 This is written in a dailies style. He has multiple posts per day, and he writes a lot about coding. I don't have that skill, but maybe I'll develop it some day. 
 
-### [John Gruber - Daring Fireball](https://daringfireball.net)
-I love that John Gruber makes a living from writing about nerdy stuff he likes. 
+
+
 
 [[How this site is built]]
 [[tools]]
