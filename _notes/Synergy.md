@@ -1,8 +1,4 @@
 ---
----
-
-last_modified_at: 2024-09-28 01:46:27
----
 title: Synergy
 last_modified_at: 2024-09-28 01:46:27
 ---
