@@ -31,6 +31,12 @@ See below for my most recently updated notes. That's the last 10.
 
 Have a Good Life.
 
+## These are all the posts from my Blogger Blog
+{% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
+{% for year in postsByYear %}
+<h2>{{ year.name }}</h2> <ul> {% for post in year.items %} <li> <a href="{{ post.url }}">{{ post.title }}</a> <span class="post-date">{{ post.date | date: "%B %d, %Y" }}</span> </li> {% endfor %} </ul> {% endfor %}
+
+
 <style>
   .wrapper {
     max-width: 46em;

@@ -18,22 +18,28 @@ Focus areas: Principal Leadership, through the [Transformative Mastermind][4], [
 - - -
 
 # Clarifying
+## A Decade Never to be Forgotten
+I just started a project that will help us all get closer to Christ. 
 
+The Best time to start a ten year journal is a decade ago. 
+
+The second best time to start a ten year [journal is today][12].
+
+## AI
 This year, I've been doing a lot of speaking, webinars, podcasts, and more about AI. There's so much! It's crazy. I'm really enjoying it and I'm happy to chat with you about your needs around AI. 
 
 If you're a school principal, I've made an invaluable resource with [AILeader.info][7] where you can learn about AI tools specifically for school leaders in just 3 minutes! 
 
 You can also check out my [Principal Turbo ChatGPT Bot][8] and customize ChatGPT for you and your school.
 
-Just launched: [edune.ws][9] - surfacing and sharing the best k12 news & content out there. Join and start getting smarter today!
-
 I'm working with several companies in some way, shape or form on these topics: 
-[SchoolAI](https://schoolai.com)
-[Drip7](https://drip7.com)
-[Lebra](https://Lebrahq.com)
-[iStar Strategic Instruction Model Federally Funded Grant](https://sim.ku.edu/sim-reading-programs)
+- [SchoolAI](https://schoolai.com)
+- [Drip7](https://drip7.com)
+- [Lebra](https://Lebrahq.com)
+- [iStar Strategic Instruction Model Federally Funded Grant](https://sim.ku.edu/sim-reading-programs)
 
-
+## Edune.ws
+Just launched: [edune.ws][9] - surfacing and sharing the best k12 news & content out there. Join and start getting smarter today!
 
 
 [0]: https://amzn.to/34j8fOT
@@ -48,3 +54,4 @@ I'm working with several companies in some way, shape or form on these topics:
 [9]: https://edune.ws
 [10]: https://bepodcast.network
 [11]: https://transformativeprincipal.transistor.fm/summer-of-ai
+[12]: https://www.skool.com/a-decade-never-to-be-forgotten-4407/about
