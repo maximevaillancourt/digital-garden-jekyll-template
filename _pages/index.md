@@ -29,7 +29,7 @@ See below for my most recently updated notes. That's the last 10.
   {% endfor %}
 </ul>
 
-Have a Good Life.
+
 
 ## These are all the posts from my Blogger Blog
 <style>
@@ -98,6 +98,8 @@ Have a Good Life.
   </details>
   {% endfor %}
 </div>
+
+Have a Good Life.
 
 <style>
   .wrapper {
