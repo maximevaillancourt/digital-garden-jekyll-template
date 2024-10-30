@@ -43,7 +43,7 @@ Have a Good Life.
   
   {% for month in postsByMonth %}
   <details>
-    <summary><h3>{{ month.name }}</h3></summary>
+    <summary><p>{{ month.name }}</p></summary>
     <ul>
       {% for post in month.items %}
       <li>
