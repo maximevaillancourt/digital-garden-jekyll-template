@@ -10,10 +10,10 @@ layout: null
     <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
     <language>{{ site.lang | default: "en-US" }}</language>
 	 <!-- Add atom:link to point to the feed's self-referencing URL -->
-	<atom:link href="{{ site.url }}{{ site.baseurl }}/feed.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="{{ site.url }}{{ site.baseurl }}/feed_notes.xml" rel="self" type="application/rss+xml" />
 
      <!-- Loop through posts without showing dates in the URLs -->
-    {% for post in site.posts | limit:10 %}
+    {% for post in site.notes | limit:10 %}
     <item>
       <title>{{ post.title | xml_escape }}</title>
       <description>{{ post.excerpt | xml_escape }}</description>
