@@ -34,7 +34,7 @@ These trials are what develop our [[Organic Skills]] and remind us of what our r
 
 I just want to do what God wants and needs me to do. I don't care about anything else. I'm so grateful for that clarity, and I needed this message today. 
 
-![](https://www.youtube.com/watch?time_continue=3&v=tp7TQJ2q5QE&embeds_referring_euri=https%3A%2F%2Fspeeches.byu.edu%2F&embeds_referring_origin=https%3A%2F%2Fspeeches.byu.edu&source_ve_path=MzY4NDIsMjg2NjQsMjg2NjY)
+https://www.youtube.com/watch?v=tp7TQJ2q5QE&t=5s
 
 Since there was text for this speech on the [BYU Speeches web site](https://speeches.byu.edu/talks/jenkins/five-loaves-and-two-fishes/?M=V), I transcribed it using AI and MacWhisper.
 
