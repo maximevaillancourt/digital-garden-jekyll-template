@@ -21,7 +21,11 @@ As of today, I'm in a transition point. I have taken plain text notes since 2009
 
 In early 2024, I decided to make my note-taking app, [Obsidian](https://obsidian.md), the engine behind my blog posts. I wanted everything to be in one place, here at jethro.site.
 
-So, the notes are notes that I take and occasionally update. They are linked together as you can see from the graph view on the bottom of each post page. I don't know if I'll migrate all my old blog posts over to "notes" or if they'll just stay as blog posts. It's all an experiment. 
+So, the notes are notes that I take and occasionally update. They are linked together as you can see from the graph view on the bottom of each post page. 
+
+The blog posts are posts that I wrote many years ago, going all the way back to 2006, when I started blogging. 
+
+I don't know if I'll migrate all my old blog posts over to "notes" or if they'll just stay as blog posts. It's all an experiment. 
 
 See below for my most recently updated notes. That's the last 10. 
 
