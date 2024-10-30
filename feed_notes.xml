@@ -6,7 +6,7 @@ layout: null
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>{{ site.title | xml_escape }}</title>
+    <title>{{ site.title | xml_escape }} notes</title>
     <link>https://jethro.site/</link>
     <description>{{ site.description | xml_escape }}</description>
     <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
