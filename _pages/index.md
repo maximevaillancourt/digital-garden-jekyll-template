@@ -16,9 +16,16 @@ See what I'm up to now on my [now page]({{ site.baseurl }}/now)
 
 You can learn more about me at my Link-in-Bio page: [jethrojon.es](https://jethrojon.es)
 
+## Notes vs. Blog Posts
+As of today, I'm in a transition point. I have taken plain text notes since 2009!
+
+In early 2024, I decided to make my note-taking app, [Obsidian](https://obsidian.md), the engine behind my blog posts. I wanted everything to be in one place, here at jethro.site.
+
+So, the notes are notes that I take and occasionally update. They are linked together as you can see from the graph view on the bottom of each post page. I don't know if I'll migrate all my old blog posts over to "notes" or if they'll just stay as blog posts. It's all an experiment. 
+
 See below for my most recently updated notes. That's the last 10. 
 
-<strong>Recently updated notes</strong>
+## Recently updated notes
 
 <ul>
   {% assign recent_notes = site.notes | sort: "last_modified_at_timestamp" | reverse %}
@@ -31,7 +38,7 @@ See below for my most recently updated notes. That's the last 10.
 
 
 
-## These are all the posts from my Blogger Blog
+## These are all the blog posts from my Blogger and Squarespace Blogs
 <style>
 .blog-posts {
   font-family: Arial, sans-serif;
