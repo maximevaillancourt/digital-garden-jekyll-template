@@ -32,10 +32,30 @@ See below for my most recently updated notes. That's the last 10.
 Have a Good Life.
 
 ## These are all the posts from my Blogger Blog
-{% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
-{% for year in postsByYear %}
-<h2>{{ year.name }}</h2> <ul> {% for post in year.items %} <li> <a href="{{ post.url }}">{{ post.title }}</a> <span class="post-date">{{ post.date | date: "%B %d, %Y" }}</span> </li> {% endfor %} </ul> {% endfor %}
 
+{% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
+
+{% for year in postsByYear %}
+<details>
+  <summary><h2>{{ year.name }}</h2></summary>
+  
+  {% assign postsByMonth = year.items | group_by_exp:"post", "post.date | date: '%B'" %}
+  
+  {% for month in postsByMonth %}
+  <details>
+    <summary><h3>{{ month.name }}</h3></summary>
+    <ul>
+      {% for post in month.items %}
+      <li>
+        <a href="{{ post.url }}">{{ post.title }}</a>
+        <span class="post-date">{{ post.date | date: "%B %d, %Y" }}</span>
+      </li>
+      {% endfor %}
+    </ul>
+  </details>
+  {% endfor %}
+</details>
+{% endfor %}
 
 <style>
   .wrapper {
