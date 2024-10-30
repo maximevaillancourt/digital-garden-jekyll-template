@@ -1,0 +1,30 @@
+---
+layout: null
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>{{ site.title | xml_escape }}</title>
+    <link>https://jethro.site/</link>
+    <description>{{ site.description | xml_escape }}</description>
+    <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
+    <language>{{ site.lang | default: "en-US" }}</language>
+	 <!-- Add atom:link to point to the feed's self-referencing URL -->
+	<atom:link href="{{ site.url }}{{ site.baseurl }}/feed.xml" rel="self" type="application/rss+xml" />
+
+     <!-- Loop through posts without showing dates in the URLs -->
+    {% for post in site.posts | limit:10 %}
+    <item>
+      <title>{{ post.title | xml_escape }}</title>
+      <description>{{ post.excerpt | xml_escape }}</description>
+      <link>{{ site.url }}{{ post.url }}</link>
+      <guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
+      <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
+
+      {% if post.last_modified_at %}
+      <lastModified>{{ post.last_modified_at | date_to_rfc822 }}</lastModified>
+      {% endif %}
+    </item>
+    {% endfor %}
+  </channel>
+</rss>
