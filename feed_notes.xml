@@ -2,26 +2,29 @@
 layout: null
 ---
 
-
+<!-- lastmodified version -->
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>{{ site.title | xml_escape }} notes</title>
+    <title>{{ site.title | xml_escape }}</title>
     <link>https://jethro.site/</link>
     <description>{{ site.description | xml_escape }}</description>
     <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
     <language>{{ site.lang | default: "en-US" }}</language>
-    <atom:link href="{{ site.url }}{{ site.baseurl }}/feed_notes.xml" rel="self" type="application/rss+xml" />
+	 <!-- Add atom:link to point to the feed's self-referencing URL -->
+	<atom:link href="{{ site.url }}{{ site.baseurl }}/feed_notes.xml" rel="self" type="application/rss+xml" />
 
+     <!-- Loop through posts without showing dates in the URLs -->
     {% for post in site.notes | limit:10 %}
     <item>
       <title>{{ post.title | xml_escape }}</title>
-      <description>{{ post.excerpt | strip_html | xml_escape }}</description>
+      <description>{{ post.excerpt | xml_escape }}</description>
       <link>{{ site.url }}{{ post.url }}</link>
       <guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
       <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
+
       {% if post.last_modified_at %}
-      <pubDate>{{ post.last_modified_at | date_to_rfc822 }}</pubDate>
+      <lastModified>{{ post.last_modified_at | date_to_rfc822 }}</lastModified>
       {% endif %}
     </item>
     {% endfor %}
