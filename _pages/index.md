@@ -32,30 +32,72 @@ See below for my most recently updated notes. That's the last 10.
 Have a Good Life.
 
 ## These are all the posts from my Blogger Blog
+<style>
+.blog-posts {
+  font-family: Arial, sans-serif;
+}
 
+.year-details, .month-details {
+  margin-bottom: 1em;
+}
+
+.year-summary, .month-summary {
+  cursor: pointer;
+  background-color: #f0f0f0;
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+
+.year-summary:hover, .month-summary:hover {
+  background-color: #e0e0e0;
+}
+
+.month-list {
+  padding-left: 20px; /* Indent month list */
+}
+
+.post-list {
+  list-style-type: none; /* Remove bullet points */
+  padding-left: 0; /* Remove default padding */
+}
+
+.post-list li {
+  margin: 5px 0; /* Space between posts */
+}
+
+.post-date {
+  font-size: 0.9em; /* Smaller font for date */
+  color: #666; /* Lighter color for date */
+}
+</style>
 {% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
 
-{% for year in postsByYear %}
-<details>
-  <summary><h2>{{ year.name }}</h2></summary>
-  
-  {% assign postsByMonth = year.items | group_by_exp:"post", "post.date | date: '%B'" %}
-  
-  {% for month in postsByMonth %}
-  <details>
-    <summary><p>{{ month.name }}</p></summary>
-    <ul>
-      {% for post in month.items %}
-      <li>
-        <a href="{{ post.url }}">{{ post.title }}</a>
-        <span class="post-date">{{ post.date | date: "%B %d, %Y" }}</span>
-      </li>
+<div class="blog-posts">
+  {% for year in postsByYear %}
+  <details class="year-details">
+    <summary class="year-summary">{{ year.name }}</summary>
+    
+    {% assign postsByMonth = year.items | group_by_exp:"post", "post.date | date: '%B'" %}
+    
+    <div class="month-list">
+      {% for month in postsByMonth %}
+      <details class="month-details">
+        <summary class="month-summary">{{ month.name }}</summary>
+        <ul class="post-list">
+          {% for post in month.items %}
+          <li>
+            <a href="{{ post.url }}">{{ post.title }}</a>
+            <span class="post-date">{{ post.date | date: "%B %d, %Y" }}</span>
+          </li>
+          {% endfor %}
+        </ul>
+      </details>
       {% endfor %}
-    </ul>
+    </div>
   </details>
   {% endfor %}
-</details>
-{% endfor %}
+</div>
 
 <style>
   .wrapper {
