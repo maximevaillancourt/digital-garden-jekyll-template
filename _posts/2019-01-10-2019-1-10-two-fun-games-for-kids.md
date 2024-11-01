@@ -13,7 +13,7 @@ last_modified_at: 2024-11-01 19:03:54
 
 Last night at youth activity at my church, we played a couple games. Here are the general rules:
 
-##Baseball
+## Baseball
 
 
 Kids write down four things unique to them on different color note cards:
@@ -40,7 +40,7 @@ For example, I choose a 3rd base card. I read that card and it says, "I love to 
 
 Then Natalie goes and she says that she wants a home run card. It is "I won an award for something." She choose Katelyn. Katelyn says that was her card, and Natalie and I both go home, and we get two points.
 
-##Seats
+## Seats
 
 
 In this game, there are chairs set out in the mostly empty room. One person is it, and stands, away from the chair. The goal of the group is to ensure that person doesn't get a chair.

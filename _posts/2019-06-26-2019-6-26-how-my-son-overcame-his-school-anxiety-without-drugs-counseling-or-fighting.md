@@ -123,7 +123,7 @@ Click here to download our goal-setting template so you can start setting goals 
 
 
 
-#Get the Goal-Setting Template
+# Get the Goal-Setting Template
 
 Enter your email address here to get your own copy of the editable weekly goal form.
 

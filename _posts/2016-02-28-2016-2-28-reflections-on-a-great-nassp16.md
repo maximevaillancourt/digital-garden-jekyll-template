@@ -30,11 +30,11 @@ My notes below are largely unedited. Be sure to
 [here](http://transformativeprincipal.org/wormeliwhitaker) to listen to my interview with Todd Whitaker and Rick Wormeli. It was awesome.
 
 
-#EdCamp NASSP
+# EdCamp NASSP
 
 
 
-##Mental Health Issues
+## Mental Health Issues
 
 
 
@@ -44,7 +44,7 @@ My notes below are largely unedited. Be sure to
 *Mark Sullivan
 
 
-##School Showcase
+## School Showcase
 
 
 
@@ -105,7 +105,7 @@ My notes below are largely unedited. Be sure to
 *Chance favors the connected mind. Chance favors the connected school.
 
 
-##SLA
+## SLA
 
 
 
@@ -118,7 +118,7 @@ My notes below are largely unedited. Be sure to
 *Homework is a legacy app in schools.
 
 
-*I teach the kids [subject]
+*  teach the kids [subject]
 
 
 *How do you define inquiry? Purposeful Curiosity, Gerad Carrier
@@ -205,7 +205,7 @@ My notes below are largely unedited. Be sure to
 *Bit.ly/WynnCapstone
 
 
-##Daisy Dyer Duerr
+## Daisy Dyer Duerr
 
 
 
@@ -221,14 +221,14 @@ Questions for podcast:
 * How do you attract and maintain great teachers?
 
 
-##Janice Case
+## Janice Case
 
 
 
 https://www.dropbox.com/s/lphf7n9lg1z8nfi/IGNITE%20NASSP%2010%20Skills%20Learning%20Tool%202016.pptx?dl=0
 
 
-##Rick and Todd
+## Rick and Todd
 
 
 
@@ -271,7 +271,7 @@ https://www.dropbox.com/s/lphf7n9lg1z8nfi/IGNITE%20NASSP%2010%20Skills%20Learnin
 *Teacher evaluation is an ongoing event, not an every 3 years issue
 
 
-*3 goals for teacher evaluation: Reinforce good teachers, develop not so good teachers, get poor teachers out
+*  goals for teacher evaluation: Reinforce good teachers, develop not so good teachers, get poor teachers out
 
 
 *The reason I try to be in classrooms as much as possible is because the good teachers like it and the poor teachers don't!
@@ -304,7 +304,7 @@ https://www.dropbox.com/s/lphf7n9lg1z8nfi/IGNITE%20NASSP%2010%20Skills%20Learnin
 *If teachers can be part of it, it is incredible.
 
 
-##Ed Leadership Sims
+## Ed Leadership Sims
 
 
 
@@ -335,7 +335,7 @@ Simulated scenarios to help faculty experience difficult situations with simulat
 * Spaced Learning and Simulations
 
 
-##Suicide Sims
+## Suicide Sims
 
 
 

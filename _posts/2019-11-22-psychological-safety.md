@@ -31,18 +31,18 @@ A psychologically safe workplace is one where there is learning happening. I lov
 I start with the picture because visuals are important. But also to help talk about the different quadrants where we can find ourselves. 
 I’m going to talk about the different areas specifically:
 
-#Apathy Zone
+# Apathy Zone
 
 
 You’ve all seen this, this is where nobody cares what you’re doing or how you’re doing it. It the old TGIF and #hatemondays problem we so often see. You’re just trying to get through the week, and you don’t care about any part of it.
 
-#Comfort Zone
+# Comfort Zone
 
 
 In this zone, you feel so psychologically safe that nobody will ever say anything that could possibly hurt your feelings or make you feel like you are anything but the perfect educator. I actually found myself in this zone after a supervisor said (in my first year in the district) that she had never written a better evaluation of a principal. Gee thanks, that’s great, but how can I grow with that kind of feedback? This is where we all always 
 want to be, but we know it is not the best place. We are showered with praise and adoration, but it feels like feedback is a growth Twinkie - all empty calories and no substance. We are always eating and never satisfied.
 
-#Anxiety Zone
+# Anxiety Zone
 
 
 This is the zone that I unintentionally found myself. I thought that I was creating a psychologically safe workplace, but my expectations were so high, and I was apparently so unforgiving in my actions, that my team felt that they could not make a mistake without incurring my wrath. 
@@ -52,7 +52,7 @@ On the other hand, my expectations were to adapt your lesson to meet the needs o
 Through my leadership, I was creating anxiety for teachers because of my expectations. That’s not a good way to lead. It makes it really difficult for them to feel like they can even try something new. 
 I thought giving a free pass on traditional school structures was increasing their psychological safety, but it was creating more anxiety for them, because their beloved model was being blown up!
 
-#Learning Zone
+# Learning Zone
 
 
 The learning zone is where some teachers found a happy medium. You remember that teacher that I could trust to tell me the truth? I have had more crucial conversations with her than any other teacher in the building. Why did we trust each other? Because we had built psychological safety. 
@@ -60,7 +60,7 @@ Google’s Project Aristotle defines psychological safety by asking, “How comf
 The teachers and staff in the anxiety zone felt insecure or embarrassed when they took risks, instead of feeling confident that making a mistake wasn’t the end of the world. The teachers and staff in the learning zone took critical feedback, gave critical feedback, and knew that if there were mistakes made, we could move on easily. 
 They felt comfortable when they took risks, because they knew that they would be held accountable and they knew that they would also have support and not be destroyed because of the mistakes they made.
 
-#How to become psychologically safe at work
+# How to become psychologically safe at work
 
 
 In order to have a psychologically safe workplace, we need to talk about our mistakes. When we talk about our mistakes, we normalize the behavior. When we talk about our mistakes we learn from our mistakes. 
@@ -76,7 +76,7 @@ In the New Team Habits book, Kim, Lai, and Mascareñaz define the three steps le
 
 *Model curiosity: “Every time we withhold, we rob ourselves and our colleagues of small moments of learning.”
 
-**I understand now where I went wrong. You see, I had already done the things that I was asking the teachers to do, but they had not.**
+**  understand now where I went wrong. You see, I had already done the things that I was asking the teachers to do, but they had not.**
  I was coming in with my own experiences and confidence that these things could work (because they do). 
 The challenge that I faced was how could I help my team learn the same things that I knew, but do it in their own way? 
 These three suggestions from the New Team Habits book are powerful keys to helping you and me create psychologically safe workplaces.

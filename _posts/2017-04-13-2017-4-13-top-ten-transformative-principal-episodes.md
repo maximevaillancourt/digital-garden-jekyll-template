@@ -144,7 +144,7 @@ We all want to get to the point of having highly functional teams. Geri gives us
 
 This conversation with Scott Beebe really came at a good time for me and I implemented many of the things he talks about, with great results.
 
-#Honorable Mention
+# Honorable Mention
 
 ================================================
 

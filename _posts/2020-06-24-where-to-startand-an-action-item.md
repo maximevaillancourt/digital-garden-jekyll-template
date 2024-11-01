@@ -24,7 +24,7 @@ I heard some interesting concerns. Here's a couple: 
 *Lots of principals have reported not seeing budgets for 2020-2021 school year yet! 
 
 
-*A few pointed out they are worried about hiring people and having to let them go when the school year starts. 
+*  few pointed out they are worried about hiring people and having to let them go when the school year starts. 
 
 Thank you to those who are sharing. So, what are you actually doing with reopening right now?
 

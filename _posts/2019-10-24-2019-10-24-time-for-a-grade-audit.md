@@ -20,7 +20,7 @@ This is a good time to see if your vision is matching reality.
 
 Let’s see what a grade audit would look like depending on your grade level.
 
-##MTSS or RTI
+## MTSS or RTI
 
 
 If you’re using an RTI or MTSS model, you should probably expect to see about 80-95% of your student with B’s & A’s. About 10-20% could be in C-D range and only about 5-10% should be receiving F’s.
@@ -81,7 +81,7 @@ If you’re using an RTI or MTSS model, you should probably expect to see about 
 
 
 
-##Standards-based Grading
+## Standards-based Grading
 
 
 If you’re grading based on end-of-year grade level standards, you likely would be seeing low scores now on most of your standards because the year just started.
@@ -148,7 +148,7 @@ It is possible that could have No Evidence for a student for the whole first qua
 
 
 
-##Bell curve
+## Bell curve
 
 
 If you’re grading on a bell curve, you shoul see about the same number of kids with F’s as you do A’s. This isn’t a great practice, but it is better than the inverse bell curve or YouTube grading, which only has thumbs up or thumbs down.
@@ -208,7 +208,7 @@ If you’re grading on a bell curve, you shoul see about the same number of kids
 
 
 
-##YouTube Grading Or Inverse Bell Curve
+## YouTube Grading Or Inverse Bell Curve
 
 
 You know how on YouTube there are thumbs up and thumbs down for rating videos. It’s all or nothing for those videos, and some classes are like this also. You’ll see the vast majority of kids with either an A or an F, and very little in between. So, what can you interpret from these grades? In my experience, I typically can interpret that the teacher has a mindset set of, “It’s my job to teach, and the student’s job to learn [in the way I teach it].” What you’ll often see are students with grades that are either incredibly low, I’m talking single digit percentage F grades or just barely not a D-, something like 58.5%.
@@ -269,7 +269,7 @@ You know how on YouTube there are thumbs up and thumbs down for rating videos. I
 
 
 
-##Other Considerations
+## Other Considerations
 
 
 You might have some teachers in your school that are giving out a lot of F's. Is there a teacher that may have way more F's than other students.
@@ -278,7 +278,7 @@ One thing you can do is determine what percentage of her students have an F, and
 
 Another concern is if every student has 100%. You might want to look into that, too.
 
-##Conclusion
+## Conclusion
 
 
 One thing that I always tell my teachers when I’m in a traditional grading school is “F means the teacher failed, D means the student failed.”

@@ -15,7 +15,7 @@ We used a new product for our district collaboration at the conference we attend
 [here](http://slack.com).
 
 
-#Pros
+# Pros
 
 
 
@@ -38,14 +38,14 @@ Integrations. Integrations allow you pull things into slack. If you have used
 [IFTTT](http://ifttt.com), then you know exactly what I am talking about. If you haven't then it is basically integrating with other web services. One integration I would love to see is some integration with Moodle, which would probably be pretty difficult to do.
 
 
-#and @. The basics of communicating via Twitter with @ replies and # makes it really easy. It is a little confusing because each "channel" has a # in front of it, and the # is not just for sarcastic commenting. ;)
+# and @. The basics of communicating via Twitter with @ replies and # makes it really easy. It is a little confusing because each "channel" has a # in front of it, and the # is not just for sarcastic commenting. ;)
 
 
 
 You can see all the links that were shared in a specific channel which is really cool. That could come in really handy for how we used this tool this weekend.
 
 
-#Cons
+# Cons
 
 
 

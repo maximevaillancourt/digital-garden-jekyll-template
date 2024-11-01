@@ -25,7 +25,7 @@ Pretty awesome, but I wanted something a little more automated. 
 
 So, I tweaked it a bit. 
 
-##Step 1. IFTTT Rule: 
+## Step 1. IFTTT Rule: 
 [Instagram to Dropbox](https://ifttt.com/recipes/31848). 
 
 
@@ -38,7 +38,7 @@ Ifttt.com is a great automation web site. I'll let them explain it
 
 This rule saves every Instagram picture my wife takes to the dropbox folder ifttt/instagram.
 
-##Step 2. Automator Application
+## Step 2. Automator Application
 
 
 
@@ -157,7 +157,7 @@ But wait, there's more!
 
 
 
-##Step 3: Hazel rule
+## Step 3: Hazel rule
 
 
 
@@ -245,7 +245,7 @@ Hazel bringing up the rear
 
 What this Hazel rule does is scan the IFTTT/Instragram folder for new images. Once those images are found, it opens them with the app created in Step 2, and colors them green so you know they have been processed (copied to the ready to print folder, and scaled up to print easily on 4x6 paper).  
 
-##Wrap up: 
+## Wrap up: 
 
 
 Now, whenever my wife posts a picture on Instagram, IFTTT will download it to her computer, then Hazel and Automator will resize it and move it to a folder on her desktop.  How awesome is that? 
@@ -254,7 +254,7 @@ What this means is that whenever she finds a deal on 4x6 prints, or wants to pri
 
 
 
-##Bonuses:
+## Bonuses:
 
 
 If you don't have Hazel, or want to select your photos from iPhoto to be resized and padded for a 4x6, you can use this automator app. To use this, just select the photos you want to print while you are in iPhoto, and launch this 

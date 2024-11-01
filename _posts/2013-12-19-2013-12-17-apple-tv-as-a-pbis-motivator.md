@@ -19,7 +19,7 @@ One of the benefits of being a school that adopts the PBIS (Positive Behavior In
 Here is the tutorial for getting setup with an Apple TV as a behavior incentive in the office.
 
 
-#Step 1: Pictures
+# Step 1: Pictures
 
 
 
@@ -29,7 +29,7 @@ The first thing you need to do is get some pictures of your students doing what 
 Privacy notice In our district, our students all sign a media release at the beginning of the school year. This basically gives us permission to use their images how we want. We don't post them online often, but we do feel comfortable taking their pictures, and showing them off in our office.
 
 
-#Step 2: Photostream
+# Step 2: Photostream
 
 
 
@@ -43,7 +43,7 @@ Once you have an AppleID, sign into Photostream in iPhoto that will house the pi
 Once that is signed into, sign into Photostream on your Apple TV by entering your username and password in the iCloud menu, then setting up the screen saver to be the photo stream.
 
 
-#Step 4: Enjoy your pictures!
+# Step 4: Enjoy your pictures!
 
 
 

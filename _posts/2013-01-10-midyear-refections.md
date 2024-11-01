@@ -10,18 +10,18 @@ meta: {}
 last_modified_at: 2024-11-01 19:03:49
 ---
 
-#The Good
+# The Good
 
 
 
-##Front Office Staff
+## Front Office Staff
 
 
 
 So far, I am loving my system this year. There are a lot of great things about it, and the office staff has done a really good job of scanning the documents that come to me, before giving them to me. They are the front line for me, and if they scan everything that comes in, it makes it very easy to be paperless.
 
 
-##Time Based Hazel Rules
+## Time Based Hazel Rules
 
 
 
@@ -30,7 +30,7 @@ I've created a rule that causes files to not move until they have a data saved t
 ![Clean Out Rule](http://creativesforeducation.com/pp/cleanoutrule.png)
 
 
-##Hazel
+## Hazel
 
 
 
@@ -38,7 +38,7 @@ I love how we keep track of our student folders. Being able to go to a folder an
 Also, I used Hazel to identify which kids are frequent fliers by coloring that student's folder red if they have more than 10 items in their file. Three to ten documents in a folder means the folder is colored yellow, and one or two files in a folder colors the folder green. It is pretty cool to look at the students' folder with 170 kids in there and see that we have 8 that take a lot of our time.
 
 
-##Slick
+## Slick
 
 
 
@@ -60,7 +60,7 @@ This system is slick. The following things are done for me every time they are s
 So far, this has been a really slick implementation. Things have gone smoothly.
 
 
-#The Bad
+# The Bad
 
 
 
@@ -68,14 +68,14 @@ There is only one bad thing. My mobile notification system has been broken by Mo
 [Boxcar](http://boxcar.io) meant that I had to open up Dropbox and navigate there.
 
 
-#The Ugly
+# The Ugly
 
 
 
 I see the ugly as working, but not being ideal solutions. These are good to keep track of as they allow me to see where I can improve the process.
 
 
-##Using Multiple Computers
+## Using Multiple Computers
 
 
 
@@ -83,14 +83,14 @@ For example, I am using an older computer to scan everything. The OCR takes a wh
 [Hazel](http://www.noodlesoft.com).
 
 
-##Clean Out Rule
+## Clean Out Rule
 
 
 
 See above. This is not an ideal solution. I would like the computer and Hazel rules to recognize when I want files, and when files would go to someone else. There are actually a lot of rules that I have set up to get docs where they need to go. However, I have set them
 
 
-##Top Geek
+## Top Geek
 
 
 
@@ -99,7 +99,7 @@ One of the flaws with using Hazel and other geeky products is that I am the geek
 I pay attention to those things and that makes it easy for me to know what is going on, but part of me wonders
 
 
-##Hazel
+## Hazel
 
 
 

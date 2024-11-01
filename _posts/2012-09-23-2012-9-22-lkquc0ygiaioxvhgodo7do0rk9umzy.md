@@ -15,7 +15,7 @@ If you have tried out Hazel after reading
 [Chris](http://practicaltheory.org/blog/2012/09/22/the-paperless-principal/) mentioned in his post, there is a learning curve to going paperless, but it is well worth it. One of the things I learned this last week is:
 
 
-##Order Matters with Hazel Rules
+## Order Matters with Hazel Rules
 
 
 

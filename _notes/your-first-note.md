@@ -1,5 +1,6 @@
 ---
 title: Your first seed
+publish date: 2024-03-15
 ---
 
 ### Welcome!

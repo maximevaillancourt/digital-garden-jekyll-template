@@ -29,10 +29,10 @@ Here’s how I would propose our equity approach should work.
 
 First, we divide our students up into three groups, by actually partnering with parents and hearing what their real needs are:
 
-##Step 1 - Grouping
+## Step 1 - Grouping
 
 
-###Group 1 - The neediest kids
+### Group 1 - The neediest kids
 
 
 For sake of the argument, we will use two criteria (to keep it simple), but your school will absolutely need it’s own criteria.
@@ -53,20 +53,20 @@ With this being a smaller number of the population, it will make all the other a
 
 If someone gets sick, they would still need to be sent home, and many may need to be quarantined, but this gives them the school structure that they need, and allows those who need it the most to have it.
 
-###Group 2 - Some support at home
+### Group 2 - Some support at home
 
 
 This group of students are those who have some support at home.
 
 For sake of the argument, we will call support:
 
-*A parent is home, even if that parent is working
+*  parent is home, even if that parent is working
 
 
 *An older sibling is available (not ideal!) to provide limited support or the student is capable on his own.
 
 
-*A student has access to technology and internet.
+*  student has access to technology and internet.
 
 Support for Group 2
 
@@ -74,7 +74,7 @@ This group of students needs regular support and check-ins and help from school.
 
 They would be the second group that would be brought back to school as it becomes safe.
 
-###Group 3 - They’ll be fine
+### Group 3 - They’ll be fine
 
 
 This is the group of students who have parents at home who can support them, parents who want to be involved in their education, and the time to support that.
@@ -93,7 +93,7 @@ Rather than creating content for these families, allow the families to do their 
 
 A teacher would be assigned to check in with the family as often as each family needs. For some families that could be once a month!
 
-##Step 2 - Managing the groups
+## Step 2 - Managing the groups
 
 
 Once we have the kids in groups, we can make plans for those groups.
@@ -104,7 +104,7 @@ Group 2 - Kids at home, but engaged in virtual instruction and learning (develop
 
 Group 3 - Kids at home where the families are in charge of their learning. This is the last group to come back.
 
-##Step 3 - What about teachers?
+## Step 3 - What about teachers?
 
 
 Teachers are people. We need to treat them with respect and support as well.

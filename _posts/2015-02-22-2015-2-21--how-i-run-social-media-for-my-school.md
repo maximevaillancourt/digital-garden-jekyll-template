@@ -22,7 +22,7 @@ Managing multiple social media accounts can be a tricky (and possibly expensive)
 [Instagram](https://instagram.com/kodiakmiddleschool), and 
 [Facebook](https://www.facebook.com/KodiakMiddleSchool)). For me to be successful, this needs to be an easy and intuitive way to interact with my stakeholders.
 
-#It All Starts with Instagram
+# It All Starts with Instagram
 
 
 Instagram is the hardest platform to get information into. For some reason, they don't allow you to post through anything other than the official app, which makes it difficult and annoying to post. If anybody does know how I can improve this workflow, please let me know.
@@ -33,7 +33,7 @@ Whenever I think I want to share something with the community, it goes on instag
 
 I use a school-issued iPad with the instagram app installed and signed into the school instagram account.
 
-#Then it is Automated
+# Then it is Automated
 
 
 I set up recipes in 

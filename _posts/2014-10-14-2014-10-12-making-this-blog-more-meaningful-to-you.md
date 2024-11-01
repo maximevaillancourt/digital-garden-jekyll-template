@@ -26,4 +26,4 @@ I want to continue producing valuable content for this blog (and my other blogs)
 Please take a couple minutes to give me some information about yourself and what you want to see more of on the blog!
 
 
-##[Take me to the Survey!!](https://docs.google.com/forms/d/1onbQ_GbnSNvAwJD2pee09kMc8Cp0TVR5n0b1aBRmtdU/viewform)
+## Take me to the Survey!!](https://docs.google.com/forms/d/1onbQ_GbnSNvAwJD2pee09kMc8Cp0TVR5n0b1aBRmtdU/viewform)

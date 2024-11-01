@@ -108,27 +108,27 @@ It was a great experience, and connecting speakers with schools and communicatin
 
 But I had a secret weapon. I used automation to make lots of different things happen. Instead of writing a bunch of emails and spending time back and forth, I was able to make this 4 step process (described in the pictures to the right): 
 
-*A person signs up
+* person signs up
 
 
-*I Update the due date to 1 week from today
+* Update the due date to 1 week from today
 
 
-*I move the card to the guest speaker that it will be matched to.
+* move the card to the guest speaker that it will be matched to.
 
 
-*MAGIC! The automation makes it so that
+* MAGIC! The automation makes it so that
 
-*the school gets an email
-
-
-*the speaker gets an email
+* the school gets an email
 
 
-*the due dates are explained
+* the speaker gets an email
 
 
-*the link to submit the video is given.
+* the due dates are explained
+
+
+* the link to submit the video is given.
 
 
 

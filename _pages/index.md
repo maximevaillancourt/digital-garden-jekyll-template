@@ -40,10 +40,153 @@ See below for my most recently updated notes. That's the last 10.
   {% endfor %}
 </ul>
 
+## These are my Blog Posts and Notes
 
-
-## These are all the blog posts from my Blogger and Squarespace Blogs
 <style>
+/* Two-column layout for larger screens */
+.content-columns {
+  display: flex;
+  gap: 20px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.posts-column, .notes-column {
+  flex: 1;
+}
+
+.year-details, .month-details {
+  margin-bottom: 10px;
+}
+
+.year-summary, .month-summary {
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.post-list, .note-list {
+  list-style-type: none;
+  padding-left: 20px;
+}
+
+.post-date, .note-date {
+  font-size: 0.9em;
+  color: gray;
+  margin-left: 5px;
+}
+
+/* Responsive layout for smaller screens */
+@media (max-width: 768px) {
+  .content-columns {
+    flex-direction: column;
+  }
+}
+</style>
+
+
+<div class="content-columns">
+  <!-- Posts Column -->
+  <div class="posts-column">
+    <h2>Posts</h2>
+    {% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
+    <div class="blog-posts">
+      {% for year in postsByYear %}
+      <details class="year-details">
+        <summary class="year-summary">{{ year.name }}</summary>
+        
+        {% assign postsByMonth = year.items | group_by_exp:"post", "post.date | date: '%B'" %}
+        
+        <div class="month-list">
+          {% for month in postsByMonth %}
+          <details class="month-details">
+            <summary class="month-summary">{{ month.name }}</summary>
+            <ul class="post-list">
+              {% for post in month.items %}
+              <li>
+                <a href="{{ post.url }}">{{ post.title }}</a>
+                <span class="post-date">{{ post.date | date: "%B %d, %Y" }}</span>
+              </li>
+              {% endfor %}
+            </ul>
+          </details>
+          {% endfor %}
+        </div>
+      </details>
+      {% endfor %}
+    </div>
+  </div>
+	<div class="notes-column">
+	<h2>Notes</h2>
+	{% assign notesByYear = site.notes | group_by_exp:"note", "note.Published or note.date | date: '%Y'" | sort: "name" | reverse %}
+	<div class="notes-posts">
+  {% for year in notesByYear %}
+  <details class="year-details">
+    <summary class="year-summary">{{ year.name }}</summary>
+    
+    {% assign notesByMonth = year.items | group_by_exp:"note", "note.date | date: '%B'" %}
+    
+    <div class="month-list">
+      {% for month in notesByMonth %}
+      <details class="month-details">
+        <summary class="month-summary">{{ month.name }}</summary>
+        <ul class="note-list">
+          {% for note in month.items %}
+          <li>
+            <a href="{{ note.url }}">{{ note.title }}</a>
+            <span class="note-date">{{ note.date | date: "%B %d, %Y" }}</span>
+          </li>
+          {% endfor %}
+        </ul>
+      </details>
+      {% endfor %}
+    </div>
+  </details>
+  {% endfor %}
+</div>
+</div>
+</div>
+
+
+<style>
+/* Two-column layout for larger screens */
+.content-columns {
+  display: flex;
+  gap: 20px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.posts-column, .notes-column {
+  flex: 1;
+}
+
+/* Styling for accordions and lists */
+.year-details, .month-details {
+  margin-bottom: 10px;
+}
+
+.year-summary, .month-summary {
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.post-list, .note-list {
+  list-style-type: none;
+  padding-left: 20px;
+}
+
+.post-date, .note-date {
+  font-size: 0.9em;
+  color: gray;
+  margin-left: 5px;
+}
+
+/* Responsive layout for smaller screens */
+@media (max-width: 768px) {
+  .content-columns {
+    flex-direction: column;
+  }
+}
 .blog-posts {
   font-family: Arial, sans-serif;
 }
@@ -82,7 +225,7 @@ See below for my most recently updated notes. That's the last 10.
   color: #666; /* Lighter color for date */
 }
 </style>
-{% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
+<!-- {% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
 
 <div class="blog-posts">
   {% for year in postsByYear %}
@@ -108,7 +251,7 @@ See below for my most recently updated notes. That's the last 10.
     </div>
   </details>
   {% endfor %}
-</div>
+</div> -->
 
 Have a Good Life.
 

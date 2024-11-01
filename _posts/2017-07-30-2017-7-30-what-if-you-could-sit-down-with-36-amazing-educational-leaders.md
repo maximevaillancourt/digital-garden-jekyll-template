@@ -16,7 +16,7 @@ last_modified_at: 2024-11-01 19:03:53
 
 Monday is the big day for the launch of the Transformative Leadership Summit! I'm so excited. #TLS17
 
-##[Sign up here](https://gc319.isrefer.com/go/tls17/tehjunction/blog)
+## Sign up here](https://gc319.isrefer.com/go/tls17/tehjunction/blog)
 
 
 I mentioned last week that my goal is to reach 100 Million students in the next ten years.

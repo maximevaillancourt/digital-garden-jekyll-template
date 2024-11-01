@@ -17,7 +17,7 @@ last_modified_at: 2024-11-01 19:03:55
 
 TLDR; How to get class sizes down to 16 per teacher in a pandemic? Focus on families
 
-#Start with Reducing Class Sizes
+# Start with Reducing Class Sizes
 
 
 One thing that teachers are always advocating for is lower class sizes.
@@ -55,7 +55,7 @@ Principals' roles would change and they would focus more on the families their t
 
 If we are focused on families, this would also provide other ways to stimulate the economy. Field trips and other activities could be arranged to provide for social distancing and cleanliness that would make things that haven't been possible yet more likely to be possible.
 
-##OK, I'm in. What does the Day to Day look like?
+## OK, I'm in. What does the Day to Day look like?
 
 
 Daily, each teacher checks in with students and makes sure the family has what they need. Different families will have different levels of need. This would be a family checkin, done via text, email, synchronous video call, or something similar. 15 minutes each family, or so.
@@ -66,14 +66,14 @@ One day each week (the same day) teachers would all be focusing on professional 
 
 Students could still be enrolled in "courses" to support the learning that they need to accomplish, if that is what the family wants.
 
-###What about curriculum?
+### What about curriculum?
 
 
 There are already plenty of providers that provide curriculum virtually, and it would be cost effective to purchase these programs from various vendors. More importantly, districts could create these programs on the fly to support students.
 
 The teacher's role in that situation would then be to support her families' kids in their online courses. She'd be a support to help them be successful and take pressure off the parents.
 
-###What about special education?
+### What about special education?
 
 
 My daughter has down syndrome, and needs a lot of support, so this is one of the things I think of first.
@@ -82,7 +82,7 @@ IEPs are Individualized Education Plans, and special education teachers would st
 
 Often our special education teachers have skills way beyond what is being utilized in the classroom, and they could really shine in this difficult situation.
 
-##What are the problems with this plan?
+## What are the problems with this plan?
 
 
 *Standards attainment!

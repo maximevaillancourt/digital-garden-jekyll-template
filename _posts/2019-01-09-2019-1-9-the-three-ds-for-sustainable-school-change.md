@@ -78,19 +78,19 @@ I have talked to a lot of school principals about how they do their work. I've f
 
 With these three things, we get the what (the data), the hos (documentation), and the why (demonstrations or stories). The data is what we get from doing this work. The documentation allows us to onboard new people, and the stories motivate us to keep going, even when it is hard.
 
-##Demonstrations
+## Demonstrations
 
 
 We all know that stories compell people to action and make us want to be part of something bigger. When we can find ways to demonstrate how lives are changed, it makes people willing to do the work needed.
 
 The stories are the best, and we all love them.
 
-##Documentation
+## Documentation
 
 
 This is certainly not a sexy part of the process, but if we want people to continue the work, we need to show the new people how to do it, and we need to remind ourselves of the right way to do it.
 
-##Data
+## Data
 
 
 Unfortunately, in education, this is usually where we start. The data tells us what we are impacting. Most of us in schools use only quantitaitve data, but there is plenty of qualitative data we could use, too. Most importantly, this shows that what we are doing is actually working.

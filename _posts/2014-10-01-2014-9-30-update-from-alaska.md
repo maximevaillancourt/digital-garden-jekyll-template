@@ -13,7 +13,7 @@ meta:
 last_modified_at: 2024-11-01 19:03:49
 ---
 
-#Moving
+# Moving
 
 
 
@@ -21,7 +21,7 @@ If you didn't follow along, Staci and I
 [wrote a blog](http://wearedrivingtoalaska.com) describing our journey up here. It was really fun, and our kids did a great job!
 
 
-#Kodiak Middle School
+# Kodiak Middle School
 
 
 
@@ -29,7 +29,7 @@ Starting as a principal at a new school has been such a fun learning experience.
 [podcast](http://transformativeprincipal.com) have mentioned that. It is so true. And it is fascinating. I am having so much fun! I love new challenges, I love learning new things, and I love working with people to create something really amazing. So, let's get down to some of the nitty gritty!
 
 
-##Assistant Principal
+## Assistant Principal
 
 
 
@@ -47,7 +47,7 @@ Damon is also willing to do silly things. Follow our
 [facebook page](https://www.facebook.com/KodiakMiddleSchool) for some of our antics. We have made a couple videos, and done some phone calls home to get some parents involved. It is fun working with him. Our relationship will drive our school in a positive direction, and it is worth recognizing and being on the same page.
 
 
-##District and Building Inservice
+## District and Building Inservice
 
 
 
@@ -57,14 +57,14 @@ For district and building inservice we wanted to create a positive climate in th
 Then the NORMS. Norms are an important part of any faculty, and I wanted to show teachers that I was going to trust them to come up with norms that meant something to them. We took a long time to do this, but I felt (and the feedback said) that it was worthwhile. {" It was a hard process to go through, but that is OK because we can do hard things."} The teachers really showed that they can do hard things that day, and they showed that by their responses to feedback about the opening inservice.
 
 
-##The Teachers
+## The Teachers
 
 
 
 I am super excited to work with this group of teachers. They are excited and eager to help students learn. That is really a great place to start. With 6th, 7th, and 8th grade, we have one science, math, and social studies teacher per grade. We have two ELA teachers per grade, and two STEM teachers that teach all three grades.
 
 
-##iObservation
+## iObservation
 
 
 

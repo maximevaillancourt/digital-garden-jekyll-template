@@ -21,7 +21,7 @@ On August 19th, 14 dedicated teachers, 3 super-star paraprofessionals, and a men
 It was amazing.
 
 
-##Why?
+## Why?
 
 
 
@@ -34,7 +34,7 @@ There was a little surprise and skepticism that we could actually pull it off, b
 We delivered planners, a bookmark, and a ticket for a free smoothie on the first day of school if kids answered one of four questions.
 
 
-##Feedback
+## Feedback
 
 
 
@@ -42,7 +42,7 @@ Take a look at our
 [facebook page](http://facebook.com/kodiakmiddleschool) to see some of the positive feedback we got. Students and parents alike were very happy to see us. Many people commented that they saw us out and about.
 
 
-##Communication
+## Communication
 
 
 
@@ -50,14 +50,14 @@ We let people know about it by creating a
 [communication calendar](http://transformativeprincipal.org/jethrojonescomuploads/smcalendarhv.pdf). We used social media, a presentation to the board, and an all call to make sure the word got out. The school board supported the idea.
 
 
-##Coast Guard
+## Coast Guard
 
 
 
 Normal civilians are not allowed on the Coast Guard base without an escort. Thankfully, we had two teachers who are Coast Guard dependents who volunteered to be the escorts for me and Mr. Hargraves. We notified the CO of the Coast Guard early on to make sure we would be able to come visit, and they were very supportive of the visits.
 
 
-##Logistics!
+## Logistics!
 
 
 
@@ -123,14 +123,14 @@ Then we sorted the spreadsheet by the route column and made sure every group had
 We gave everyone a map with student names on it, their list, and their goodies to hand out and sent them on their way.
 
 
-##Mission Accomplished
+## Mission Accomplished
 
 
 
 All in all, it took 18 adults from 9 am to 2:30 pm to visit all the homes in our district. Organization and effort on the part of Damon and me ensured that teachers got out of the school on time and were able to get to the houses quickly. A couple people finished before lunch, and the rest finished after lunch. The fact that we finished in less than a school day is pretty amazing.
 
 
-##Planning for the future
+## Planning for the future
 
 
 
@@ -164,7 +164,7 @@ Some good things we did that we want to remember to do next year:
 *Outreach. Reaching out to our students to say we love you is amazing. We are so glad that we did this. It was not only fun, but very rewarding. We built some great relationships. One student was waiting for us to get there, and was super excited to see us.
 
 
-##Uploads!
+## Uploads!
 
 
 

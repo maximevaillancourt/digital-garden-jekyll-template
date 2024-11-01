@@ -37,7 +37,7 @@ I like being productive in the mornings, and by the time this three hour worksho
 The goal was eleven 15-20 minute modules in that time period. It was going to be a whirlwind.
 
 
-##The Process
+## The Process
 
 
 
@@ -60,7 +60,7 @@ All 660 participants were invited to a temporary
 With Posts or Files, you can upload something and then comment on it. This makes it so that you can have a little mini-discussion off to the side.
 
 
-##What I Learned
+## What I Learned
 
 
 

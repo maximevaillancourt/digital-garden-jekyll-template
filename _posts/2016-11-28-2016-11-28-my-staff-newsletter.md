@@ -25,13 +25,13 @@ Upcoming Calendar items:
 Assessment Calendar -  Please note the following windows for assessments
 
 
-*K–8:  AIMS:  Dec. 5–16th (done in ELA and Math Classes)
+* –8:  AIMS:  Dec. 5–16th (done in ELA and Math Classes)
 
 
-*K–12:  MAP (include writing!):  Dec. 1–16 (We will do ours next week. More details to follow.)
+* –12:  MAP (include writing!):  Dec. 1–16 (We will do ours next week. More details to follow.)
 
 
-*2–12:   SRI:  Nov. 28-Dec. 9th (Done in ELA or Social Studies classes)
+* –12:   SRI:  Nov. 28-Dec. 9th (Done in ELA or Social Studies classes)
 
 
 This Friday will be our grade-level team meetings. Next Friday will be our committee meetings, and the following Friday will be a party by the sunshine committee.

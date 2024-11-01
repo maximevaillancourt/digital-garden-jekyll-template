@@ -11,7 +11,7 @@ last_modified_at: 2024-11-01 19:03:53
 ---I've heard of 
 [Principal Kafele](http://principalkafele.com) before, and it was really amazing to hear him speak today. He spoke to a room full of principals and other leaders in Alaska. Very inspiring and moving words.
 
-#Principal Kafele
+# Principal Kafele
 
 
 Critical leadership questions for inspiring school wide excellence
@@ -37,7 +37,7 @@ Critical leadership questions for inspiring school wide excellence
 *My attitude changed everything.
 
 
-*I am the number 1 determinant of the success or failure of my students.
+*  am the number 1 determinant of the success or failure of my students.
 
 
 *Kids need to hear from their principal before they leave.

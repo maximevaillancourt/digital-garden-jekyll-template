@@ -43,7 +43,7 @@ From our admin secretary to our aides to everyone else, everyone took time durin
 So, what was our “class size” during this time when everyone was focused on supporting kids?
 
 
-#13.
+# 13.
 
 
 

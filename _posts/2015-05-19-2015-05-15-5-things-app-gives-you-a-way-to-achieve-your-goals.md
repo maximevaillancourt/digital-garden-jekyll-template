@@ -40,7 +40,7 @@ I wrote all these goals down in my journal, and reviewed them regularly. They gu
 
 I met every goal by my deadline (except for the debt one, which was a couple months late). I believe we can do anything when we put our minds to it.
 
-##5 Things
+##  Things
 
 
 5 Things rests on the belief that you can be successful if you focus on five areas of your life. It is simpler than Zig Zigler's Wheel of Life, which I really like. The idea is that you review your five goals daily, and make a note when you accomplish something. You create short term, medium term, and long term goals in 5 areas.

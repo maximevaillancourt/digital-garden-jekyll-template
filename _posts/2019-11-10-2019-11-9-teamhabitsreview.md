@@ -27,7 +27,7 @@ Some visualization prototyping.
 
 
 
-#TeamHabits Review
+# TeamHabits Review
 
 
 
@@ -76,7 +76,7 @@ keystone habits.
 A quick story from my own life. As I started reading scriptures every day, I was thinking about things in a spiritual nature. By reading scriptures daily, my mind was focused on learning spiritual truths. This helped implement those spiritual truths more effectively in my life. And so, I was more patient, more kind, more helpful, less selfish, more considerate. Not that I was making it a point to be any of those things, but that my keystone habit compounded others things that made my life more meaningful.
 
 
-##Team Habit 1: We talk about our mistakes
+## Team Habit 1: We talk about our mistakes
 
 
 
@@ -91,7 +91,7 @@ This section talked a lot about psychological safety. If you listened to my inte
 This habit can be especially hard in schools where we are very much people pleases and suffer from a culture of nice. This habit also seems to reinforce the culture of nice by not immediately punishing someone for their mistakes. But I don’t think that’s what it looks like. What it really looks like is holding people accountable for their mistakes without punishing them. This is how I deal with kids as a principal. If you make a mistake, we are going to talk about it, but we are going to use it as a learning opportunity. That’s the whole point. How do we learn as an organization? We talk about our mistakes. If we don’t talk about our mistakes, how can we ever expect to learn? It just won’t happen. We learn through mistakes.
 
 
-##Team Habit 2: Meetings—we lead check-ins.
+## Team Habit 2: Meetings—we lead check-ins.
 
 
 
@@ -126,7 +126,7 @@ A check-in for deep could be something like: “What brings you joy?”
 A check-in for fun could be something like writing how you’re going to show up on your partner’s back. Yes, sounds weird, but was actually fun. Probably not fun for those who don’t like touching people. :)
 
 
-##Team Habit 3: Projects—we kick them off.
+## Team Habit 3: Projects—we kick them off.
 
 
 

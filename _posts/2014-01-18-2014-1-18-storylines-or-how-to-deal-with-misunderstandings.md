@@ -37,7 +37,7 @@ This is not about being a paperless principal, but using this strategy may save 
 
 
 
-#Have You Experienced a Storyline?
+# Have You Experienced a Storyline?
 
 
 
@@ -50,7 +50,7 @@ Have you ever seen someone and thought, that person has no desire to see or inte
 When you have these interactions, you are creating a storyline. And what I am going to tell you about dealing with storylines will make every relationship in your life better.
 
 
-#What Exactly is a Storyline?
+# What Exactly is a Storyline?
 
 
 
@@ -66,7 +66,7 @@ A storyline is something we make up, with very little justification (and a part 
 Sometimes our storylines come from an email that sounded too terse or frustrated or impolite.
 
 
-#How to Deal With Storylines
+# How to Deal With Storylines
 
 
 
@@ -91,7 +91,7 @@ Sometimes our storylines come from an email that sounded too terse or frustrated
 This is a great strategy for anyone who deals with any other human beings in their life.
 
 
-#How Storylines Have Affected My Life
+# How Storylines Have Affected My Life
 
 
 

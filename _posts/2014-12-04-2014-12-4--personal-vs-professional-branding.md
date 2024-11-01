@@ -13,7 +13,7 @@ last_modified_at: 2024-11-01 19:03:51
 This post has been ruminating in my head for the last several years. The people I am going to talk about are amazing individuals, and I respect them very much. These are questions that I have had since I joined Twitter in 2007.
 
 
-#Personal vs. Professional
+# Personal vs. Professional
 
 
 
@@ -47,7 +47,7 @@ What I suppose he did was changed his handle to E
 Sheninger and then created a new account and named that one NMHSPrincipal. He couldn't just leave @NMHS_Principal out there for someone else to take because it had its own brand recognition.
 
 
-#Pros and Cons of Professional Identities
+# Pros and Cons of Professional Identities
 
 
 
@@ -73,7 +73,7 @@ Recognizing that he is a brand in and of himself now, Eric Sheninger created a t
 One district I worked for claimed ownership of anything that I created during work hours or using district-owned resources. Would they own my twitter account because I used it to help me be a better educator? That seems just silly, and would really discourage me from sharing what I am learning.
 
 
-#So, What?
+# So, What?
 
 
 
