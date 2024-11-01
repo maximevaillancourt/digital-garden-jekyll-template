@@ -18,27 +18,27 @@ First, we are going to look at what makes a bad experience, and try to do the op
 
 Second, we are going to try to create an experience that will guide the right people to us!
 
-##The Worst Case Scenario Approach
+## The Worst Case Scenario Approach
 
 
 What must you do to make working for you the worst possible situation?
 
-*You can make the application process opaque, difficult-to-navigate, annoying, tedious, time-consuming, with very little communication
+* You can make the application process opaque, difficult-to-navigate, annoying, tedious, time-consuming, with very little communication
 
 
-*In the interviewing process you can ask "gotcha" questions to make people feel like they're taking a high-stakes test (which they truly are, it's their livelihood, of course!)
+* In the interviewing process you can ask "gotcha" questions to make people feel like they're taking a high-stakes test (which they truly are, it's their livelihood, of course!)
 
 
-*Once they're hired, make the onboarding process a repetition of what they've already done, tedious in nature, collect all the same information, sometimes twice, and make it really annoying to get started. Don't give them any training on what they should do and throw them into the pit right away, so they have to figure out how to make connections. You could go to the other extreme just as easily, and provide so much support that they feel smothered, so don't do that either.
+* Once they're hired, make the onboarding process a repetition of what they've already done, tedious in nature, collect all the same information, sometimes twice, and make it really annoying to get started. Don't give them any training on what they should do and throw them into the pit right away, so they have to figure out how to make connections. You could go to the other extreme just as easily, and provide so much support that they feel smothered, so don't do that either.
 
 
-*While employed, make sure they have to follow strict protocols that remind them constantly they are a piece of meat, a "human resource" that is to be exploited and used for the betterment of the organization. Make sure they know they are employed so long as they provide value and will be discarded the moment they are of less value than they are being paid.
+* While employed, make sure they have to follow strict protocols that remind them constantly they are a piece of meat, a "human resource" that is to be exploited and used for the betterment of the organization. Make sure they know they are employed so long as they provide value and will be discarded the moment they are of less value than they are being paid.
 
 These are just a few ideas, and certainly not an exhaustive list. There are more things you can do, but I tried to break it down into the four categories: recruiting, hiring, onboarding, daily work.
 
 Let's examine some better ways to do each of these.
 
-##Recruiting
+## Recruiting
 
 
 Jason Fried says "Don't hire until it hurts." What he means by that is don't hire someone until you are sure you need them, can sustain them, and know that it will be better for you to hire them than to not have them.
@@ -50,68 +50,14 @@ When you see someone that you think would be a great person to work with, stay i
 When it comes to applying, make it is easy for people to apply to work for you.
 
 Yes, you need to collect information, but you don't have to make that an awful experience. With the ability to collect information today, this should be seamless process. I recently saw a company that imported your history from LinkedIn and displayed it in such a way that you could tell where overlaps happened, and could see education timeframes as well. In fact, I just started an application just to take a screenshot.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
     
-  
-    
-![](/squarespace_images/content_v1_4fffa949e4b0b4590d67b4e7_0255d063-ba5c-49d3-86b9-a6dbb8f47827_CleanShot+2024-03-26+at+09.09.43%402x.png_)
-  
-
-
-  
-
-
+![](/assets/worktimeline.png)
 
 This was all imported from my LinkedIn profile, and it was very easy to change when I needed to change it. This was using a system built by Oracle.
 
 This view is beneficial to the applicant and the reviewer, to get a high level overview of what that person's pathway has been and gives solid information where the resume, cover letter, and other answers to questions can fill in the gaps.
 
-##Interview Process
+## Interview Process
 
 
 In several of my positions where I've been in charge of hiring, I've seen different approaches. Sometimes, I could ask any questions I want. Other times, I had to ask the same questions, regardless of applicability. There is an overwhelming sense to sciencize the interview and hiring process, as though we could design the perfect thing to get the best candidate.
@@ -122,31 +68,31 @@ The most important thing is trying to figure out the answer to this question, "W
 
 That is also a multifaceted question! Will we like working with them because:
 
-*they are congenial?
+* they are congenial?
 
 
-*they get their work done on time?
+* they get their work done on time?
 
 
-*they are easy-going or hard-nosed?
+* they are easy-going or hard-nosed?
 
 
-*they are stubborn, insistent, or opinionated?
+* they are stubborn, insistent, or opinionated?
 
 
-*they are outspoken, mild-mannered, or something in between?
+* they are outspoken, mild-mannered, or something in between?
 
 The list goes on and on, and it is and always will be subjective. Each person will have their own opinion and their own take about what makes that person a good fit or not.
 
 Rather than avoiding the subjective question, and trying to make it a hyper-rational decision, we should recognize that we
 
-*Can't predict the future
+* Can't predict the future
 
 
-*are making our best guess, and
+* are making our best guess, and
 
 
-*will likely change our opinions over time.
+* will likely change our opinions over time.
 
 So, own that it is a gut decision, and that it is about cultural fit.
 
@@ -160,7 +106,7 @@ Many times, I've applied for jobs, and not heard anything back. I've reached per
 
 One thing I always told teachers when I decided I wanted to hire them, "We're entering a bureaucratic process. it moves slowly. I want you here, so while this process plays out, let's stay in touch and keep chatting so we know where it is going."
 
-##Onboard for Personal and Work Life
+## Onboard for Personal and Work Life
 
 
 When I was a principal in Kodiak, Alaska, it was tough to get people to move to a remote island community.
@@ -201,7 +147,7 @@ I once had to sit in an office for a week waiting for access to the things I nee
 
 People have lives outside of work, and work stress inevitably adds to their life stress. Let's not make that work stress unnecessarily bigger.
 
-##Daily Work
+## Daily Work
 
 
 The key in making the daily work worthwhile is to be clear about what constitutes success in the role.
@@ -245,7 +191,7 @@ There are, of course, ways that each of those situations, with the understanding
 That's why 
 your context matters so much. Your situation is unique, and it is wise to think about your situation specifically as it relates to your employees and trust, or lack thereof.
 
-##Separation
+## Separation
 
 
 Begin with the end in mind.
@@ -266,19 +212,19 @@ Employer and employee should be clear about what constitutes not continuing with
 
 Here are a few for consideration:
 
-*Rather than waiting for things to be so toxic, write out a list of things that won't work for you to stick around.
+* Rather than waiting for things to be so toxic, write out a list of things that won't work for you to stick around.
 
 
-*If this is an "up or out" situation, be clear about what up looks like, how soon, and communicate that between parties.
+* If this is an "up or out" situation, be clear about what up looks like, how soon, and communicate that between parties.
 
 
-*If this is a ladder-type role that you are using to get your foot in the door, or to get higher up, be clear about that.
+* If this is a ladder-type role that you are using to get your foot in the door, or to get higher up, be clear about that.
 
 
-*Set a timeline for a position. "I'm willing to be here and give it my all for 2 years, and then I'm going to start looking."
+* Set a timeline for a position. "I'm willing to be here and give it my all for 2 years, and then I'm going to start looking."
 
 
-*Consider if this is a "seasonal" job for your life, where it is at.
+* Consider if this is a "seasonal" job for your life, where it is at.
 
 Let's examine the last one briefly. One situation that I dealt with involved a single woman who was going to work for us until she got married and had a child. That was her goal. The job with us would be for this season where she didn't have a family. It was her goal, her purpose and she made it very clear that when she got pregnant, she would resign at the end of that semester. She didn't want maternity leave, she didn't want to come back after having a child.
 
@@ -288,13 +234,13 @@ When the day came, she confidently shared that she was pregnant and based on whe
 
 There are other seasons, though, as well.
 
-*I'm here to gain X experience
+* I'm here to gain X experience
 
 
-*I'm here to have health insurance until my child goes to college
+* I'm here to have health insurance until my child goes to college
 
 
-*I'm here to make a lot of money so I can retire earlier.
+* I'm here to make a lot of money so I can retire earlier.
 
 These reasons all exist, and if you're not going to be clear about the outcome with your employer, you should at least be clear about the outcome with yourself, so you know when the end is nigh.
 
