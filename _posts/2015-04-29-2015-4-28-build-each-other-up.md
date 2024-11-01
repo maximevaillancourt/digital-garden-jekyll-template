@@ -8,7 +8,7 @@ type: post
 published: true
 meta:
   passthrough_url: http://esheninger.blogspot.com/2015/04/let-your-work-do-talking.html?m=1
-last_modified_at: 2024-11-01 18:37:51
+last_modified_at: 2024-11-01 19:03:52
 ---
 
 Eric Sheninger:

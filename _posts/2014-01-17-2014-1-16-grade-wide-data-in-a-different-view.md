@@ -10,7 +10,7 @@ status: publish
 type: post
 published: true
 meta: {}
-last_modified_at: 2024-11-01 18:37:48
+last_modified_at: 2024-11-01 19:03:49
 ---
 
 At our school, we do "Curriculum Conferences" or "Academic Parent-Team Meetings". These are an extra parent-teacher conference-like setup that was pioneered by the 

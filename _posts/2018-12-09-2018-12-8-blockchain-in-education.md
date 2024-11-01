@@ -11,7 +11,7 @@ status: publish
 type: post
 published: true
 meta: {}
-last_modified_at: 2024-11-01 18:37:53
+last_modified_at: 2024-11-01 19:03:54
 ---
 
 I don't understand blockchain well enough to comment too much on this, but the thought greatly intrigued me, and it happened to be the first few seconds of 

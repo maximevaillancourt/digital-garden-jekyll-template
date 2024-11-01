@@ -9,7 +9,7 @@ status: publish
 type: post
 published: true
 meta: {}
-last_modified_at: 2024-11-01 18:37:54
+last_modified_at: 2024-11-01 19:03:55
 ---
 
 I was sitting in a leadership team meeting at my school last year, and we were discussing next steps for moving our school forward. A suggestion was made, not by me, and we decided that was the right step to take.

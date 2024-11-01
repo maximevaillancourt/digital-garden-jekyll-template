@@ -9,7 +9,7 @@ published: true
 meta:
   structured_content: '{"oembed":{},"overlay":true}'
   _thumbnail_id: '337'
-last_modified_at: 2024-11-01 18:37:50
+last_modified_at: 2024-11-01 19:03:52
 ---
 
 I've attended a couple conferences the last month and there have been two things that really have been emphasized multiple times:

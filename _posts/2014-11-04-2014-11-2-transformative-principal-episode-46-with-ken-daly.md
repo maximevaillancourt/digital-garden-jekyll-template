@@ -8,7 +8,7 @@ type: post
 published: true
 meta:
   passthrough_url: http://www.jethrojones.com/ken-daly
-last_modified_at: 2024-11-01 18:37:49
+last_modified_at: 2024-11-01 19:03:50
 ---
 
 Ken Daly talks about his Innovation Team in his district. He discusses what it is like to work part time, and focus part time on school reform issues.

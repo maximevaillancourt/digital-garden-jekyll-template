@@ -8,7 +8,7 @@ type: post
 published: true
 meta:
   passthrough_url: http://www.jethrojones.com/mike-rogers
-last_modified_at: 2024-11-01 18:37:48
+last_modified_at: 2024-11-01 19:03:49
 ---
 
 >How to be a transformative principal: Find one way that you can use technology to do your job. If you carry around a smart phone and you can’t answer the question, how does my phone help me be a better principal, make it a goal to find out how it does help you do your job.

@@ -8,7 +8,7 @@ type: post
 published: true
 meta:
   passthrough_url: http://physedagogy.com/2015/03/03/standards-based-grading-preparing-our-students-for-the-real-world/
-last_modified_at: 2024-11-01 18:37:50
+last_modified_at: 2024-11-01 19:03:52
 ---
 
 Sarah Gietschier-Hartman:

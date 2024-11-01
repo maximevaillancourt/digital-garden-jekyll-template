@@ -7,7 +7,7 @@ status: publish
 type: post
 published: true
 meta: {}
-last_modified_at: 2024-11-01 18:37:48
+last_modified_at: 2024-11-01 19:03:50
 ---
 
 Over on his blog, Eric Sheninger posted about his new role at ICLE and the professional development that "

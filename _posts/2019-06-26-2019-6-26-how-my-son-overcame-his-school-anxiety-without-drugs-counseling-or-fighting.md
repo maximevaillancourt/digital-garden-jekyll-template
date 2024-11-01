@@ -11,7 +11,7 @@ status: publish
 type: post
 published: true
 meta: {}
-last_modified_at: 2024-11-01 18:37:54
+last_modified_at: 2024-11-01 19:03:55
 ---
 
 My wife told me she just couldn't do it anymore. "It's too hard," she said. "Every time I drop him off, the tears, the yelling, and the crying. I just can't take him to school anymore. We've got to figure something out."

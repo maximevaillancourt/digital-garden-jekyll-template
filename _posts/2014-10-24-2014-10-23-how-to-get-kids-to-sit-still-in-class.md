@@ -8,7 +8,7 @@ type: post
 published: true
 meta:
   passthrough_url: http://www.washingtonpost.com/blogs/answer-sheet/wp/2014/10/07/the-right-and-surprisingly-wrong-ways-to-get-kids-to-sit-still-in-class/
-last_modified_at: 2024-11-01 18:37:48
+last_modified_at: 2024-11-01 19:03:50
 ---
 
 Angela Hanscom:

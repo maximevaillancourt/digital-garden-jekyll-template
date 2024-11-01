@@ -10,7 +10,7 @@ type: post
 published: true
 meta:
   _thumbnail_id: '53'
-last_modified_at: 2024-11-01 18:37:54
+last_modified_at: 2024-11-01 19:03:55
 ---
 
 Setting goals is a key piece of the mastermind. Every week, we set goals to help us stay focused and get better.

@@ -7,7 +7,7 @@ status: publish
 type: post
 published: true
 meta: {}
-last_modified_at: 2024-11-01 18:37:51
+last_modified_at: 2024-11-01 19:03:52
 ---
 
 This is a review about a new app that I just love. Before I get to the app itself, I need to share a personal story about why this app means so much to me.

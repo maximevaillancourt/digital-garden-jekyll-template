@@ -8,7 +8,7 @@ type: post
 published: true
 meta:
   passthrough_url: http://www.adn.com/article/20141229/education-task-forces-last-meeting-ends-dissent
-last_modified_at: 2024-11-01 18:37:50
+last_modified_at: 2024-11-01 19:03:51
 ---
 
 >Halcro, attending by teleconference as a representative of the business community, said the panel was misplacing its concern when the results of testing showed some students and their schools were below standards. Rather than focus on “outcomes,” he said, the Legislature needed to attend to “inputs” — the causes of below-average performance, such as missing parental involvement, lack of proficiency in English and transiency. 

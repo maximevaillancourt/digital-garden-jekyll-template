@@ -7,7 +7,7 @@ status: publish
 type: post
 published: true
 meta: {}
-last_modified_at: 2024-11-01 18:37:50
+last_modified_at: 2024-11-01 19:03:51
 ---
 
 >Junior Madison Johnson wrote a letter to the superintendent asking that the Grand County School District change its policy in the future. Instead of attending class Monday, she and her classmates read Dr. King's speeches and letters outside the school and on the streets of Moab and circulated a petition in support of changing the school calendar starting next year and beyond.

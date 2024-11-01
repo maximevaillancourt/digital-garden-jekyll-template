@@ -11,7 +11,7 @@ status: publish
 type: post
 published: true
 meta: {}
-last_modified_at: 2024-11-01 18:37:53
+last_modified_at: 2024-11-01 19:03:55
 ---
 
 My first exposure to an Individualized Education Program (IEP for short) occurred my first year teaching when I had a student on an IEP.

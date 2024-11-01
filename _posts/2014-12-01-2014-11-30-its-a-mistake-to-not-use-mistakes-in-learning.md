@@ -8,7 +8,7 @@ type: post
 published: true
 meta:
   passthrough_url: http://www.edutopia.org/blog/use-mistakes-in-learning-process-richard-curwin
-last_modified_at: 2024-11-01 18:37:49
+last_modified_at: 2024-11-01 19:03:51
 ---
 
 Dr. Richard Curwin:

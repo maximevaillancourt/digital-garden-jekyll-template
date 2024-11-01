@@ -7,7 +7,7 @@ status: publish
 type: post
 published: true
 meta: {}
-last_modified_at: 2024-11-01 18:37:54
+last_modified_at: 2024-11-01 19:03:55
 ---
 
 There is a popular phrase used in the digital marketing world that relates to having all you ever need. The idea is that if you get 1000 true fans, 1000 people who will support you, you will be able to live a good life, provide for your family, and serve a small group that is big enough to support you.

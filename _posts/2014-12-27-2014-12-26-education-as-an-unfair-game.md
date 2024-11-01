@@ -8,7 +8,7 @@ type: post
 published: true
 meta:
   passthrough_url: http://schoolfinance101.wordpress.com/2014/12/11/education-shouldnt-be-an-unfair-game/?blogsub=confirming#blog_subscription-3
-last_modified_at: 2024-11-01 18:37:50
+last_modified_at: 2024-11-01 19:03:51
 ---
 
 Bruce Baker:

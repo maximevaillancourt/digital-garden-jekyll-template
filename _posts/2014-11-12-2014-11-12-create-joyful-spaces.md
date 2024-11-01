@@ -8,7 +8,7 @@ type: post
 published: true
 meta:
   passthrough_url: http://practicaltheory.org/blog/2014/11/11/create-joyful-space/
-last_modified_at: 2024-11-01 18:37:49
+last_modified_at: 2024-11-01 19:03:50
 ---
 
 Chris Lehman:

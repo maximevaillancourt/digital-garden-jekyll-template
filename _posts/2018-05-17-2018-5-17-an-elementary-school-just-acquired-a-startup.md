@@ -9,7 +9,7 @@ status: publish
 type: post
 published: true
 meta: {}
-last_modified_at: 2024-11-01 18:37:52
+last_modified_at: 2024-11-01 19:03:53
 ---
 
 Many educators today are worried about the competition they are getting from private schools, voucher options, and charter schools. In my research, the vast majority of these schools are still doing “school” essentially the same way. There’s a teacher up at the front of the room, teaching, and kids are “learning” from that teacher.

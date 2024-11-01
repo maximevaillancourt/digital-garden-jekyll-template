@@ -7,7 +7,7 @@ status: publish
 type: post
 published: true
 meta: {}
-last_modified_at: 2024-11-01 18:37:50
+last_modified_at: 2024-11-01 19:03:51
 ---
 
 In dealing with students, teachers and parents, I have learned something very important. I'm not sure who said it first, but 

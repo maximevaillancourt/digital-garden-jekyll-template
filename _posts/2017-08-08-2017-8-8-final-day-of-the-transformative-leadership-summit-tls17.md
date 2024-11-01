@@ -9,7 +9,7 @@ published: true
 meta:
   passthrough_url: https://gc319.isrefer.com/go/tls17/tehjunction/blog
   _thumbnail_id: '183'
-last_modified_at: 2024-11-01 18:37:52
+last_modified_at: 2024-11-01 19:03:53
 ---
 
 Can you believe it? Today is the last day of the Transformative Leadership Summit!

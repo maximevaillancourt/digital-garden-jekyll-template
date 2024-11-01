@@ -11,7 +11,7 @@ type: post
 published: true
 meta:
   _thumbnail_id: '134'
-last_modified_at: 2024-11-01 18:37:53
+last_modified_at: 2024-11-01 19:03:54
 ---
 
 Many times when we talk about proficiency, we say that the highest form of a student mastery of a given task is their ability to teach it to someone else.

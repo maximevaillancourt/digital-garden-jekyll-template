@@ -7,7 +7,7 @@ status: publish
 type: post
 published: true
 meta: {}
-last_modified_at: 2024-11-01 18:37:51
+last_modified_at: 2024-11-01 19:03:53
 ---
 
 [Karl Fisch](http://thefischbowl.blogspot.com/2015/07/care-enough-to-be-uncomfortable.html) on why we don't pursue change in education, even when we know it is what is best for students:

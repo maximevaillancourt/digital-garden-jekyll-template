@@ -12,7 +12,7 @@ type: post
 published: true
 meta:
   _thumbnail_id: '27'
-last_modified_at: 2024-11-01 18:37:54
+last_modified_at: 2024-11-01 19:03:55
 ---
 
 TLDR; How to get class sizes down to 16 per teacher in a pandemic? Focus on families

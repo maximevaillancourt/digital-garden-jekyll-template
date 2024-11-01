@@ -10,7 +10,7 @@ type: post
 published: true
 meta:
   _thumbnail_id: '251'
-last_modified_at: 2024-11-01 18:37:51
+last_modified_at: 2024-11-01 19:03:53
 ---
 
 On August 19th, 14 dedicated teachers, 3 super-star paraprofessionals, and a mental health clinician joined Assistant Principal 

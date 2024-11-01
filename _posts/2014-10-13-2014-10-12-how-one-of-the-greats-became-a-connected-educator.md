@@ -8,7 +8,7 @@ type: post
 published: true
 meta:
   passthrough_url: http://esheninger.blogspot.com/2014/10/one-day-that-changed-everything.html
-last_modified_at: 2024-11-01 18:37:48
+last_modified_at: 2024-11-01 19:03:49
 ---
 
 Eric Sheninger describes what his school looked like before he became a connected educator:

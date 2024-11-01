@@ -12,7 +12,7 @@ type: post
 published: true
 meta:
   _thumbnail_id: '41'
-last_modified_at: 2024-11-01 18:37:54
+last_modified_at: 2024-11-01 19:03:55
 ---
 
 In my mastermind this week, the hot seat question a principal is bringing forward is:

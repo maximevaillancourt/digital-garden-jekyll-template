@@ -8,7 +8,7 @@ type: post
 published: true
 meta:
   _thumbnail_id: '112'
-last_modified_at: 2024-11-01 18:37:53
+last_modified_at: 2024-11-01 19:03:54
 ---
 
 I have talked to a lot of school principals about how they do their work. I've figured out that it sustainable change that can be extended over years comes down to three things:

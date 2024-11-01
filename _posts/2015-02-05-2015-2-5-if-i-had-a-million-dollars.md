@@ -8,7 +8,7 @@ type: post
 published: true
 meta:
   passthrough_url: http://thefischbowl.blogspot.com/2015/02/if-i-had-million-dollars.html?m=1
-last_modified_at: 2024-11-01 18:37:50
+last_modified_at: 2024-11-01 19:03:51
 ---
 
 Karl Fisch:

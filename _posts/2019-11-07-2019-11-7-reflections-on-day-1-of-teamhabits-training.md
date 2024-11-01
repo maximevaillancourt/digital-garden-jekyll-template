@@ -8,7 +8,7 @@ status: publish
 type: post
 published: true
 meta: {}
-last_modified_at: 2024-11-01 18:37:54
+last_modified_at: 2024-11-01 19:03:55
 ---
 
 Right now, I'm in Denver at a training for the Team Habits training by Ed Elements. The training is based on a book by Anthony Kim, Kawai Lai, and Keara Mascareñez.

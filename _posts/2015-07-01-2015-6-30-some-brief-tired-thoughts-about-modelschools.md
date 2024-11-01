@@ -7,7 +7,7 @@ status: publish
 type: post
 published: true
 meta: {}
-last_modified_at: 2024-11-01 18:37:51
+last_modified_at: 2024-11-01 19:03:52
 ---
 
 The first thing that I have to say, is wow! The model schools conference is amazing! What is so awesome about it is that there are real teacher is doing real things in real schools with real students and they are sharing the amazing things that they are doing! It is just incredible.

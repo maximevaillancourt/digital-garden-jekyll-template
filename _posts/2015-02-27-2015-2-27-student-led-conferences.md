@@ -8,7 +8,7 @@ type: post
 published: true
 meta:
   passthrough_url: http://sledeaux84.wordpress.com/2015/02/21/increase-rigor-by-relinquishing-control-2/
-last_modified_at: 2024-11-01 18:37:50
+last_modified_at: 2024-11-01 19:03:52
 ---
 
 Sam Ledeaux:

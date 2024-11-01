@@ -8,7 +8,7 @@ status: publish
 type: post
 published: true
 meta: {}
-last_modified_at: 2024-11-01 18:37:48
+last_modified_at: 2024-11-01 19:03:49
 ---
 
 [ ](https://discussions.apple.com/message/20904061#20904061?ac_cid=op123456%2320904061)Instagram is a pretty popular web site. I use it occasionally, but my wife uses it much more than I do. I recently bought her a calendar of her Instagram pictures, because she is always trying to figure out a way to print those pictures out. 

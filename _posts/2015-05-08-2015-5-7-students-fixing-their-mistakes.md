@@ -8,7 +8,7 @@ type: post
 published: true
 meta:
   passthrough_url: http://adjustingcourse.wordpress.com/2015/05/07/true-learner-empowerment/
-last_modified_at: 2024-11-01 18:37:51
+last_modified_at: 2024-11-01 19:03:52
 ---
 
 Brad Gustafson:

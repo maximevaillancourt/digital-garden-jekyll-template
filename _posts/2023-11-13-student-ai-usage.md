@@ -7,7 +7,7 @@ status: publish
 type: post
 published: true
 meta: {}
-last_modified_at: 2024-11-01 18:37:54
+last_modified_at: 2024-11-01 19:03:55
 ---
 
 I really hate that everyone is worried about students using AI to cheat. But, with that being all the rage, I’m introducing  the AI Usage Reflection Survey - a practical tool designed with today's digital learning environment in mind. As we navigate the ever-evolving landscape of technology in education, it's important to guide our students in using artificial intelligence (AI) as a means to enrich their learning, not just as a workaround for academic challenges.

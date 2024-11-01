@@ -7,7 +7,7 @@ status: publish
 type: post
 published: true
 meta: {}
-last_modified_at: 2024-11-01 18:37:48
+last_modified_at: 2024-11-01 19:03:49
 ---
 
 If you are looking to go paperless in the new year, here are two important tips:

@@ -7,7 +7,7 @@ status: publish
 type: post
 published: true
 meta: {}
-last_modified_at: 2024-11-01 18:37:48
+last_modified_at: 2024-11-01 19:03:49
 ---
 
 Every day, an AppleTV displays pictures of our kids doing awesome things at our school. Sometimes they are feats of strength, sometimes they are just kids walking in the hall quietly. Always, the pictures are exciting for the kids to see and remind them of appropriate behavior.

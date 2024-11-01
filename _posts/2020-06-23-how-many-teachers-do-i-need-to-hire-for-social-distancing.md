@@ -10,7 +10,7 @@ type: post
 published: true
 meta:
   _thumbnail_id: '37'
-last_modified_at: 2024-11-01 18:37:54
+last_modified_at: 2024-11-01 19:03:55
 ---
 
 With the coronavirus closures, so many schools don’t know what it’s going to look like this fall.

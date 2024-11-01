@@ -7,7 +7,7 @@ status: publish
 type: post
 published: true
 meta: {}
-last_modified_at: 2024-11-01 18:37:50
+last_modified_at: 2024-11-01 19:03:51
 ---
 
 >“Boston public schools have been saying for many years that we need a longer school day,” said Michael O’Neill, chairman of the School Committee. “But a longer day isn’t effective unless you also transform the quality of the education.”

@@ -8,7 +8,7 @@ status: publish
 type: post
 published: true
 meta: {}
-last_modified_at: 2024-11-01 18:37:52
+last_modified_at: 2024-11-01 19:03:53
 ---
 
 It's time to head home from a great conference.

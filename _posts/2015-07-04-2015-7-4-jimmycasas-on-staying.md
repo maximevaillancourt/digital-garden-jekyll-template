@@ -7,7 +7,7 @@ status: publish
 type: post
 published: true
 meta: {}
-last_modified_at: 2024-11-01 18:37:51
+last_modified_at: 2024-11-01 19:03:53
 ---
 
 [PASSION...PURPOSE...PRIDE: What Makes You Stay?](http://jimmycasas.blogspot.com/2015/05/what-makes-you-stay.html?m=1)

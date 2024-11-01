@@ -8,7 +8,7 @@ type: post
 published: true
 meta:
   passthrough_url: http://practicaltheory.org/blog/2015/04/02/dont-lock-it-down/
-last_modified_at: 2024-11-01 18:37:51
+last_modified_at: 2024-11-01 19:03:52
 ---
 
 Chris Lehman:

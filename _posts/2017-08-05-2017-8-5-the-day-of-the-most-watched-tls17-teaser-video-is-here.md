@@ -9,7 +9,7 @@ published: true
 meta:
   passthrough_url: https://gc319.infusionsoft.com/app/orderForms/2017-All-Access-Pass
   _thumbnail_id: '187'
-last_modified_at: 2024-11-01 18:37:52
+last_modified_at: 2024-11-01 19:03:53
 ---
 
 I hope your Saturday schedule is cleared! Get your yard work done and enjoy this awesome day of learning. 

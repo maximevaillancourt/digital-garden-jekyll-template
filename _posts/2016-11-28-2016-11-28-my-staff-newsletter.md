@@ -7,7 +7,7 @@ status: publish
 type: post
 published: true
 meta: {}
-last_modified_at: 2024-11-01 18:37:52
+last_modified_at: 2024-11-01 19:03:53
 ---
 
 I do a newsletter for my staff each week. For some reason, it is really difficult to write. Some people enjoy it. Some probably trash it right away. ;) That's ok, one person suggested I share it more broadly. So here it is:

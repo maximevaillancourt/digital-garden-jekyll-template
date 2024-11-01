@@ -8,7 +8,7 @@ status: publish
 type: post
 published: true
 meta: {}
-last_modified_at: 2024-11-01 18:37:54
+last_modified_at: 2024-11-01 19:03:55
 ---
 
 First, it starts with a realization that people have choice. Especially in education, but probably in all sectors, we have assumed that people want to come work for us. I think this is a bad step.

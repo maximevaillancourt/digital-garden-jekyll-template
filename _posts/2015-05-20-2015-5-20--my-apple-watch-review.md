@@ -7,7 +7,7 @@ status: publish
 type: post
 published: true
 meta: {}
-last_modified_at: 2024-11-01 18:37:51
+last_modified_at: 2024-11-01 19:03:52
 ---
 
 I have now had the Apple Watch for three weeks. I thought it would be good to jot down some thoughts about it. You know, for posterity.

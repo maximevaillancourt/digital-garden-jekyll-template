@@ -8,7 +8,7 @@ type: post
 published: true
 meta:
   _thumbnail_id: '10'
-last_modified_at: 2024-11-01 18:37:54
+last_modified_at: 2024-11-01 19:03:55
 ---
 
 ![](/squarespace_images/content_v1_4fffa949e4b0b4590d67b4e7_f4b6e16e-e75b-4df7-b62a-41a804aae8c7_Create_an_image_that_shows_a_teacher_overburdened_with_grading_in_her_classroom.png_)

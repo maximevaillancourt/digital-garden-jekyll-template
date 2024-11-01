@@ -10,7 +10,7 @@ type: post
 published: true
 meta:
   _thumbnail_id: '243'
-last_modified_at: 2024-11-01 18:37:52
+last_modified_at: 2024-11-01 19:03:53
 ---
 
 I really love presenting to groups. It is very fun for me. I know it makes some people nervous, but it is just awesome for me. It fires me up and gets me excited.

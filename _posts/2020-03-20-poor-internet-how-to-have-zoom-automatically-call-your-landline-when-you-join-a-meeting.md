@@ -12,7 +12,7 @@ status: publish
 type: post
 published: true
 meta: {}
-last_modified_at: 2024-11-01 18:37:54
+last_modified_at: 2024-11-01 19:03:55
 ---
 
 Not everybody has good reliable internet at home, and sometimes Zoom Meetings don’t work especially well.

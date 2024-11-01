@@ -13,7 +13,7 @@ status: publish
 type: post
 published: true
 meta: {}
-last_modified_at: 2024-11-01 18:37:54
+last_modified_at: 2024-11-01 19:03:55
 ---
 
 After experiencing a mid-year resignation, a principal came to me frustrated and upset. This principal thought that a good interview process could have filtered out a teacher that didn’t have what it takes to be a good teacher. Another principal also considered her own shortcomings as a leader and wondered if her weaknesses had driven this teacher out in the middle of the year.

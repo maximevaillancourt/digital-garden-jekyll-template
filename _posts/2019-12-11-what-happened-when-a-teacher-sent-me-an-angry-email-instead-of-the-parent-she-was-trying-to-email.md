@@ -14,7 +14,7 @@ status: publish
 type: post
 published: true
 meta: {}
-last_modified_at: 2024-11-01 18:37:54
+last_modified_at: 2024-11-01 19:03:55
 ---
 
 The other day, I got an email that was not intended for me. I was accitdentally copied on an email sent to a parent about a student in class.
