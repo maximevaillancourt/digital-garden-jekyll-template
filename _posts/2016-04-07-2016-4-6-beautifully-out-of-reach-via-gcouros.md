@@ -7,6 +7,7 @@ status: publish
 type: post
 published: true
 meta: {}
+last_modified_at: 2024-11-01 18:37:52
 ---
 
 [Beautifully Out of Reach | Connected Principals](http://connectedprincipals.com/archives/12439)

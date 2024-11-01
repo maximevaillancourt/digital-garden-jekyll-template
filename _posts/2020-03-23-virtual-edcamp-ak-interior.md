@@ -9,6 +9,7 @@ status: publish
 type: post
 published: true
 meta: {}
+last_modified_at: 2024-11-01 18:37:54
 ---
 
 This last weekend we conducted a virtual EdCamp.

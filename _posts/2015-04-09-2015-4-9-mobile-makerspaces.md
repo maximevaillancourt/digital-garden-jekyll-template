@@ -8,6 +8,7 @@ type: post
 published: true
 meta:
   passthrough_url: http://adjustingcourse.wordpress.com/2015/04/08/mobile-makerspaces/
+last_modified_at: 2024-11-01 18:37:51
 ---
 
 Brad Gustafson:

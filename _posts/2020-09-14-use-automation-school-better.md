@@ -12,6 +12,7 @@ type: post
 published: true
 meta:
   _thumbnail_id: '23'
+last_modified_at: 2024-11-01 18:37:54
 ---
 
 This spring, when the coronavirus closures happened, it changed things for a lot of people, myself included. It seems like I’ve got more on my plate than ever before, and less help to make it happen! 

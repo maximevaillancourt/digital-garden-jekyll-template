@@ -8,6 +8,7 @@ status: publish
 type: post
 published: true
 meta: {}
+last_modified_at: 2024-11-01 18:37:53
 ---
 
 Last night at youth activity at my church, we played a couple games. Here are the general rules:

@@ -7,6 +7,7 @@ status: publish
 type: post
 published: true
 meta: {}
+last_modified_at: 2024-11-01 18:37:51
 ---From 
 [MacStories](http://www.macstories.net/ios/graava-action-camera-and-watchos-2/%20<http://www.macstories.net/ios/graava-action-camera-and-watchos-2/)
 

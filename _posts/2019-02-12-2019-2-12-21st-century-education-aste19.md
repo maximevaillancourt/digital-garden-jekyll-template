@@ -7,6 +7,7 @@ status: publish
 type: post
 published: true
 meta: {}
+last_modified_at: 2024-11-01 18:37:53
 ---
 
 When I first started teaching, anytime someone said 21st century education they were pretty much talking about technology.

@@ -8,6 +8,7 @@ type: post
 published: true
 meta:
   passthrough_url: http://sethgodin.typepad.com/seths_blog/2014/10/munchausen-by-proxy-and-the-media.html
+last_modified_at: 2024-11-01 18:37:49
 ---
 
 Seth Godin:

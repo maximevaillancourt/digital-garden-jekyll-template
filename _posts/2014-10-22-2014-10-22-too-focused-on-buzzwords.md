@@ -8,6 +8,7 @@ type: post
 published: true
 meta:
   passthrough_url: http://rafranzdavis.com/is-this-all-there-is-an-edtech-rant-of-sorts/
+last_modified_at: 2024-11-01 18:37:48
 ---
 
 Rafranz Davis

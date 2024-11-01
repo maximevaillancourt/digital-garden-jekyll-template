@@ -7,6 +7,7 @@ status: publish
 type: post
 published: true
 meta: {}
+last_modified_at: 2024-11-01 18:37:48
 ---
 
 In the book I help principals go through a process to determine what to do with documents on how to set up their own workflow. What you need to do with this flowchart is determine what you need to do with each piece paper and answer each question as you are going through. That will give you an idea of what you need to do each paper. The blue boxes are questions that you should ask yourself. And the green boxes are the solutions I provide in the book.

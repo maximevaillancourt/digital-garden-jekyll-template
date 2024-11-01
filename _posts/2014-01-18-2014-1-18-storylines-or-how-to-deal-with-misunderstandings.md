@@ -10,6 +10,7 @@ type: post
 published: true
 meta:
   _thumbnail_id: '524'
+last_modified_at: 2024-11-01 18:37:48
 ---
 
 This is not about being a paperless principal, but using this strategy may save you paper later. ;)

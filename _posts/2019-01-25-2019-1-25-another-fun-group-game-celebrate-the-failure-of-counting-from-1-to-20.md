@@ -8,6 +8,7 @@ status: publish
 type: post
 published: true
 meta: {}
+last_modified_at: 2024-11-01 18:37:53
 ---
 
 In this game, players stand in a circle and need to count from 1 to 20, determining who says the next number by body actions. When someone messes up (the wrong person says a number, or someone doesn't say a number when they should, or doesn't do the correct action), then everyone celebrates the failure.

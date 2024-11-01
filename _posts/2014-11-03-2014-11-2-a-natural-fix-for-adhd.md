@@ -8,6 +8,7 @@ type: post
 published: true
 meta:
   passthrough_url: http://www.nytimes.com/2014/11/02/opinion/sunday/a-natural-fix-for-adhd.html?smid=fb-share&_r=0
+last_modified_at: 2024-11-01 18:37:49
 ---
 
 Richard Friedman:

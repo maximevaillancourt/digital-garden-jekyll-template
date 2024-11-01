@@ -8,6 +8,7 @@ type: post
 published: true
 meta:
   passthrough_url: http://practicaltheory.org/blog/2015/02/05/be-your-own-awesome-we-need-more-awesome/
+last_modified_at: 2024-11-01 18:37:50
 ---
 
 Chris Lehman:

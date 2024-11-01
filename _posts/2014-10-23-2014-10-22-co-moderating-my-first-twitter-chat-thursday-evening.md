@@ -8,6 +8,7 @@ type: post
 published: true
 meta:
   passthrough_url: http://connectedprincipals.com/archives/10951
+last_modified_at: 2024-11-01 18:37:48
 ---
 
 >The chat will be moderated by Brad Currie and Jethro Jones. Brad is [a] Middle School Vice Principal and Supervisor of Instruction for the Chester School District in Chester, NJ. He is also a co-founder of #satchat and the author of the recently released book 

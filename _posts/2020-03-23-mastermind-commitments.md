@@ -8,6 +8,7 @@ status: publish
 type: post
 published: true
 meta: {}
+last_modified_at: 2024-11-01 18:37:54
 ---
 
 As part of joining the mastermind, you and I agree to do certain things.

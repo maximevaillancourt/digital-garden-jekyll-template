@@ -7,6 +7,7 @@ status: publish
 type: post
 published: true
 meta: {}
+last_modified_at: 2024-11-01 18:37:51
 ---
 
 [That 'Useless' Liberal Arts Degree Has Become Tech's Hottest Ticket - Forbes](http://www.forbes.com/sites/georgeanders/2015/07/29/liberal-arts-degree-tech/)

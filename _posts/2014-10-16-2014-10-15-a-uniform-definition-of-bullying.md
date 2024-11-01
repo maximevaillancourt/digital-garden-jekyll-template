@@ -8,6 +8,7 @@ type: post
 published: true
 meta:
   passthrough_url: http://mobile.edweek.org/c.jsp?DISPATCHED=true&cid=25983841&item=http%3A%2F%2Fwww.edweek.org%2Few%2Farticles%2F2014%2F10%2F08%2F07bullying.h34.html
+last_modified_at: 2024-11-01 18:37:48
 ---
 
 >The uniform definition describes bullying as "any unwanted aggressive behavior(s) by another youth or group of youths who are not siblings or current dating partners that involves an observed or perceived power imbalance and is repeated multiple times or is highly likely to be repeated."

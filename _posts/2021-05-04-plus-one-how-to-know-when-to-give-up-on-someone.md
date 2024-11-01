@@ -10,6 +10,7 @@ status: publish
 type: post
 published: true
 meta: {}
+last_modified_at: 2024-11-01 18:37:54
 ---
 
 In the last couple weeks, a couple principals asked me, "How do I know when to work with someone and when to wish them well?" In other words, "How do I know when to fire someone?"

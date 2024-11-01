@@ -8,6 +8,7 @@ type: post
 published: true
 meta:
   passthrough_url: http://www.jethrojones.com/ken-daly/
+last_modified_at: 2024-11-01 18:37:49
 ---
 
 >Ken is a part-time teacher part-time Innovation Team member in his district, in Connecticut. He works A days as a teacher and B days as a researcher/implementer of high school reform.

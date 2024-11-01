@@ -9,6 +9,7 @@ type: post
 published: true
 meta:
   _thumbnail_id: '77'
+last_modified_at: 2024-11-01 18:37:54
 ---
 
 Most schools around the country (and globe) are right about at the end of the first quarter. Now, 1/4 of the way through the year, is a great time to ask yourself if the grades you’re giving out to students reflect your values?

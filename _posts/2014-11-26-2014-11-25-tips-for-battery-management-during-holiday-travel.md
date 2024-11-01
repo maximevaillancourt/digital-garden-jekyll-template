@@ -8,6 +8,7 @@ type: post
 published: true
 meta:
   passthrough_url: http://www.macdrifter.com/2014/11/battery-management-for-terrible-no-good-grueling-holiday-travel.html
+last_modified_at: 2024-11-01 18:37:49
 ---
 
 Gabe Weatherhead:

@@ -8,6 +8,7 @@ type: post
 published: true
 meta:
   passthrough_url: http://news.hjnews.com/allaccess/cache-q-a-new-logan-city-school-district-superintendent-discusses/article_4854b2ee-cc3c-11e4-a8ca-8f4807ca63c9.html?mode=jqm
+last_modified_at: 2024-11-01 18:37:51
 ---
 
 >I have had several professional experiences that I believe will guide my work as superintendent, but the experience that will help me the most is that of sending my own children to school. As a parent, I know what it means to send your children to school, hoping and trusting that the experiences they have that day will strengthen them and support their personal growth.

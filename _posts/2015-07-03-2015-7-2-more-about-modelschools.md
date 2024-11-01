@@ -8,6 +8,7 @@ type: post
 published: true
 meta:
   _thumbnail_id: '262'
+last_modified_at: 2024-11-01 18:37:51
 ---
 
 I thought I would take some time while traveling home to reflect a bit more on the model schools conference.

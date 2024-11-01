@@ -7,6 +7,7 @@ status: publish
 type: post
 published: true
 meta: {}
+last_modified_at: 2024-11-01 18:37:51
 ---
 
 [Adult Discipline, Not Kid Discipline | Practical Theory](http://practicaltheory.org/blog/2015/09/06/adult-discipline-not-kid-discipline/)

@@ -8,6 +8,7 @@ type: post
 published: true
 meta:
   passthrough_url: http://www.macstories.net/ios/workflow-tip-append-text-to-the-ios-clipboard/
+last_modified_at: 2024-11-01 18:37:50
 ---
 
 Frederico Viticci

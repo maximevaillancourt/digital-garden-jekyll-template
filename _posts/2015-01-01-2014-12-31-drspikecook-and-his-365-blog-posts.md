@@ -9,6 +9,7 @@ published: true
 meta:
   passthrough_url: http://drspikecook.com/2014/12/31/10-lessons/
   structured_content: '{"oembed":{},"overlay":true}'
+last_modified_at: 2024-11-01 18:37:50
 ---
 
 Spike Cook:

@@ -8,6 +8,7 @@ type: post
 published: true
 meta:
   _thumbnail_id: '507'
+last_modified_at: 2024-11-01 18:37:48
 ---
 
 I've been blogging for a long time, since 2006! As I transition to this new home, I know there are a lot of people who follow this blog, but don't comment. If you don't mind, I would love to hear what you have to say.

@@ -7,6 +7,7 @@ status: publish
 type: post
 published: true
 meta: {}
+last_modified_at: 2024-11-01 18:37:50
 ---
 
 I had the great fortune of attending the Principal's Academy Sponsored by 

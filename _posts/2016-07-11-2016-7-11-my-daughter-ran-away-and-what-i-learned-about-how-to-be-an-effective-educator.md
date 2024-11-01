@@ -10,6 +10,7 @@ type: post
 published: true
 meta:
   _thumbnail_id: '219'
+last_modified_at: 2024-11-01 18:37:52
 ---
 
 My daughter ran away while we were camping. She was supposed to just go to the bathroom, early in the morning, but instead went to go find someone. That's pretty scary to begin with, but it is more scary when compounded with the following factors:

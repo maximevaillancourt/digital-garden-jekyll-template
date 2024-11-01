@@ -8,6 +8,7 @@ type: post
 published: true
 meta:
   passthrough_url: http://blog.foxspecialedlaw.com/2014/11/the-connecticut-office-of-the-child-advocate-has-just-released-the-results-of-its-exhaustive-study-of-the-horrific-shooting-a.html
+last_modified_at: 2024-11-01 18:37:49
 ---
 
 Charles Fox:

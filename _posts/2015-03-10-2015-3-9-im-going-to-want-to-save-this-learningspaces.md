@@ -8,6 +8,7 @@ type: post
 published: true
 meta:
   passthrough_url: http://curtrees.com/2015/02/26/learning-space-design-2/
+last_modified_at: 2024-11-01 18:37:51
 ---
 
 Curt Rees:

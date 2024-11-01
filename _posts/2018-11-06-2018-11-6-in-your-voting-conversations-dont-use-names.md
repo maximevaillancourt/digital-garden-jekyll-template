@@ -10,6 +10,7 @@ status: publish
 type: post
 published: true
 meta: {}
+last_modified_at: 2024-11-01 18:37:52
 ---
 
 While everyone is getting out the vote, I'm going to challenge you to talk to your children about why you are voting the way you are voting.

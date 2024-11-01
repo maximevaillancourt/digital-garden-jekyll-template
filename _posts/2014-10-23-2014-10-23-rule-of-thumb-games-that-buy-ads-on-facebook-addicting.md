@@ -8,6 +8,7 @@ type: post
 published: true
 meta:
   passthrough_url: http://mashable.com/2014/10/22/royals-clash-of-clans/#:eyJzIjoidCIsImkiOiJfcXAyYzFkYW9hcnhtbDBiOSJ9
+last_modified_at: 2024-11-01 18:37:48
 ---
 
 Sam Laird at Mashable:
