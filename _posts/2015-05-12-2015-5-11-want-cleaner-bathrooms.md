@@ -8,6 +8,7 @@ type: post
 published: true
 meta:
   passthrough_url: http://thevisualcommunicationguy.com/2015/05/11/want-cleaner-bathrooms-draw-a-housefly-in-the-toilet/
+last_modified_at: 2024-11-01 18:37:51
 ---
 
 Curtis Newbold:

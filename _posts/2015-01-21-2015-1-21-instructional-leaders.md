@@ -8,6 +8,7 @@ type: post
 published: true
 meta:
   passthrough_url: http://blog.williamferriter.com/2015/01/16/my-longstanding-beef-with-instructional-leaders/
+last_modified_at: 2024-11-01 18:37:50
 ---
 
 Bill Ferriter:

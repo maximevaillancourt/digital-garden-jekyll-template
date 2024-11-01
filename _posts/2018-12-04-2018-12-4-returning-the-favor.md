@@ -8,6 +8,7 @@ status: publish
 type: post
 published: true
 meta: {}
+last_modified_at: 2024-11-01 18:37:53
 ---
 
 [Returning the Favor](https://www.facebook.com/ReturningTheFavor/videos/pens-and-pencils-all-in-a-rowe/1964830810454846/) is a show with Mike Rowe about giving back to people who do awesome things. The episode linked above is about a former teacher who collects schools supplies because schools are underfunded.

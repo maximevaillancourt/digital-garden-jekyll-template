@@ -11,6 +11,7 @@ type: post
 published: true
 meta:
   _thumbnail_id: '195'
+last_modified_at: 2024-11-01 18:37:52
 ---
 
 Monday is the big day for the launch of the Transformative Leadership Summit! I'm so excited. #TLS17

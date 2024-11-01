@@ -8,6 +8,7 @@ type: post
 published: true
 meta:
   passthrough_url: http://www.disabilityscoop.com/2014/11/14/teen-venture-capital/19847/
+last_modified_at: 2024-11-01 18:37:49
 ---
 
 Heather Sommerville >SANTA CLARA, Calif. — Last December, seventh-grader Shubham Banerjee asked his parents how people who are blind read.

@@ -7,6 +7,7 @@ status: publish
 type: post
 published: true
 meta: {}
+last_modified_at: 2024-11-01 18:37:52
 ---I've heard of 
 [Principal Kafele](http://principalkafele.com) before, and it was really amazing to hear him speak today. He spoke to a room full of principals and other leaders in Alaska. Very inspiring and moving words.
 

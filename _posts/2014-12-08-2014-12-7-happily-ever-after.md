@@ -8,6 +8,7 @@ type: post
 published: true
 meta:
   passthrough_url: http://vimeo.com/102897255
+last_modified_at: 2024-11-01 18:37:50
 ---
 
 I continue to believe that communication is the most powerful agent in any organization.

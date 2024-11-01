@@ -11,6 +11,7 @@ status: publish
 type: post
 published: true
 meta: {}
+last_modified_at: 2024-11-01 18:37:53
 ---
 
 Each week, my family sets goals. This year, we started setting monthly and yearly goals.

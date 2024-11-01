@@ -7,6 +7,7 @@ status: publish
 type: post
 published: true
 meta: {}
+last_modified_at: 2024-11-01 18:37:48
 ---
 
 Had a bear visit the neighbor's garbage can tonight. Not a great picture, but still, it was pretty remarkable.

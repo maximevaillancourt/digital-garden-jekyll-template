@@ -7,6 +7,7 @@ status: publish
 type: post
 published: true
 meta: {}
+last_modified_at: 2024-11-01 18:37:50
 ---
 
 [Tal Gross](http://www.washingtonpost.com/posteverything/wp/2014/12/30/this-year-im-resolving-to-ban-laptops-from-my-classroom/):

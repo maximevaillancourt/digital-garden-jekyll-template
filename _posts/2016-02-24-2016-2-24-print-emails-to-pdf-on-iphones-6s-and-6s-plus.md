@@ -7,6 +7,7 @@ status: publish
 type: post
 published: true
 meta: {}
+last_modified_at: 2024-11-01 18:37:52
 ---
 
 [iOS Tip: Export PDFs from Print Preview with 3D Touch – MacStories](https://www.macstories.net/ios/ios-tip-export-pdfs-from-print-preview-with-3d-touch/)

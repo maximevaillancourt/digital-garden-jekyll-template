@@ -7,6 +7,7 @@ status: publish
 type: post
 published: true
 meta: {}
+last_modified_at: 2024-11-01 18:37:53
 ---
 
 I got a Kindle for my birthday last October. It reminded me how much I enjoy reading.

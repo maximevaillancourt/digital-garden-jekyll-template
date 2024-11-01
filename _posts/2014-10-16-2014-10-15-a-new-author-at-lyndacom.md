@@ -8,6 +8,7 @@ type: post
 published: true
 meta:
   passthrough_url: http://www.lynda.com/articles/author/jethro-jones
+last_modified_at: 2024-11-01 18:37:48
 ---
 
 Here are the three articles I have written for Lynda.com so far. I love lynda.com and think what is provided by them is top notch. I feel honored to be able to contribute in my small way to their bigger vision.

@@ -8,6 +8,7 @@ status: publish
 type: post
 published: true
 meta: {}
+last_modified_at: 2024-11-01 18:37:54
 ---
 
 I've got a couple presentations coming up that you might be interested in. Two are virtual:

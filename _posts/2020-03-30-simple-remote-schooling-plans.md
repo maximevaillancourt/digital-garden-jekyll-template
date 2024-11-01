@@ -10,6 +10,7 @@ type: post
 published: true
 meta:
   _thumbnail_id: '51'
+last_modified_at: 2024-11-01 18:37:54
 ---
 
 As a digitally connected school leader, and a father of four children, I have seen many different approaches to this remote learning situation we find ourselves in.

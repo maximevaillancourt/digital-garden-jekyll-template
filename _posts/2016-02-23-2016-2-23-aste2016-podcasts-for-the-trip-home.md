@@ -9,6 +9,7 @@ status: publish
 type: post
 published: true
 meta: {}
+last_modified_at: 2024-11-01 18:37:52
 ---
 
 I had a great time this week at ASTE. I learned a lot and met some great people. I got lucky and was able to interview three of the four major presenters! You can subscribe to my podcast here: 

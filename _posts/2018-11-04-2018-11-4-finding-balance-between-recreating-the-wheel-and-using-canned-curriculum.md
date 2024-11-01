@@ -11,6 +11,7 @@ type: post
 published: true
 meta:
   _thumbnail_id: '175'
+last_modified_at: 2024-11-01 18:37:52
 ---
 
 When you think back to your great teachers, nobody ever says, "I loved this teacher because they implemented the curriculum with fidelity." But that is precisely what our purchases of those canned curriculum value, and preach.

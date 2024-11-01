@@ -7,6 +7,7 @@ status: publish
 type: post
 published: true
 meta: {}
+last_modified_at: 2024-11-01 18:37:52
 ---
 
 I’ve done ZAP in previous schools and, like most “fixes” in education, it’s a bandaid for an arterial wound.

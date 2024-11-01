@@ -10,6 +10,7 @@ status: publish
 type: post
 published: true
 meta: {}
+last_modified_at: 2024-11-01 18:37:53
 ---
 
 This week, I am releasing an interview with John and Rachael George, a husband and wife principal power team. While they may currently be in different districts, they have been doing this for years, and have great insight about how to make things happen in schools.

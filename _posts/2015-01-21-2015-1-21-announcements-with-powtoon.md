@@ -8,6 +8,7 @@ type: post
 published: true
 meta:
   passthrough_url: http://www.williamdparker.com/2015/01/21/jazzing-up-announcements-5-steps-to-publishing-a-powtoon/
+last_modified_at: 2024-11-01 18:37:50
 ---
 
 William Parker:

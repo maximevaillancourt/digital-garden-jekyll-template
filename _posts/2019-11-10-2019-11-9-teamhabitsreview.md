@@ -8,6 +8,7 @@ status: publish
 type: post
 published: true
 meta: {}
+last_modified_at: 2024-11-01 18:37:54
 ---
 
 ![Some visualization prototyping.](/squarespace_images/content_v1_4fffa949e4b0b4590d67b4e7_1573366503084-NC7V0ASGDA904G02XR8G_UNADJUSTEDNONRAW_thumb_380c.jpg_)

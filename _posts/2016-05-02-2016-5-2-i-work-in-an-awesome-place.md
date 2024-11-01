@@ -8,6 +8,7 @@ status: publish
 type: post
 published: true
 meta: {}
+last_modified_at: 2024-11-01 18:37:52
 ---
 
 This is my newsletter for this week to my team. I'm really grateful to work here.

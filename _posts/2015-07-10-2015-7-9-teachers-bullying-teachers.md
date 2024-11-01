@@ -7,6 +7,7 @@ status: publish
 type: post
 published: true
 meta: {}
+last_modified_at: 2024-11-01 18:37:51
 ---
 
 [The Principal's Pet: A Cautionary Tale | Cult of Pedagogy](http://www.cultofpedagogy.com/principal-favoritism/)

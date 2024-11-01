@@ -11,6 +11,7 @@ meta:
   passthrough_url: http://www.jethrojones.com/new-products/communication-cards
   structured_content: '{"oembed":{},"overlay":true}'
   _thumbnail_id: '366'
+last_modified_at: 2024-11-01 18:37:50
 ---
 
 A couple years ago I wrote a book called 

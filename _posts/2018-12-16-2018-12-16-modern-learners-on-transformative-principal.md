@@ -10,6 +10,7 @@ status: publish
 type: post
 published: true
 meta: {}
+last_modified_at: 2024-11-01 18:37:53
 ---Today on the podcast, I have an interview with 
 [Will Richardson and Bruce Dixon of Modern Learners](http://www.transformativeprincipal.org/modern-learners-with-will-richardson-and-bruce-dixon-transformative-principal-257/). It is a fantastic interview where they talk about Change.School and other great things that they are working on. 
 

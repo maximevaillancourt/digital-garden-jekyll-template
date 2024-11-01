@@ -7,6 +7,7 @@ status: publish
 type: post
 published: true
 meta: {}
+last_modified_at: 2024-11-01 18:37:49
 ---
 
 This post has been ruminating in my head for the last several years. The people I am going to talk about are amazing individuals, and I respect them very much. These are questions that I have had since I joined Twitter in 2007.
