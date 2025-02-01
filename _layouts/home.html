@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+  {% include head.html %}
+  <body>
+    <div class="wrapper">
+      <main>{{ content }}</main>
+      <footer>{% include footer.html %}</footer>
+    </div>
+
+    {% include link-previews.html wrapperQuerySelector="content" %}
+  </body>
+</html>

@@ -1,8 +1,5 @@
-$color-primary: hsl(0, 0%, 10%);
-$color-text: hsl(0, 0%, 20%);
-$color-subtext: hsl(0, 0%, 30%);
-$color-border: hsl(0, 0%, 85%);
-$color-box-background: mix($color-primary, white, 4%);
+@use 'colors' as *;
+
 $border-radius: 4px;
 $font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial,
   sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
@@ -14,9 +11,11 @@ body {
   line-height: 1.7;
   padding: 4vh 6vw;
   overflow-x: hidden;
-  color: $color-text;
+  color: $flexoki-black;
   font-size: 1rem;
   max-width: 63em;
+  background-color: $flexoki-paper;
+  color: $flexoki-black;
 
   @media (min-width: 820px) {
     font-size: 1.2rem;
@@ -25,14 +24,14 @@ body {
 
 time {
   display: block;
-  color: $color-subtext;
+  color: $flexoki-base-100;
   margin: 0.5em 0 1em;
 }
 
 footer {
   margin: 2em 0;
   font-size: 0.8em;
-  color: mix($color-text, white, 80%);
+  color: $flexoki-base-900;
   padding-top: 1em;
 }
 
@@ -44,24 +43,12 @@ img {
   border-radius: $border-radius;
 }
 
-blockquote {
-  padding: 1.5em;
-  margin: 0;
-  font-size: 0.88em;
-  background: $color-box-background;
-  border-radius: $border-radius;
-
-  p {
-    margin: 0;
-  }
-}
-
 hr {
   width: 100%;
   border: 0;
   height: 1px;
   margin: 1.5em 0;
-  background: $color-border;
+  background: $flexoki-base-100;
 }
 
 h1,
@@ -79,17 +66,15 @@ a {
   transition: background 300ms;
   padding: 0 0.1em;
   text-decoration: none;
-  border-bottom: 1px solid $color-border;
-  color: $color-primary;
+  border-bottom: 1px solid $my-green-300;
+  color: $flexoki-base-800;
   &:hover {
-    color: black !important;
-    background: #fffaf1;
+    color: $my-green-300 !important;
   }
   &:after {
     position: relative;
     top: -0.5em;
     font-size: 0.7em;
-    content: "↗";
     color: #aaaaaa;
   }
   &.internal-link:after,
@@ -97,11 +82,6 @@ a {
   &.reversefootnote:after {
     content: "";
   }
-}
-
-*:focus {
-  background: #ffe8bc !important;
-  color: black !important;
 }
 
 nav {
@@ -121,12 +101,6 @@ nav {
   }
 }
 
-.backlink-box {
-  background: $color-box-background;
-  padding: 1em;
-  border-radius: $border-radius;
-}
-
 code {
   background: #f5f5f5;
   padding: 0.1em 0.2em;
@@ -143,4 +117,142 @@ code {
 .invalid-link-brackets {
   color: #ccc;
   cursor: help;
+}
+
+.latest-update {
+  padding: 2em;
+  background: $flexoki-base-50;
+  border-radius: 8px;
+  margin: 2em 0;
+  border-left: 4px solid $my-green-400;
+}
+
+ul {
+  list-style-type: none; /* Removes the default bullet */
+  padding-left: 1em; /* Adjust the padding for indent */
+}
+
+ul li::before {
+  content: "-"; /* Adds a dash before each list item */
+  margin-right: 0.5em; /* Space between the dash and text */
+}
+
+input {
+  background-color: $flexoki-base-100;
+  color: $flexoki-black;
+
+  &:focus {
+    background-color: $flexoki-paper;
+    color: $flexoki-black;
+    border-color: $flexoki-base-300;
+  }
+
+  &:not(:focus) {
+    background-color: $flexoki-base-50;
+    color: $flexoki-black;
+  }
+}
+
+button {
+  display: inline-flex; /* Keeps buttons in a row while enabling flexbox */
+  align-items: center; /* Centers text vertically */
+  justify-content: center; /* Centers text horizontally */
+  padding: 8px 12px; /* Adjust padding for better spacing */
+  font-size: 14px;
+  line-height: 1; /* Ensures text is not pushed by line-height */
+  color: $flexoki-black;
+  border: 1px solid $flexoki-base-100;
+  background: $flexoki-base-50;
+  cursor: pointer;
+  margin: 2px;
+  border-radius: 4px;
+  height: 32px; /* Ensures consistent height */
+  white-space: nowrap; /* Prevents text wrapping */
+}
+button.active {
+  background: $my-green-600 !important;
+  color: $flexoki-base-50;
+  border-color: $my-green-700;
+}
+button:hover {
+  background: $my-green-400;
+  border-color: $my-green-500;
+  transition: opacity 0.8s ease-in-out;
+}
+
+.copy-icon {
+  font-size: 14px;
+  opacity: 0;
+  transition: opacity 0.4s ease-in-out;
+}
+.copyable-text:hover .copy-icon {
+  opacity: 1;
+}
+
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: $flexoki-black;
+    color: $flexoki-base-200;
+  }
+
+  a {
+    border-bottom: 1px solid $my-green-600;
+    color: $flexoki-base-300;
+    &:hover {
+      color: $my-green-600 !important;
+    }
+    &:after {
+      position: relative;
+      top: -0.5em;
+      font-size: 0.7em;
+      color: #aaaaaa;
+    }
+  }
+
+  *:focus {
+    background: $flexoki-base-900 !important;
+    color: $flexoki-base-200 !important;
+  }
+
+  .latest-update {
+    background: $flexoki-base-950;
+    border-left: 4px solid $my-green-400;
+  }
+
+  input {
+    background-color: $flexoki-black;
+    color: $flexoki-base-200;
+
+    &:focus {
+      background-color: white;
+      color: black;
+      border-color: $flexoki-base-800;
+    }
+
+    &:not(:focus) {
+      background-color: $flexoki-base-950;
+      color: $flexoki-base-200;
+      border-color: $flexoki-base-900;
+    }
+  }
+
+  button {
+    padding: 8px 8px;
+    font-size: 14px;
+    color: $flexoki-base-50;
+    border: 1px solid $flexoki-base-900;
+    background: $flexoki-base-950;
+    cursor: pointer;
+    margin: 2px;
+    border-radius: 4px;
+  }
+  button.active {
+    background: $my-green-600 !important;
+    color: $flexoki-base-50;
+    border-color: $my-green-700;
+  }
+  button:hover {
+    background: $my-green-800;
+    transition: opacity 0.8s ease-in-out;
+  }
 }
