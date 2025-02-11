@@ -31,10 +31,7 @@ If you'd like to quote other people, consider using quote blocks:
 
 And of course, images look great:
 
-<div class='card'> <img  src="{{ site.baseurl }}/assets/19.png"/></div>
-<div class='card'> <img  src="{{ site.baseurl }}/assets/18.png"/></div>
-<div class='card'> <img  src="{{ site.baseurl }}/assets/17.jpg"/></div>
-<div class='card'> <img  src="{{ site.baseurl }}/assets/15.jpg"/></div>
+
 
 You can also ==highlight some content== by wrapping it with `==`.
 
