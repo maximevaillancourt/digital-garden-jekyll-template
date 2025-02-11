@@ -31,7 +31,8 @@ If you'd like to quote other people, consider using quote blocks:
 
 And of course, images look great:
 
-
+![pics_5]({{ site.baseurl }}/assets/5.jpg)
+![pics_5|100]({{ site.baseurl }}/assets/5.jpg)
 
 You can also ==highlight some content== by wrapping it with `==`.
 
