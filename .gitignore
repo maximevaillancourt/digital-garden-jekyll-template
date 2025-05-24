@@ -13,3 +13,7 @@ _includes/notes_graph.json
 
 # Obsidian config
 .obsidian/
+
+# System files
+.DS_Store
+.Thumbs.db
