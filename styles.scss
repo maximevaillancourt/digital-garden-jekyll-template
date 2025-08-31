@@ -1,6 +1,6 @@
 ---
 ---
 
-@import "../_sass/normalize";
-@import "../_sass/code";
-@import "../_sass/style";
+@use "../_sass/normalize" as *;
+@use "../_sass/code" as *;
+@use "../_sass/style" as *;
